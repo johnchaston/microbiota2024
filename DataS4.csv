@@ -1,0 +1,989 @@
+﻿Position,code,Geography,Treatment,vialnum,Sex,PLATE,cfuA,cfuL,repexp,exp,total,GT,starved,bigexp,GS,TS,TG,aperc,lperc
+1A,B Choice F #1 plate1 1A N,B,Choice,B Choice F #1,F,plate1,128000,50,B Choice F #1,plate1,128050,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.999609528,0.000390472
+2A,B Choice F #2 plate1 2A N,B,Choice,B Choice F #2,F,plate1,1536000,500,B Choice F #2,plate1,1536500,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.999674585,0.000325415
+3A,B Choice F #3 plate1 3A N,B,Choice,B Choice F #3,F,plate1,99200,50,B Choice F #3,plate1,99250,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.999496222,0.000503778
+4A,B Control F #2 plate1 4A N,B,Control,B Control F #2,F,plate1,92800,100,B Control F #2,plate1,92900,BControl,N,Maggie,BF,ControlF,BControl,0.998923574,0.001076426
+5A,PA Choice F #1 plate1 5A N,PA,Choice,PA Choice F #1,F,plate1,89600,50,PA Choice F #1,plate1,89650,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,0.999442276,0.000557724
+6A,PA Choice F #2 plate1 6A N,PA,Choice,PA Choice F #2,F,plate1,972800,500,PA Choice F #2,plate1,973300,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,0.999486284,0.000513716
+7A,MD Choice F #1 plate1 7A N,MD,Choice,MD Choice F #1,F,plate1,768000,0,MD Choice F #1,plate1,768000,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,1,0
+8A,MD Control F #1 plate1 8A N,MD,Control,MD Control F #1,F,plate1,1331200,0,MD Control F #1,plate1,1331200,MDControl,N,Maggie,MDF,ControlF,MDControl,1,0
+9A,E Choice F #1 plate1 9A N,E,Choice,E Choice F #1,F,plate1,6800,0,E Choice F #1,plate1,6800,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+10A,E Control F #1 plate1 10A N,E,Control,E Control F #1,F,plate1,134400,0,E Control F #1,plate1,134400,EControl,N,Maggie,EF,ControlF,EControl,1,0
+11A,E Choice F #1 plate1 11A N,E,Choice,E Choice F #1,F,plate1,17200,0,E Choice F #1,plate1,17200,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+12A,E Choice F #2 plate1 12A N,E,Choice,E Choice F #2,F,plate1,768000,0,E Choice F #2,plate1,768000,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+1B,B Choice F #1 plate1 1B N,B,Choice,B Choice F #1,F,plate1,41600,2000,B Choice F #1,plate1,43600,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.95412844,0.04587156
+2B,B Choice F #2 plate1 2B N,B,Choice,B Choice F #2,F,plate1,11600,0,B Choice F #2,plate1,11600,BChoice,N,Maggie,BF,ChoiceF,BChoice,1,0
+3B,B Choice F #3 plate1 3B N,B,Choice,B Choice F #3,F,plate1,105600,0,B Choice F #3,plate1,105600,BChoice,N,Maggie,BF,ChoiceF,BChoice,1,0
+4B,B Control F #2 plate1 4B N,B,Control,B Control F #2,F,plate1,44800,4400,B Control F #2,plate1,49200,BControl,N,Maggie,BF,ControlF,BControl,0.910569106,0.089430894
+5B,PA Choice F #1 plate1 5B N,PA,Choice,PA Choice F #1,F,plate1,1600,0,PA Choice F #1,plate1,1600,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,1,0
+6B,PA Choice F #2 plate1 6B N,PA,Choice,PA Choice F #2,F,plate1,486400,0,PA Choice F #2,plate1,486400,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,1,0
+7B,MD Choice F #1 plate1 7B N,MD,Choice,MD Choice F #1,F,plate1,2400,0,MD Choice F #1,plate1,2400,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,1,0
+8B,MD Control F #1 plate1 8B N,MD,Control,MD Control F #1,F,plate1,2867200,100,MD Control F #1,plate1,2867300,MDControl,N,Maggie,MDF,ControlF,MDControl,0.999965124,3.49E-05
+9B,E Choice F #1 plate1 9B N,E,Choice,E Choice F #1,F,plate1,14800,0,E Choice F #1,plate1,14800,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+10B,E Control F #1 plate1 10B N,E,Control,E Control F #1,F,plate1,20400,0,E Control F #1,plate1,20400,EControl,N,Maggie,EF,ControlF,EControl,1,0
+11B,E Choice F #1 plate1 11B N,E,Choice,E Choice F #1,F,plate1,11200,0,E Choice F #1,plate1,11200,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+12B,E Choice F #2 plate1 12B N,E,Choice,E Choice F #2,F,plate1,131200,0,E Choice F #2,plate1,131200,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+1C,B Choice F #1 plate1 1C N,B,Choice,B Choice F #1,F,plate1,86400,2200,B Choice F #1,plate1,88600,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.9751693,0.0248307
+2C,B Choice F #2 plate1 2C N,B,Choice,B Choice F #2,F,plate1,105600,250,B Choice F #2,plate1,105850,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.997638167,0.002361833
+3C,B Choice F #3 plate1 3C N,B,Choice,B Choice F #3,F,plate1,384000,0,B Choice F #3,plate1,384000,BChoice,N,Maggie,BF,ChoiceF,BChoice,1,0
+4C,B Control F #2 plate1 4C N,B,Control,B Control F #2,F,plate1,150400,0,B Control F #2,plate1,150400,BControl,N,Maggie,BF,ControlF,BControl,1,0
+5C,PA Choice F #1 plate1 5C N,PA,Choice,PA Choice F #1,F,plate1,819200,50,PA Choice F #1,plate1,819250,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,0.999938969,6.10E-05
+6C,PA Choice F #2 plate1 6C N,PA,Choice,PA Choice F #2,F,plate1,11200,550,PA Choice F #2,plate1,11750,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,0.953191489,0.046808511
+7C,MD Choice F #1 plate1 7C N,MD,Choice,MD Choice F #1,F,plate1,4400,0,MD Choice F #1,plate1,4400,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,1,0
+8C,MD Control F #1 plate1 8C N,MD,Control,MD Control F #1,F,plate1,6400,0,MD Control F #1,plate1,6400,MDControl,N,Maggie,MDF,ControlF,MDControl,1,0
+9C,E Choice F #1 plate1 9C N,E,Choice,E Choice F #1,F,plate1,2800,0,E Choice F #1,plate1,2800,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+11C,E Choice F #1 plate1 11C N,E,Choice,E Choice F #1,F,plate1,76800,0,E Choice F #1,plate1,76800,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+12C,E Choice F #2 plate1 12C N,E,Choice,E Choice F #2,F,plate1,8800,0,E Choice F #2,plate1,8800,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+1D,B Choice F #1 plate1 1D N,B,Choice,B Choice F #1,F,plate1,118400,400,B Choice F #1,plate1,118800,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.996632997,0.003367003
+2D,B Choice F #2 plate1 2D N,B,Choice,B Choice F #2,F,plate1,105600,250,B Choice F #2,plate1,105850,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.997638167,0.002361833
+3D,B Choice F #3 plate1 3D N,B,Choice,B Choice F #3,F,plate1,4000,50,B Choice F #3,plate1,4050,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.987654321,0.012345679
+4D,B Control F #2 plate1 4D N,B,Control,B Control F #2,F,plate1,76800,0,B Control F #2,plate1,76800,BControl,N,Maggie,BF,ControlF,BControl,1,0
+5D,PA Choice F #1 plate1 5D N,PA,Choice,PA Choice F #1,F,plate1,1450,0,PA Choice F #1,plate1,1450,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,1,0
+6D,PA Choice F #2 plate1 6D N,PA,Choice,PA Choice F #2,F,plate1,1868800,0,PA Choice F #2,plate1,1868800,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,1,0
+7D,MD Choice F #1 plate1 7D N,MD,Choice,MD Choice F #1,F,plate1,588800,50,MD Choice F #1,plate1,588850,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,0.999915089,8.49E-05
+8D,MD Control F #1 plate1 8D N,MD,Control,MD Control F #1,F,plate1,50,0,MD Control F #1,plate1,50,MDControl,N,Maggie,MDF,ControlF,MDControl,1,0
+9D,E Choice F #1 plate1 9D N,E,Choice,E Choice F #1,F,plate1,153600,0,E Choice F #1,plate1,153600,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+10D,E Control F #1 plate1 10D N,E,Control,E Control F #1,F,plate1,400,0,E Control F #1,plate1,400,EControl,N,Maggie,EF,ControlF,EControl,1,0
+11D,E Choice F #1 plate1 11D N,E,Choice,E Choice F #1,F,plate1,1459200,0,E Choice F #1,plate1,1459200,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+12D,E Choice F #2 plate1 12D N,E,Choice,E Choice F #2,F,plate1,10000,250,E Choice F #2,plate1,10250,EChoice,N,Maggie,EF,ChoiceF,EChoice,0.975609756,0.024390244
+2E,B Choice M #2 plate1 2E N,B,Choice,B Choice M #2,M,plate1,25600,150,B Choice M #2,plate1,25750,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.994174757,0.005825243
+3E,B Choice M #3 plate1 3E N,B,Choice,B Choice M #3,M,plate1,1600,350,B Choice M #3,plate1,1950,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.820512821,0.179487179
+4E,B Control M #2 plate1 4E N,B,Control,B Control M #2,M,plate1,64000,300,B Control M #2,plate1,64300,BControl,N,Maggie,BM,ControlM,BControl,0.99533437,0.00466563
+5E,PA Choice M #1 plate1 5E N,PA,Choice,PA Choice M #1,M,plate1,2000,50,PA Choice M #1,plate1,2050,PAChoice,N,Maggie,PAM,ChoiceM,PAChoice,0.975609756,0.024390244
+6E,PA Choice M #2 plate1 6E N,PA,Choice,PA Choice M #2,M,plate1,7200,0,PA Choice M #2,plate1,7200,PAChoice,N,Maggie,PAM,ChoiceM,PAChoice,1,0
+7E,MD Choice M #1 plate1 7E N,MD,Choice,MD Choice M #1,M,plate1,281600,850,MD Choice M #1,plate1,282450,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,0.996990618,0.003009382
+9E,E Choice M #1 plate1 9E N,E,Choice,E Choice M #1,M,plate1,7600,0,E Choice M #1,plate1,7600,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+10E,E Control M #1 plate1 10E N,E,Control,E Control M #1,M,plate1,4800,0,E Control M #1,plate1,4800,EControl,N,Maggie,EM,ControlM,EControl,1,0
+11E,E Choice M #1 plate1 11E N,E,Choice,E Choice M #1,M,plate1,4800,0,E Choice M #1,plate1,4800,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+12E,E Choice M #2 plate1 12E N,E,Choice,E Choice M #2,M,plate1,60800,200,E Choice M #2,plate1,61000,EChoice,N,Maggie,EM,ChoiceM,EChoice,0.996721311,0.003278689
+2F,B Choice M #2 plate1 2F N,B,Choice,B Choice M #2,M,plate1,6000,350,B Choice M #2,plate1,6350,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.94488189,0.05511811
+3F,B Choice M #3 plate1 3F N,B,Choice,B Choice M #3,M,plate1,2000,50,B Choice M #3,plate1,2050,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.975609756,0.024390244
+4F,B Control M #2 plate1 4F N,B,Control,B Control M #2,M,plate1,38400,50,B Control M #2,plate1,38450,BControl,N,Maggie,BM,ControlM,BControl,0.99869961,0.00130039
+5F,PA Choice M #1 plate1 5F N,PA,Choice,PA Choice M #1,M,plate1,7200,0,PA Choice M #1,plate1,7200,PAChoice,N,Maggie,PAM,ChoiceM,PAChoice,1,0
+6F,PA Choice M #2 plate1 6F N,PA,Choice,PA Choice M #2,M,plate1,13200,0,PA Choice M #2,plate1,13200,PAChoice,N,Maggie,PAM,ChoiceM,PAChoice,1,0
+7F,MD Choice M #1 plate1 7F N,MD,Choice,MD Choice M #1,M,plate1,4000,50,MD Choice M #1,plate1,4050,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,0.987654321,0.012345679
+8F,MD Control M #1 plate1 8F N,MD,Control,MD Control M #1,M,plate1,7600,50,MD Control M #1,plate1,7650,MDControl,N,Maggie,MDM,ControlM,MDControl,0.993464052,0.006535948
+9F,E Choice M #1 plate1 9F N,E,Choice,E Choice M #1,M,plate1,5600,0,E Choice M #1,plate1,5600,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+11F,E Choice M #1 plate1 11F N,E,Choice,E Choice M #1,M,plate1,7200,0,E Choice M #1,plate1,7200,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+12F,E Choice M #2 plate1 12F N,E,Choice,E Choice M #2,M,plate1,8800,0,E Choice M #2,plate1,8800,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+2G,B Choice M #2 plate1 2G N,B,Choice,B Choice M #2,M,plate1,32000,150,B Choice M #2,plate1,32150,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.99533437,0.00466563
+3G,B Choice M #3 plate1 3G N,B,Choice,B Choice M #3,M,plate1,25600,200,B Choice M #3,plate1,25800,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.992248062,0.007751938
+4G,B Control M #2 plate1 4G N,B,Control,B Control M #2,M,plate1,41600,0,B Control M #2,plate1,41600,BControl,N,Maggie,BM,ControlM,BControl,1,0
+5G,PA Choice M #1 plate1 5G N,PA,Choice,PA Choice M #1,M,plate1,12800,0,PA Choice M #1,plate1,12800,PAChoice,N,Maggie,PAM,ChoiceM,PAChoice,1,0
+6G,PA Choice M #2 plate1 6G N,PA,Choice,PA Choice M #2,M,plate1,12000,0,PA Choice M #2,plate1,12000,PAChoice,N,Maggie,PAM,ChoiceM,PAChoice,1,0
+7G,MD Choice M #1 plate1 7G N,MD,Choice,MD Choice M #1,M,plate1,1600,0,MD Choice M #1,plate1,1600,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,1,0
+8G,MD Control M #1 plate1 8G N,MD,Control,MD Control M #1,M,plate1,1700,0,MD Control M #1,plate1,1700,MDControl,N,Maggie,MDM,ControlM,MDControl,1,0
+9G,E Choice M #1 plate1 9G N,E,Choice,E Choice M #1,M,plate1,8800,100,E Choice M #1,plate1,8900,EChoice,N,Maggie,EM,ChoiceM,EChoice,0.988764045,0.011235955
+10G,E Control M #1 plate1 10G N,E,Control,E Control M #1,M,plate1,22400,0,E Control M #1,plate1,22400,EControl,N,Maggie,EM,ControlM,EControl,1,0
+11G,E Choice M #1 plate1 11G N,E,Choice,E Choice M #1,M,plate1,3200,0,E Choice M #1,plate1,3200,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+12G,E Choice M #2 plate1 12G N,E,Choice,E Choice M #2,M,plate1,54400,700,E Choice M #2,plate1,55100,EChoice,N,Maggie,EM,ChoiceM,EChoice,0.987295826,0.012704174
+2H,B Choice M #2 plate1 2H N,B,Choice,B Choice M #2,M,plate1,38400,850,B Choice M #2,plate1,39250,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.978343949,0.021656051
+4H,B Control M #2 plate1 4H N,B,Control,B Control M #2,M,plate1,1600,0,B Control M #2,plate1,1600,BControl,N,Maggie,BM,ControlM,BControl,1,0
+5H,PA Choice M #1 plate1 5H N,PA,Choice,PA Choice M #1,M,plate1,10000,0,PA Choice M #1,plate1,10000,PAChoice,N,Maggie,PAM,ChoiceM,PAChoice,1,0
+6H,PA Choice M #2 plate1 6H N,PA,Choice,PA Choice M #2,M,plate1,8400,0,PA Choice M #2,plate1,8400,PAChoice,N,Maggie,PAM,ChoiceM,PAChoice,1,0
+7H,MD Choice M #1 plate1 7H N,MD,Choice,MD Choice M #1,M,plate1,5200,0,MD Choice M #1,plate1,5200,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,1,0
+9H,E Choice M #1 plate1 9H N,E,Choice,E Choice M #1,M,plate1,8000,0,E Choice M #1,plate1,8000,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+10H,E Control M #1 plate1 10H N,E,Control,E Control M #1,M,plate1,44800,100,E Control M #1,plate1,44900,EControl,N,Maggie,EM,ControlM,EControl,0.997772829,0.002227171
+11H,E Choice M #1 plate1 11H N,E,Choice,E Choice M #1,M,plate1,7200,600,E Choice M #1,plate1,7800,EChoice,N,Maggie,EM,ChoiceM,EChoice,0.923076923,0.076923077
+12H,E Choice M #2 plate1 12H N,E,Choice,E Choice M #2,M,plate1,67200,0,E Choice M #2,plate1,67200,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+1A,E Control F #2 plate2 1A N,E,Control,E Control F #2,F,plate2,18400,0,E Control F #2,plate2,18400,EControl,N,Maggie,EF,ControlF,EControl,1,0
+2A,L Control F #2 plate2 2A N,L,Control,L Control F #2,F,plate2,12800,0,L Control F #2,plate2,12800,LControl,N,Maggie,LF,ControlF,LControl,1,0
+3A,L Control F #3 plate2 3A N,L,Control,L Control F #3,F,plate2,1600,0,L Control F #3,plate2,1600,LControl,N,Maggie,LF,ControlF,LControl,1,0
+4A,L Choice F #3 plate2 4A N,L,Choice,L Choice F #3,F,plate2,41600,1100,L Choice F #3,plate2,42700,LChoice,N,Maggie,LF,ChoiceF,LChoice,0.974238876,0.025761124
+5A,L Choice F #2 plate2 5A N,L,Choice,L Choice F #2,F,plate2,70400,0,L Choice F #2,plate2,70400,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+6A,VA Choice F #1 plate2 6A N,VA,Choice,VA Choice F #1,F,plate2,200,0,VA Choice F #1,plate2,200,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+7A,VA Choice F #2 plate2 7A N,VA,Choice,VA Choice F #2,F,plate2,13200,0,VA Choice F #2,plate2,13200,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+8A,H Control F #1 plate2 8A N,H,Control,H Control F #1,F,plate2,16000,0,H Control F #1,plate2,16000,HControl,N,Maggie,HF,ControlF,HControl,1,0
+9A,H Control F #2 plate2 9A N,H,Control,H Control F #2,F,plate2,25600,150,H Control F #2,plate2,25750,HControl,N,Maggie,HF,ControlF,HControl,0.994174757,0.005825243
+10A,H Choice F #1 plate2 10A N,H,Choice,H Choice F #1,F,plate2,41600,250,H Choice F #1,plate2,41850,HChoice,N,Maggie,HF,ChoiceF,HChoice,0.994026284,0.005973716
+11A,H Choice F #2 plate2 11A N,H,Choice,H Choice F #2,F,plate2,115200,25600,H Choice F #2,plate2,140800,HChoice,N,Maggie,HF,ChoiceF,HChoice,0.818181818,0.181818182
+12A,H Choice F #3 plate2 12A N,H,Choice,H Choice F #3,F,plate2,64000,0,H Choice F #3,plate2,64000,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+1B,E Control F #2 plate2 1B N,E,Control,E Control F #2,F,plate2,563200,0,E Control F #2,plate2,563200,EControl,N,Maggie,EF,ControlF,EControl,1,0
+2B,L Control F #2 plate2 2B N,L,Control,L Control F #2,F,plate2,512000,0,L Control F #2,plate2,512000,LControl,N,Maggie,LF,ControlF,LControl,1,0
+3B,L Control F #3 plate2 3B N,L,Control,L Control F #3,F,plate2,48000,50,L Control F #3,plate2,48050,LControl,N,Maggie,LF,ControlF,LControl,0.998959417,0.001040583
+4B,L Choice F #3 plate2 4B N,L,Choice,L Choice F #3,F,plate2,12800,0,L Choice F #3,plate2,12800,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+5B,L Choice F #2 plate2 5B N,L,Choice,L Choice F #2,F,plate2,35200,50,L Choice F #2,plate2,35250,LChoice,N,Maggie,LF,ChoiceF,LChoice,0.99858156,0.00141844
+6B,VA Choice F #1 plate2 6B N,VA,Choice,VA Choice F #1,F,plate2,8000,0,VA Choice F #1,plate2,8000,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+7B,VA Choice F #2 plate2 7B N,VA,Choice,VA Choice F #2,F,plate2,80000,50,VA Choice F #2,plate2,80050,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.99937539,0.00062461
+8B,H Control F #1 plate2 8B N,H,Control,H Control F #1,F,plate2,25600,0,H Control F #1,plate2,25600,HControl,N,Maggie,HF,ControlF,HControl,1,0
+9B,H Control F #2 plate2 9B N,H,Control,H Control F #2,F,plate2,6400,0,H Control F #2,plate2,6400,HControl,N,Maggie,HF,ControlF,HControl,1,0
+10B,H Choice F #1 plate2 10B N,H,Choice,H Choice F #1,F,plate2,16000,100,H Choice F #1,plate2,16100,HChoice,N,Maggie,HF,ChoiceF,HChoice,0.99378882,0.00621118
+11B,H Choice F #2 plate2 11B N,H,Choice,H Choice F #2,F,plate2,1450,0,H Choice F #2,plate2,1450,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+12B,H Choice F #3 plate2 12B N,H,Choice,H Choice F #3,F,plate2,70400,200,H Choice F #3,plate2,70600,HChoice,N,Maggie,HF,ChoiceF,HChoice,0.997167139,0.002832861
+1C,E Control F #2 plate2 1C N,E,Control,E Control F #2,F,plate2,1700,0,E Control F #2,plate2,1700,EControl,N,Maggie,EF,ControlF,EControl,1,0
+2C,L Control F #2 plate2 2C N,L,Control,L Control F #2,F,plate2,460800,13600,L Control F #2,plate2,474400,LControl,N,Maggie,LF,ControlF,LControl,0.971332209,0.028667791
+3C,L Control F #3 plate2 3C N,L,Control,L Control F #3,F,plate2,450,0,L Control F #3,plate2,450,LControl,N,Maggie,LF,ControlF,LControl,1,0
+4C,L Choice F #3 plate2 4C N,L,Choice,L Choice F #3,F,plate2,54400,50,L Choice F #3,plate2,54450,LChoice,N,Maggie,LF,ChoiceF,LChoice,0.999081726,0.000918274
+5C,L Choice F #2 plate2 5C N,L,Choice,L Choice F #2,F,plate2,870400,0,L Choice F #2,plate2,870400,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+6C,VA Choice F #1 plate2 6C N,VA,Choice,VA Choice F #1,F,plate2,54400,0,VA Choice F #1,plate2,54400,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+7C,VA Choice F #2 plate2 7C N,VA,Choice,VA Choice F #2,F,plate2,38400,0,VA Choice F #2,plate2,38400,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+8C,H Control F #1 plate2 8C N,H,Control,H Control F #1,F,plate2,32000,0,H Control F #1,plate2,32000,HControl,N,Maggie,HF,ControlF,HControl,1,0
+9C,H Control F #2 plate2 9C N,H,Control,H Control F #2,F,plate2,844800,0,H Control F #2,plate2,844800,HControl,N,Maggie,HF,ControlF,HControl,1,0
+10C,H Choice F #1 plate2 10C N,H,Choice,H Choice F #1,F,plate2,83200,100,H Choice F #1,plate2,83300,HChoice,N,Maggie,HF,ChoiceF,HChoice,0.99879952,0.00120048
+11C,H Choice F #2 plate2 11C N,H,Choice,H Choice F #2,F,plate2,108800,0,H Choice F #2,plate2,108800,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+12C,H Choice F #3 plate2 12C N,H,Choice,H Choice F #3,F,plate2,22800,0,H Choice F #3,plate2,22800,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+3D,L Control F #3 plate2 3D N,L,Control,L Control F #3,F,plate2,5600,0,L Control F #3,plate2,5600,LControl,N,Maggie,LF,ControlF,LControl,1,0
+4D,L Choice F #3 plate2 4D N,L,Choice,L Choice F #3,F,plate2,800,0,L Choice F #3,plate2,800,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+5D,L Choice F #2 plate2 5D N,L,Choice,L Choice F #2,F,plate2,16000,0,L Choice F #2,plate2,16000,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+6D,VA Choice F #1 plate2 6D N,VA,Choice,VA Choice F #1,F,plate2,400,0,VA Choice F #1,plate2,400,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+7D,VA Choice F #2 plate2 7D N,VA,Choice,VA Choice F #2,F,plate2,9600,0,VA Choice F #2,plate2,9600,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+8D,H Control F #1 plate2 8D N,H,Control,H Control F #1,F,plate2,11200,0,H Control F #1,plate2,11200,HControl,N,Maggie,HF,ControlF,HControl,1,0
+9D,H Control F #2 plate2 9D N,H,Control,H Control F #2,F,plate2,1100,200,H Control F #2,plate2,1300,HControl,N,Maggie,HF,ControlF,HControl,0.846153846,0.153846154
+10D,H Choice F #1 plate2 10D N,H,Choice,H Choice F #1,F,plate2,3600,0,H Choice F #1,plate2,3600,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+11D,H Choice F #2 plate2 11D N,H,Choice,H Choice F #2,F,plate2,96000,0,H Choice F #2,plate2,96000,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+12D,H Choice F #3 plate2 12D N,H,Choice,H Choice F #3,F,plate2,11200,0,H Choice F #3,plate2,11200,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+1E,E Control M #2 plate2 1E N,E,Control,E Control M #2,M,plate2,2400,0,E Control M #2,plate2,2400,EControl,N,Maggie,EM,ControlM,EControl,1,0
+2E,L Control M #2 plate2 2E N,L,Control,L Control M #2,M,plate2,102400,0,L Control M #2,plate2,102400,LControl,N,Maggie,LM,ControlM,LControl,1,0
+3E,L Control M #3 plate2 3E N,L,Control,L Control M #3,M,plate2,1200,300,L Control M #3,plate2,1500,LControl,N,Maggie,LM,ControlM,LControl,0.8,0.2
+4E,L Choice M #3 plate2 4E N,L,Choice,L Choice M #3,M,plate2,2000,100,L Choice M #3,plate2,2100,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.952380952,0.047619048
+5E,L Choice M #2 plate2 5E N,L,Choice,L Choice M #2,M,plate2,3200,50,L Choice M #2,plate2,3250,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.984615385,0.015384615
+6E,VA Choice M #1 plate2 6E N,VA,Choice,VA Choice M #1,M,plate2,2800,450,VA Choice M #1,plate2,3250,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.861538462,0.138461538
+7E,VA Choice F #2 plate2 7E N,VA,Choice,VA Choice F #2,F,plate2,35200,0,VA Choice F #2,plate2,35200,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+8E,H Control M #1 plate2 8E N,H,Control,H Control M #1,M,plate2,41600,0,H Control M #1,plate2,41600,HControl,N,Maggie,HM,ControlM,HControl,1,0
+9E,H Control M #2 plate2 9E N,H,Control,H Control M #2,M,plate2,1000,0,H Control M #2,plate2,1000,HControl,N,Maggie,HM,ControlM,HControl,1,0
+10E,H Choice M #1 plate2 10E N,H,Choice,H Choice M #1,M,plate2,10800,0,H Choice M #1,plate2,10800,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+11E,H Choice M #2 plate2 11E N,H,Choice,H Choice M #2,M,plate2,11600,0,H Choice M #2,plate2,11600,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+12E,H Choice M #3 plate2 12E N,H,Choice,H Choice M #3,M,plate2,1600,0,H Choice M #3,plate2,1600,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+1F,E Control M #2 plate2 1F N,E,Control,E Control M #2,M,plate2,281600,0,E Control M #2,plate2,281600,EControl,N,Maggie,EM,ControlM,EControl,1,0
+2F,L Control M #2 plate2 2F N,L,Control,L Control M #2,M,plate2,12000,100,L Control M #2,plate2,12100,LControl,N,Maggie,LM,ControlM,LControl,0.991735537,0.008264463
+3F,L Control M #3 plate2 3F N,L,Control,L Control M #3,M,plate2,600,0,L Control M #3,plate2,600,LControl,N,Maggie,LM,ControlM,LControl,1,0
+4F,L Choice M #3 plate2 4F N,L,Choice,L Choice M #3,M,plate2,10800,1100,L Choice M #3,plate2,11900,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.907563025,0.092436975
+5F,L Choice M #2 plate2 5F N,L,Choice,L Choice M #2,M,plate2,51200,50,L Choice M #2,plate2,51250,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.99902439,0.00097561
+6F,VA Choice M #1 plate2 6F N,VA,Choice,VA Choice M #1,M,plate2,156800,50,VA Choice M #1,plate2,156850,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.999681224,0.000318776
+7F,VA Choice F #2 plate2 7F N,VA,Choice,VA Choice F #2,F,plate2,10000,50,VA Choice F #2,plate2,10050,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.995024876,0.004975124
+8F,H Control M #1 plate2 8F N,H,Control,H Control M #1,M,plate2,10400,0,H Control M #1,plate2,10400,HControl,N,Maggie,HM,ControlM,HControl,1,0
+9F,H Control M #2 plate2 9F N,H,Control,H Control M #2,M,plate2,9600,50,H Control M #2,plate2,9650,HControl,N,Maggie,HM,ControlM,HControl,0.994818653,0.005181347
+10F,H Choice M #1 plate2 10F N,H,Choice,H Choice M #1,M,plate2,7600,0,H Choice M #1,plate2,7600,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+11F,H Choice M #2 plate2 11F N,H,Choice,H Choice M #2,M,plate2,10800,0,H Choice M #2,plate2,10800,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+12F,H Choice M #3 plate2 12F N,H,Choice,H Choice M #3,M,plate2,14400,0,H Choice M #3,plate2,14400,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+1G,E Control M #2 plate2 1G N,E,Control,E Control M #2,M,plate2,12800,0,E Control M #2,plate2,12800,EControl,N,Maggie,EM,ControlM,EControl,1,0
+2G,L Control M #2 plate2 2G N,L,Control,L Control M #2,M,plate2,14000,0,L Control M #2,plate2,14000,LControl,N,Maggie,LM,ControlM,LControl,1,0
+3G,L Control M #3 plate2 3G N,L,Control,L Control M #3,M,plate2,8800,0,L Control M #3,plate2,8800,LControl,N,Maggie,LM,ControlM,LControl,1,0
+5G,L Choice M #2 plate2 5G N,L,Choice,L Choice M #2,M,plate2,57600,0,L Choice M #2,plate2,57600,LChoice,N,Maggie,LM,ChoiceM,LChoice,1,0
+6G,VA Choice M #1 plate2 6G N,VA,Choice,VA Choice M #1,M,plate2,105600,0,VA Choice M #1,plate2,105600,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+7G,VA Choice F #2 plate2 7G N,VA,Choice,VA Choice F #2,F,plate2,8800,50,VA Choice F #2,plate2,8850,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.994350282,0.005649718
+8G,H Control M #1 plate2 8G N,H,Control,H Control M #1,M,plate2,11200,0,H Control M #1,plate2,11200,HControl,N,Maggie,HM,ControlM,HControl,1,0
+9G,H Control M #2 plate2 9G N,H,Control,H Control M #2,M,plate2,80000,0,H Control M #2,plate2,80000,HControl,N,Maggie,HM,ControlM,HControl,1,0
+10G,H Choice M #1 plate2 10G N,H,Choice,H Choice M #1,M,plate2,17200,0,H Choice M #1,plate2,17200,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+11G,H Choice M #2 plate2 11G N,H,Choice,H Choice M #2,M,plate2,11200,0,H Choice M #2,plate2,11200,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+12G,H Choice M #3 plate2 12G N,H,Choice,H Choice M #3,M,plate2,1600,0,H Choice M #3,plate2,1600,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+1H,E Control M #2 plate2 1H N,E,Control,E Control M #2,M,plate2,9600,0,E Control M #2,plate2,9600,EControl,N,Maggie,EM,ControlM,EControl,1,0
+3H,L Control M #3 plate2 3H N,L,Control,L Control M #3,M,plate2,5200,0,L Control M #3,plate2,5200,LControl,N,Maggie,LM,ControlM,LControl,1,0
+4H,L Choice M #3 plate2 4H N,L,Choice,L Choice M #3,M,plate2,200,0,L Choice M #3,plate2,200,LChoice,N,Maggie,LM,ChoiceM,LChoice,1,0
+5H,L Choice M #2 plate2 5H N,L,Choice,L Choice M #2,M,plate2,5200,0,L Choice M #2,plate2,5200,LChoice,N,Maggie,LM,ChoiceM,LChoice,1,0
+6H,VA Choice M #1 plate2 6H N,VA,Choice,VA Choice M #1,M,plate2,5200,0,VA Choice M #1,plate2,5200,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+7H,VA Choice F #2 plate2 7H N,VA,Choice,VA Choice F #2,F,plate2,8400,0,VA Choice F #2,plate2,8400,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+8H,H Control M #1 plate2 8H N,H,Control,H Control M #1,M,plate2,128000,0,H Control M #1,plate2,128000,HControl,N,Maggie,HM,ControlM,HControl,1,0
+9H,H Control M #2 plate2 9H N,H,Control,H Control M #2,M,plate2,70400,0,H Control M #2,plate2,70400,HControl,N,Maggie,HM,ControlM,HControl,1,0
+10H,H Choice M #1 plate2 10H N,H,Choice,H Choice M #1,M,plate2,89600,0,H Choice M #1,plate2,89600,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+11H,H Choice M #2 plate2 11H N,H,Choice,H Choice M #2,M,plate2,54400,0,H Choice M #2,plate2,54400,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+12H,H Choice M #3 plate2 12H N,H,Choice,H Choice M #3,M,plate2,400,0,H Choice M #3,plate2,400,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+1A,D Control F #3 plate3 1A N,D,Control,D Control F #3,F,plate3,250,0,D Control F #3,plate3,250,DControl,N,Maggie,DF,ControlF,DControl,1,0
+3A,D Choice F #3 plate3 3A N,D,Choice,D Choice F #3,F,plate3,112000,800,D Choice F #3,plate3,112800,DChoice,N,Maggie,DF,ChoiceF,DChoice,0.992907801,0.007092199
+4A,D Choice F #2 plate3 4A N,D,Choice,D Choice F #2,F,plate3,2400,0,D Choice F #2,plate3,2400,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+5A,D Choice F #1 plate3 5A N,D,Choice,D Choice F #1,F,plate3,35200,0,D Choice F #1,plate3,35200,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+6A,D Control F #1 plate3 6A N,D,Control,D Control F #1,F,plate3,4000,0,D Control F #1,plate3,4000,DControl,N,Maggie,DF,ControlF,DControl,1,0
+7A,VA Control F #1 plate3 7A N,VA,Control,VA Control F #1,F,plate3,64000,450,VA Control F #1,plate3,64450,VAControl,N,Maggie,VAF,ControlF,VAControl,0.993017843,0.006982157
+8A,VA Control F #2 plate3 8A N,VA,Control,VA Control F #2,F,plate3,51200,0,VA Control F #2,plate3,51200,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+9A,B Control F #1 plate3 9A N,B,Control,B Control F #1,F,plate3,614400,0,B Control F #1,plate3,614400,BControl,N,Maggie,BF,ControlF,BControl,1,0
+10A,VA Choice F #3 plate3 10A N,VA,Choice,VA Choice F #3,F,plate3,92800,300,VA Choice F #3,plate3,93100,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.996777658,0.003222342
+11A,PA Control F #1 plate3 11A N,PA,Control,PA Control F #1,F,plate3,1200,0,PA Control F #1,plate3,1200,PAControl,N,Maggie,PAF,ControlF,PAControl,1,0
+1B,D Control F #3 plate3 1B N,D,Control,D Control F #3,F,plate3,50,0,D Control F #3,plate3,50,DControl,N,Maggie,DF,ControlF,DControl,1,0
+3B,D Choice F #3 plate3 3B N,D,Choice,D Choice F #3,F,plate3,32000,250,D Choice F #3,plate3,32250,DChoice,N,Maggie,DF,ChoiceF,DChoice,0.992248062,0.007751938
+4B,D Choice F #2 plate3 4B N,D,Choice,D Choice F #2,F,plate3,563200,300,D Choice F #2,plate3,563500,DChoice,N,Maggie,DF,ChoiceF,DChoice,0.999467613,0.000532387
+5B,D Choice F #1 plate3 5B N,D,Choice,D Choice F #1,F,plate3,44800,0,D Choice F #1,plate3,44800,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+6B,D Control F #1 plate3 6B N,D,Control,D Control F #1,F,plate3,400,0,D Control F #1,plate3,400,DControl,N,Maggie,DF,ControlF,DControl,1,0
+7B,VA Control F #1 plate3 7B N,VA,Control,VA Control F #1,F,plate3,64000,0,VA Control F #1,plate3,64000,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+8B,VA Control F #2 plate3 8B N,VA,Control,VA Control F #2,F,plate3,8400,100,VA Control F #2,plate3,8500,VAControl,N,Maggie,VAF,ControlF,VAControl,0.988235294,0.011764706
+9B,B Control F #1 plate3 9B N,B,Control,B Control F #1,F,plate3,83200,0,B Control F #1,plate3,83200,BControl,N,Maggie,BF,ControlF,BControl,1,0
+10B,VA Choice F #3 plate3 10B N,VA,Choice,VA Choice F #3,F,plate3,67200,1000,VA Choice F #3,plate3,68200,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.985337243,0.014662757
+11B,PA Control F #1 plate3 11B N,PA,Control,PA Control F #1,F,plate3,57600,0,PA Control F #1,plate3,57600,PAControl,N,Maggie,PAF,ControlF,PAControl,1,0
+4C,D Choice F #2 plate3 4C N,D,Choice,D Choice F #2,F,plate3,134400,0,D Choice F #2,plate3,134400,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+5C,D Choice F #1 plate3 5C N,D,Choice,D Choice F #1,F,plate3,15600,0,D Choice F #1,plate3,15600,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+6C,D Control F #1 plate3 6C N,D,Control,D Control F #1,F,plate3,1600,0,D Control F #1,plate3,1600,DControl,N,Maggie,DF,ControlF,DControl,1,0
+7C,VA Control F #1 plate3 7C N,VA,Control,VA Control F #1,F,plate3,54400,0,VA Control F #1,plate3,54400,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+9C,B Control F #1 plate3 9C N,B,Control,B Control F #1,F,plate3,76800,50,B Control F #1,plate3,76850,BControl,N,Maggie,BF,ControlF,BControl,0.999349382,0.000650618
+10C,VA Choice F #3 plate3 10C N,VA,Choice,VA Choice F #3,F,plate3,102400,150,VA Choice F #3,plate3,102550,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.998537299,0.001462701
+11C,PA Control F #1 plate3 11C N,PA,Control,PA Control F #1,F,plate3,41600,0,PA Control F #1,plate3,41600,PAControl,N,Maggie,PAF,ControlF,PAControl,1,0
+1D,D Control F #3 plate3 1D N,D,Control,D Control F #3,F,plate3,50,0,D Control F #3,plate3,50,DControl,N,Maggie,DF,ControlF,DControl,1,0
+4D,D Choice F #2 plate3 4D N,D,Choice,D Choice F #2,F,plate3,13600,0,D Choice F #2,plate3,13600,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+5D,D Choice F #1 plate3 5D N,D,Choice,D Choice F #1,F,plate3,8800,0,D Choice F #1,plate3,8800,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+7D,VA Control F #1 plate3 7D N,VA,Control,VA Control F #1,F,plate3,5200,0,VA Control F #1,plate3,5200,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+9D,B Control F #1 plate3 9D N,B,Control,B Control F #1,F,plate3,1459200,0,B Control F #1,plate3,1459200,BControl,N,Maggie,BF,ControlF,BControl,1,0
+10D,VA Choice F #3 plate3 10D N,VA,Choice,VA Choice F #3,F,plate3,28800,0,VA Choice F #3,plate3,28800,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+11D,PA Control F #1 plate3 11D N,PA,Control,PA Control F #1,F,plate3,4400,0,PA Control F #1,plate3,4400,PAControl,N,Maggie,PAF,ControlF,PAControl,1,0
+2E,D Control M #2 plate3 2E N,D,Control,D Control M #2,M,plate3,25600,4400,D Control M #2,plate3,30000,DControl,N,Maggie,DM,ControlM,DControl,0.853333333,0.146666667
+3E,D Choice M #3 plate3 3E N,D,Choice,D Choice M #3,M,plate3,11200,0,D Choice M #3,plate3,11200,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+4E,D Choice M #2 plate3 4E N,D,Choice,D Choice M #2,M,plate3,13600,0,D Choice M #2,plate3,13600,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+5E,D Choice M #1 plate3 5E N,D,Choice,D Choice M #1,M,plate3,5200,0,D Choice M #1,plate3,5200,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+6E,D Control M #1 plate3 6E N,D,Control,D Control M #1,M,plate3,4800,0,D Control M #1,plate3,4800,DControl,N,Maggie,DM,ControlM,DControl,1,0
+7E,VA Control M #1 plate3 7E N,VA,Control,VA Control M #1,M,plate3,102400,0,VA Control M #1,plate3,102400,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+8E,VA Control M #2 plate3 8E N,VA,Control,VA Control M #2,M,plate3,121600,0,VA Control M #2,plate3,121600,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+9E,B Control M #1 plate3 9E N,B,Control,B Control M #1,M,plate3,12400,300,B Control M #1,plate3,12700,BControl,N,Maggie,BM,ControlM,BControl,0.976377953,0.023622047
+10E,VA Choice M #3 plate3 10E N,VA,Choice,VA Choice M #3,M,plate3,15600,0,VA Choice M #3,plate3,15600,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+11E,PA Control M #1 plate3 11E N,PA,Control,PA Control M #1,M,plate3,1100,0,PA Control M #1,plate3,1100,PAControl,N,Maggie,PAM,ControlM,PAControl,1,0
+2F,D Control M #2 plate3 2F N,D,Control,D Control M #2,M,plate3,50,0,D Control M #2,plate3,50,DControl,N,Maggie,DM,ControlM,DControl,1,0
+3F,D Choice M #3 plate3 3F N,D,Choice,D Choice M #3,M,plate3,13600,0,D Choice M #3,plate3,13600,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+4F,D Choice M #2 plate3 4F N,D,Choice,D Choice M #2,M,plate3,8800,1200,D Choice M #2,plate3,10000,DChoice,N,Maggie,DM,ChoiceM,DChoice,0.88,0.12
+5F,D Choice M #1 plate3 5F N,D,Choice,D Choice M #1,M,plate3,12800,0,D Choice M #1,plate3,12800,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+6F,D Control M #1 plate3 6F N,D,Control,D Control M #1,M,plate3,8400,0,D Control M #1,plate3,8400,DControl,N,Maggie,DM,ControlM,DControl,1,0
+7F,VA Control M #1 plate3 7F N,VA,Control,VA Control M #1,M,plate3,13200,0,VA Control M #1,plate3,13200,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+8F,VA Control M #2 plate3 8F N,VA,Control,VA Control M #2,M,plate3,3200,0,VA Control M #2,plate3,3200,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+9F,B Control M #1 plate3 9F N,B,Control,B Control M #1,M,plate3,20800,0,B Control M #1,plate3,20800,BControl,N,Maggie,BM,ControlM,BControl,1,0
+10F,VA Choice M #3 plate3 10F N,VA,Choice,VA Choice M #3,M,plate3,14800,0,VA Choice M #3,plate3,14800,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+11F,PA Control M #1 plate3 11F N,PA,Control,PA Control M #1,M,plate3,2800,0,PA Control M #1,plate3,2800,PAControl,N,Maggie,PAM,ControlM,PAControl,1,0
+2G,D Control M #2 plate3 2G N,D,Control,D Control M #2,M,plate3,12000,50,D Control M #2,plate3,12050,DControl,N,Maggie,DM,ControlM,DControl,0.995850622,0.004149378
+3G,D Choice M #3 plate3 3G N,D,Choice,D Choice M #3,M,plate3,73600,0,D Choice M #3,plate3,73600,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+4G,D Choice M #2 plate3 4G N,D,Choice,D Choice M #2,M,plate3,48000,0,D Choice M #2,plate3,48000,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+5G,D Choice M #1 plate3 5G N,D,Choice,D Choice M #1,M,plate3,10000,0,D Choice M #1,plate3,10000,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+6G,D Control M #1 plate3 6G N,D,Control,D Control M #1,M,plate3,14800,0,D Control M #1,plate3,14800,DControl,N,Maggie,DM,ControlM,DControl,1,0
+7G,VA Control M #1 plate3 7G N,VA,Control,VA Control M #1,M,plate3,137600,250,VA Control M #1,plate3,137850,VAControl,N,Maggie,VAM,ControlM,VAControl,0.998186435,0.001813565
+8G,VA Control M #2 plate3 8G N,VA,Control,VA Control M #2,M,plate3,21200,0,VA Control M #2,plate3,21200,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+9G,B Control M #1 plate3 9G N,B,Control,B Control M #1,M,plate3,57600,200,B Control M #1,plate3,57800,BControl,N,Maggie,BM,ControlM,BControl,0.996539792,0.003460208
+11G,PA Control M #1 plate3 11G N,PA,Control,PA Control M #1,M,plate3,1800,0,PA Control M #1,plate3,1800,PAControl,N,Maggie,PAM,ControlM,PAControl,1,0
+1H,D Control M #3 plate3 1H N,D,Control,D Control M #3,M,plate3,150,0,D Control M #3,plate3,150,DControl,N,Maggie,DM,ControlM,DControl,1,0
+3H,D Choice M #3 plate3 3H N,D,Choice,D Choice M #3,M,plate3,50,0,D Choice M #3,plate3,50,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+4H,D Choice M #2 plate3 4H N,D,Choice,D Choice M #2,M,plate3,1600,150,D Choice M #2,plate3,1750,DChoice,N,Maggie,DM,ChoiceM,DChoice,0.914285714,0.085714286
+5H,D Choice M #1 plate3 5H N,D,Choice,D Choice M #1,M,plate3,1600,400,D Choice M #1,plate3,2000,DChoice,N,Maggie,DM,ChoiceM,DChoice,0.8,0.2
+6H,D Control M #1 plate3 6H N,D,Control,D Control M #1,M,plate3,14400,0,D Control M #1,plate3,14400,DControl,N,Maggie,DM,ControlM,DControl,1,0
+7H,VA Control M #1 plate3 7H N,VA,Control,VA Control M #1,M,plate3,6400,50,VA Control M #1,plate3,6450,VAControl,N,Maggie,VAM,ControlM,VAControl,0.992248062,0.007751938
+9H,B Control M #1 plate3 9H N,B,Control,B Control M #1,M,plate3,150,0,B Control M #1,plate3,150,BControl,N,Maggie,BM,ControlM,BControl,1,0
+10H,VA Choice M #3 plate3 10H N,VA,Choice,VA Choice M #3,M,plate3,134400,400,VA Choice M #3,plate3,134800,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.997032641,0.002967359
+11H,PA Control M #1 plate3 11H N,PA,Control,PA Control M #1,M,plate3,4800,1350,PA Control M #1,plate3,6150,PAControl,N,Maggie,PAM,ControlM,PAControl,0.780487805,0.219512195
+1A,B Control F #2 plate4 1A N,B,Control,B Control F #2,F,plate4,1152000,0,B Control F #2,plate4,1152000,BControl,N,Maggie,BF,ControlF,BControl,1,0
+2A,B Control F #1 plate4 2A N,B,Control,B Control F #1,F,plate4,57600,100,B Control F #1,plate4,57700,BControl,N,Maggie,BF,ControlF,BControl,0.998266898,0.001733102
+3A,B Choice F #1 plate4 3A N,B,Choice,B Choice F #1,F,plate4,1382400,2000,B Choice F #1,plate4,1384400,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.998555331,0.001444669
+4A,B Choice F #2 plate4 4A N,B,Choice,B Choice F #2,F,plate4,67200,0,B Choice F #2,plate4,67200,BChoice,N,Maggie,BF,ChoiceF,BChoice,1,0
+5A,MD Choice F #1 plate4 5A N,MD,Choice,MD Choice F #1,F,plate4,4403200,0,MD Choice F #1,plate4,4403200,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,1,0
+6A,MD Choice F #2 plate4 6A N,MD,Choice,MD Choice F #2,F,plate4,1587200,200,MD Choice F #2,plate4,1587400,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,0.999874008,0.000125992
+7A,D Choice F #1 plate4 7A N,D,Choice,D Choice F #1,F,plate4,32000,150,D Choice F #1,plate4,32150,DChoice,N,Maggie,DF,ChoiceF,DChoice,0.99533437,0.00466563
+8A,D Control F #1 plate4 8A N,D,Control,D Control F #1,F,plate4,640000,0,D Control F #1,plate4,640000,DControl,N,Maggie,DF,ControlF,DControl,1,0
+9A,VA Choice F #1 plate4 9A N,VA,Choice,VA Choice F #1,F,plate4,1126400,650,VA Choice F #1,plate4,1127050,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.999423273,0.000576727
+10A,H Choice F #1 plate4 10A N,H,Choice,H Choice F #1,F,plate4,51200,0,H Choice F #1,plate4,51200,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+11A,H Choice F #2 plate4 11A N,H,Choice,H Choice F #2,F,plate4,6656000,0,H Choice F #2,plate4,6656000,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+12A,VA Choice F #2 plate4 12A N,VA,Choice,VA Choice F #2,F,plate4,2457600,0,VA Choice F #2,plate4,2457600,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+1B,B Control F #2 plate4 1B N,B,Control,B Control F #2,F,plate4,870400,0,B Control F #2,plate4,870400,BControl,N,Maggie,BF,ControlF,BControl,1,0
+2B,B Control F #1 plate4 2B N,B,Control,B Control F #1,F,plate4,147200,650,B Control F #1,plate4,147850,BControl,N,Maggie,BF,ControlF,BControl,0.995603652,0.004396348
+5B,MD Choice F #1 plate4 5B N,MD,Choice,MD Choice F #1,F,plate4,1305600,0,MD Choice F #1,plate4,1305600,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,1,0
+6B,MD Choice F #2 plate4 6B N,MD,Choice,MD Choice F #2,F,plate4,1356800,50,MD Choice F #2,plate4,1356850,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,0.99996315,3.69E-05
+7B,D Choice F #1 plate4 7B N,D,Choice,D Choice F #1,F,plate4,870400,200,D Choice F #1,plate4,870600,DChoice,N,Maggie,DF,ChoiceF,DChoice,0.999770273,0.000229727
+8B,D Control F #1 plate4 8B N,D,Control,D Control F #1,F,plate4,563200,0,D Control F #1,plate4,563200,DControl,N,Maggie,DF,ControlF,DControl,1,0
+9B,VA Choice F #1 plate4 9B N,VA,Choice,VA Choice F #1,F,plate4,70400,0,VA Choice F #1,plate4,70400,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+10B,H Choice F #1 plate4 10B N,H,Choice,H Choice F #1,F,plate4,14000,500,H Choice F #1,plate4,14500,HChoice,N,Maggie,HF,ChoiceF,HChoice,0.965517241,0.034482759
+11B,H Choice F #2 plate4 11B N,H,Choice,H Choice F #2,F,plate4,115200,0,H Choice F #2,plate4,115200,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+12B,VA Choice F #2 plate4 12B N,VA,Choice,VA Choice F #2,F,plate4,1075200,900,VA Choice F #2,plate4,1076100,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.999163647,0.000836353
+2C,B Control F #1 plate4 2C N,B,Control,B Control F #1,F,plate4,409600,0,B Control F #1,plate4,409600,BControl,N,Maggie,BF,ControlF,BControl,1,0
+3C,B Choice F #1 plate4 3C N,B,Choice,B Choice F #1,F,plate4,2304000,450,B Choice F #1,plate4,2304450,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.999804726,0.000195274
+4C,B Choice F #2 plate4 4C N,B,Choice,B Choice F #2,F,plate4,1843200,150,B Choice F #2,plate4,1843350,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.999918626,8.14E-05
+5C,MD Choice F #1 plate4 5C N,MD,Choice,MD Choice F #1,F,plate4,22400,150,MD Choice F #1,plate4,22550,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,0.993348115,0.006651885
+6C,MD Choice F #2 plate4 6C N,MD,Choice,MD Choice F #2,F,plate4,588800,50,MD Choice F #2,plate4,588850,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,0.999915089,8.49E-05
+7C,D Choice F #1 plate4 7C N,D,Choice,D Choice F #1,F,plate4,307200,0,D Choice F #1,plate4,307200,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+8C,D Control F #1 plate4 8C N,D,Control,D Control F #1,F,plate4,998400,0,D Control F #1,plate4,998400,DControl,N,Maggie,DF,ControlF,DControl,1,0
+9C,VA Choice F #1 plate4 9C N,VA,Choice,VA Choice F #1,F,plate4,1331200,0,VA Choice F #1,plate4,1331200,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+10C,H Choice F #1 plate4 10C N,H,Choice,H Choice F #1,F,plate4,435200,400,H Choice F #1,plate4,435600,HChoice,N,Maggie,HF,ChoiceF,HChoice,0.999081726,0.000918274
+11C,H Choice F #2 plate4 11C N,H,Choice,H Choice F #2,F,plate4,819200,0,H Choice F #2,plate4,819200,HChoice,N,Maggie,HF,ChoiceF,HChoice,1,0
+12C,VA Choice F #2 plate4 12C N,VA,Choice,VA Choice F #2,F,plate4,1868800,50,VA Choice F #2,plate4,1868850,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.999973246,2.68E-05
+2D,B Control F #1 plate4 2D N,B,Control,B Control F #1,F,plate4,819200,150,B Control F #1,plate4,819350,BControl,N,Maggie,BF,ControlF,BControl,0.999816928,0.000183072
+4D,B Choice F #2 plate4 4D N,B,Choice,B Choice F #2,F,plate4,2000,0,B Choice F #2,plate4,2000,BChoice,N,Maggie,BF,ChoiceF,BChoice,1,0
+6D,MD Choice F #2 plate4 6D N,MD,Choice,MD Choice F #2,F,plate4,1100800,50,MD Choice F #2,plate4,1100850,MDChoice,N,Maggie,MDF,ChoiceF,MDChoice,0.999954581,4.54E-05
+7D,D Choice F #1 plate4 7D N,D,Choice,D Choice F #1,F,plate4,4608000,100,D Choice F #1,plate4,4608100,DChoice,N,Maggie,DF,ChoiceF,DChoice,0.999978299,2.17E-05
+8D,D Control F #1 plate4 8D N,D,Control,D Control F #1,F,plate4,460800,0,D Control F #1,plate4,460800,DControl,N,Maggie,DF,ControlF,DControl,1,0
+9D,VA Choice F #1 plate4 9D N,VA,Choice,VA Choice F #1,F,plate4,2764800,0,VA Choice F #1,plate4,2764800,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+10D,H Choice F #1 plate4 10D N,H,Choice,H Choice F #1,F,plate4,1049600,500,H Choice F #1,plate4,1050100,HChoice,N,Maggie,HF,ChoiceF,HChoice,0.999523855,0.000476145
+11D,H Choice F #2 plate4 11D N,H,Choice,H Choice F #2,F,plate4,14000,50,H Choice F #2,plate4,14050,HChoice,N,Maggie,HF,ChoiceF,HChoice,0.996441281,0.003558719
+12D,VA Choice F #2 plate4 12D N,VA,Choice,VA Choice F #2,F,plate4,947200,50,VA Choice F #2,plate4,947250,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.999947216,5.28E-05
+1E,B Control M #2 plate4 1E N,B,Control,B Control M #2,M,plate4,819200,0,B Control M #2,plate4,819200,BControl,N,Maggie,BM,ControlM,BControl,1,0
+2E,B Control M #1 plate4 2E N,B,Control,B Control M #1,M,plate4,512000,100,B Control M #1,plate4,512100,BControl,N,Maggie,BM,ControlM,BControl,0.999804726,0.000195274
+3E,B Choice M #1 plate4 3E N,B,Choice,B Choice M #1,M,plate4,1203200,550,B Choice M #1,plate4,1203750,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.999543094,0.000456906
+4E,B Choice M #2 plate4 4E N,B,Choice,B Choice M #2,M,plate4,51200,200,B Choice M #2,plate4,51400,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.996108949,0.003891051
+5E,MD Choice M #1 plate4 5E N,MD,Choice,MD Choice M #1,M,plate4,9200,250,MD Choice M #1,plate4,9450,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,0.973544974,0.026455026
+6E,MD Choice M #2 plate4 6E N,MD,Choice,MD Choice M #2,M,plate4,16400,900,MD Choice M #2,plate4,17300,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,0.947976879,0.052023121
+7E,D Choice M #1 plate4 7E N,D,Choice,D Choice M #1,M,plate4,800,0,D Choice M #1,plate4,800,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+8E,D Control M #1 plate4 8E N,D,Control,D Control M #1,M,plate4,134400,0,D Control M #1,plate4,134400,DControl,N,Maggie,DM,ControlM,DControl,1,0
+9E,VA Choice M #1 plate4 9E N,VA,Choice,VA Choice M #1,M,plate4,281600,0,VA Choice M #1,plate4,281600,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+10E,H Choice M #1 plate4 10E N,H,Choice,H Choice M #1,M,plate4,51200,0,H Choice M #1,plate4,51200,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+11E,H Choice M #2 plate4 11E N,H,Choice,H Choice M #2,M,plate4,92800,0,H Choice M #2,plate4,92800,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+12E,VA Choice M #2 plate4 12E N,VA,Choice,VA Choice M #2,M,plate4,102400,0,VA Choice M #2,plate4,102400,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+1F,B Control M #2 plate4 1F N,B,Control,B Control M #2,M,plate4,21600,0,B Control M #2,plate4,21600,BControl,N,Maggie,BM,ControlM,BControl,1,0
+2F,B Control M #1 plate4 2F N,B,Control,B Control M #1,M,plate4,6400,0,B Control M #1,plate4,6400,BControl,N,Maggie,BM,ControlM,BControl,1,0
+3F,B Choice M #1 plate4 3F N,B,Choice,B Choice M #1,M,plate4,3600,750,B Choice M #1,plate4,4350,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.827586207,0.172413793
+4F,B Choice M #2 plate4 4F N,B,Choice,B Choice M #2,M,plate4,44800,250,B Choice M #2,plate4,45050,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.99445061,0.00554939
+5F,MD Choice M #1 plate4 5F N,MD,Choice,MD Choice M #1,M,plate4,6400,0,MD Choice M #1,plate4,6400,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,1,0
+6F,MD Choice M #2 plate4 6F N,MD,Choice,MD Choice M #2,M,plate4,14800,150,MD Choice M #2,plate4,14950,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,0.989966555,0.010033445
+7F,D Choice M #1 plate4 7F N,D,Choice,D Choice M #1,M,plate4,4800,0,D Choice M #1,plate4,4800,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+8F,D Control M #1 plate4 8F N,D,Control,D Control M #1,M,plate4,1254400,0,D Control M #1,plate4,1254400,DControl,N,Maggie,DM,ControlM,DControl,1,0
+9F,VA Choice M #1 plate4 9F N,VA,Choice,VA Choice M #1,M,plate4,512000,0,VA Choice M #1,plate4,512000,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+10F,H Choice M #1 plate4 10F N,H,Choice,H Choice M #1,M,plate4,198400,0,H Choice M #1,plate4,198400,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+11F,H Choice M #2 plate4 11F N,H,Choice,H Choice M #2,M,plate4,281600,0,H Choice M #2,plate4,281600,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+12F,VA Choice M #2 plate4 12F N,VA,Choice,VA Choice M #2,M,plate4,2000,0,VA Choice M #2,plate4,2000,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+1G,B Control M #2 plate4 1G N,B,Control,B Control M #2,M,plate4,48000,0,B Control M #2,plate4,48000,BControl,N,Maggie,BM,ControlM,BControl,1,0
+2G,B Control M #1 plate4 2G N,B,Control,B Control M #1,M,plate4,870400,100,B Control M #1,plate4,870500,BControl,N,Maggie,BM,ControlM,BControl,0.999885123,0.000114877
+3G,B Choice M #1 plate4 3G N,B,Choice,B Choice M #1,M,plate4,793600,11600,B Choice M #1,plate4,805200,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.985593641,0.014406359
+4G,B Choice M #2 plate4 4G N,B,Choice,B Choice M #2,M,plate4,48000,900,B Choice M #2,plate4,48900,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.981595092,0.018404908
+6G,MD Choice M #2 plate4 6G N,MD,Choice,MD Choice M #2,M,plate4,22400,750,MD Choice M #2,plate4,23150,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,0.967602592,0.032397408
+7G,D Choice M #1 plate4 7G N,D,Choice,D Choice M #1,M,plate4,8400,0,D Choice M #1,plate4,8400,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+8G,D Control M #1 plate4 8G N,D,Control,D Control M #1,M,plate4,96000,1100,D Control M #1,plate4,97100,DControl,N,Maggie,DM,ControlM,DControl,0.988671473,0.011328527
+9G,VA Choice M #1 plate4 9G N,VA,Choice,VA Choice M #1,M,plate4,1200,0,VA Choice M #1,plate4,1200,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+10G,H Choice M #1 plate4 10G N,H,Choice,H Choice M #1,M,plate4,169600,50,H Choice M #1,plate4,169650,HChoice,N,Maggie,HM,ChoiceM,HChoice,0.999705276,0.000294724
+11G,H Choice M #2 plate4 11G N,H,Choice,H Choice M #2,M,plate4,76800,0,H Choice M #2,plate4,76800,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+12G,VA Choice M #2 plate4 12G N,VA,Choice,VA Choice M #2,M,plate4,4800,200,VA Choice M #2,plate4,5000,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.96,0.04
+2H,B Control M #1 plate4 2H N,B,Control,B Control M #1,M,plate4,112000,1300,B Control M #1,plate4,113300,BControl,N,Maggie,BM,ControlM,BControl,0.988526037,0.011473963
+3H,B Choice M #1 plate4 3H N,B,Choice,B Choice M #1,M,plate4,35200,150,B Choice M #1,plate4,35350,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.995756719,0.004243281
+4H,B Choice M #2 plate4 4H N,B,Choice,B Choice M #2,M,plate4,9600,650,B Choice M #2,plate4,10250,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.936585366,0.063414634
+5H,MD Choice M #1 plate4 5H N,MD,Choice,MD Choice M #1,M,plate4,38400,400,MD Choice M #1,plate4,38800,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,0.989690722,0.010309278
+6H,MD Choice M #2 plate4 6H N,MD,Choice,MD Choice M #2,M,plate4,1600,300,MD Choice M #2,plate4,1900,MDChoice,N,Maggie,MDM,ChoiceM,MDChoice,0.842105263,0.157894737
+7H,D Choice M #1 plate4 7H N,D,Choice,D Choice M #1,M,plate4,35200,0,D Choice M #1,plate4,35200,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+8H,D Control M #1 plate4 8H N,D,Control,D Control M #1,M,plate4,112000,0,D Control M #1,plate4,112000,DControl,N,Maggie,DM,ControlM,DControl,1,0
+9H,VA Choice M #1 plate4 9H N,VA,Choice,VA Choice M #1,M,plate4,64000,700,VA Choice M #1,plate4,64700,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.989180835,0.010819165
+10H,H Choice M #1 plate4 10H N,H,Choice,H Choice M #1,M,plate4,1100,250,H Choice M #1,plate4,1350,HChoice,N,Maggie,HM,ChoiceM,HChoice,0.814814815,0.185185185
+11H,H Choice M #2 plate4 11H N,H,Choice,H Choice M #2,M,plate4,12800,0,H Choice M #2,plate4,12800,HChoice,N,Maggie,HM,ChoiceM,HChoice,1,0
+12H,VA Choice M #2 plate4 12H N,VA,Choice,VA Choice M #2,M,plate4,22400,0,VA Choice M #2,plate4,22400,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+1A,VA Choice F #2 plate5 1A N,VA,Choice,VA Choice F #2,F,plate5,86400,550,VA Choice F #2,plate5,86950,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.993674526,0.006325474
+2A,D Choice F #2 plate5 2A N,D,Choice,D Choice F #2,F,plate5,1400,0,D Choice F #2,plate5,1400,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+3A,VA Choice F #3 plate5 3A N,VA,Choice,VA Choice F #3,F,plate5,3500,0,VA Choice F #3,plate5,3500,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+4A,B Control F #1 plate5 4A N,B,Control,B Control F #1,F,plate5,51200,0,B Control F #1,plate5,51200,BControl,N,Maggie,BF,ControlF,BControl,1,0
+5A,L Control F #1 plate5 5A N,L,Control,L Control F #1,F,plate5,1331200,0,L Control F #1,plate5,1331200,LControl,N,Maggie,LF,ControlF,LControl,1,0
+7A,L Choice F #2 plate5 7A N,L,Choice,L Choice F #2,F,plate5,665600,0,L Choice F #2,plate5,665600,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+8A,E Control F #1 plate5 8A N,E,Control,E Control F #1,F,plate5,972800,0,E Control F #1,plate5,972800,EControl,N,Maggie,EF,ControlF,EControl,1,0
+10A,H Control F #1 plate5 10A N,H,Control,H Control F #1,F,plate5,99200,0,H Control F #1,plate5,99200,HControl,N,Maggie,HF,ControlF,HControl,1,0
+11A,H Control F #2 plate5 11A N,H,Control,H Control F #2,F,plate5,1075200,0,H Control F #2,plate5,1075200,HControl,N,Maggie,HF,ControlF,HControl,1,0
+12A,PA Choice F #1 plate5 12A N,PA,Choice,PA Choice F #1,F,plate5,563200,50,PA Choice F #1,plate5,563250,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,0.999911229,8.88E-05
+1B,VA Choice F #2 plate5 1B N,VA,Choice,VA Choice F #2,F,plate5,320000,150,VA Choice F #2,plate5,320150,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.99953147,0.00046853
+2B,D Choice F #2 plate5 2B N,D,Choice,D Choice F #2,F,plate5,115200,0,D Choice F #2,plate5,115200,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+3B,VA Choice F #3 plate5 3B N,VA,Choice,VA Choice F #3,F,plate5,1100800,50,VA Choice F #3,plate5,1100850,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.999954581,4.54E-05
+4B,B Control F #1 plate5 4B N,B,Control,B Control F #1,F,plate5,1715200,0,B Control F #1,plate5,1715200,BControl,N,Maggie,BF,ControlF,BControl,1,0
+5B,L Control F #1 plate5 5B N,L,Control,L Control F #1,F,plate5,1100800,0,L Control F #1,plate5,1100800,LControl,N,Maggie,LF,ControlF,LControl,1,0
+6B,B Choice F #3 plate5 6B N,B,Choice,B Choice F #3,F,plate5,64000,50,B Choice F #3,plate5,64050,BChoice,N,Maggie,BF,ChoiceF,BChoice,0.99921936,0.00078064
+7B,L Choice F #2 plate5 7B N,L,Choice,L Choice F #2,F,plate5,1664000,0,L Choice F #2,plate5,1664000,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+8B,E Control F #1 plate5 8B N,E,Control,E Control F #1,F,plate5,1638400,0,E Control F #1,plate5,1638400,EControl,N,Maggie,EF,ControlF,EControl,1,0
+9B,E Control F #2 plate5 9B N,E,Control,E Control F #2,F,plate5,230400,0,E Control F #2,plate5,230400,EControl,N,Maggie,EF,ControlF,EControl,1,0
+10B,H Control F #1 plate5 10B N,H,Control,H Control F #1,F,plate5,665600,0,H Control F #1,plate5,665600,HControl,N,Maggie,HF,ControlF,HControl,1,0
+11B,H Control F #2 plate5 11B N,H,Control,H Control F #2,F,plate5,332800,0,H Control F #2,plate5,332800,HControl,N,Maggie,HF,ControlF,HControl,1,0
+12B,PA Choice F #1 plate5 12B N,PA,Choice,PA Choice F #1,F,plate5,998400,0,PA Choice F #1,plate5,998400,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,1,0
+1C,VA Choice F #2 plate5 1C N,VA,Choice,VA Choice F #2,F,plate5,22400,50,VA Choice F #2,plate5,22450,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,0.997772829,0.002227171
+2C,D Choice F #2 plate5 2C N,D,Choice,D Choice F #2,F,plate5,1792000,0,D Choice F #2,plate5,1792000,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+3C,VA Choice F #3 plate5 3C N,VA,Choice,VA Choice F #3,F,plate5,3000,0,VA Choice F #3,plate5,3000,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+4C,B Control F #1 plate5 4C N,B,Control,B Control F #1,F,plate5,1868800,150,B Control F #1,plate5,1868950,BControl,N,Maggie,BF,ControlF,BControl,0.999919741,8.03E-05
+5C,L Control F #1 plate5 5C N,L,Control,L Control F #1,F,plate5,204800,0,L Control F #1,plate5,204800,LControl,N,Maggie,LF,ControlF,LControl,1,0
+6C,B Choice F #3 plate5 6C N,B,Choice,B Choice F #3,F,plate5,102400,0,B Choice F #3,plate5,102400,BChoice,N,Maggie,BF,ChoiceF,BChoice,1,0
+7C,L Choice F #2 plate5 7C N,L,Choice,L Choice F #2,F,plate5,25600,0,L Choice F #2,plate5,25600,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+8C,E Control F #1 plate5 8C N,E,Control,E Control F #1,F,plate5,1228800,0,E Control F #1,plate5,1228800,EControl,N,Maggie,EF,ControlF,EControl,1,0
+9C,E Control F #2 plate5 9C N,E,Control,E Control F #2,F,plate5,486400,0,E Control F #2,plate5,486400,EControl,N,Maggie,EF,ControlF,EControl,1,0
+10C,H Control F #1 plate5 10C N,H,Control,H Control F #1,F,plate5,9600,0,H Control F #1,plate5,9600,HControl,N,Maggie,HF,ControlF,HControl,1,0
+11C,H Control F #2 plate5 11C N,H,Control,H Control F #2,F,plate5,844800,0,H Control F #2,plate5,844800,HControl,N,Maggie,HF,ControlF,HControl,1,0
+12C,PA Choice F #1 plate5 12C N,PA,Choice,PA Choice F #1,F,plate5,76800,50,PA Choice F #1,plate5,76850,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,0.999349382,0.000650618
+1D,VA Choice F #2 plate5 1D N,VA,Choice,VA Choice F #2,F,plate5,588800,0,VA Choice F #2,plate5,588800,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+2D,D Choice F #2 plate5 2D N,D,Choice,D Choice F #2,F,plate5,128000,0,D Choice F #2,plate5,128000,DChoice,N,Maggie,DF,ChoiceF,DChoice,1,0
+3D,VA Choice F #3 plate5 3D N,VA,Choice,VA Choice F #3,F,plate5,204800,0,VA Choice F #3,plate5,204800,VAChoice,N,Maggie,VAF,ChoiceF,VAChoice,1,0
+5D,L Control F #1 plate5 5D N,L,Control,L Control F #1,F,plate5,51200,0,L Control F #1,plate5,51200,LControl,N,Maggie,LF,ControlF,LControl,1,0
+6D,B Choice F #3 plate5 6D N,B,Choice,B Choice F #3,F,plate5,76800,0,B Choice F #3,plate5,76800,BChoice,N,Maggie,BF,ChoiceF,BChoice,1,0
+7D,L Choice F #2 plate5 7D N,L,Choice,L Choice F #2,F,plate5,25600,400,L Choice F #2,plate5,26000,LChoice,N,Maggie,LF,ChoiceF,LChoice,0.984615385,0.015384615
+8D,E Control F #1 plate5 8D N,E,Control,E Control F #1,F,plate5,118400,0,E Control F #1,plate5,118400,EControl,N,Maggie,EF,ControlF,EControl,1,0
+9D,E Control F #2 plate5 9D N,E,Control,E Control F #2,F,plate5,435200,0,E Control F #2,plate5,435200,EControl,N,Maggie,EF,ControlF,EControl,1,0
+10D,H Control F #1 plate5 10D N,H,Control,H Control F #1,F,plate5,105600,50,H Control F #1,plate5,105650,HControl,N,Maggie,HF,ControlF,HControl,0.999526739,0.000473261
+11D,H Control F #2 plate5 11D N,H,Control,H Control F #2,F,plate5,76800,100,H Control F #2,plate5,76900,HControl,N,Maggie,HF,ControlF,HControl,0.99869961,0.00130039
+12D,PA Choice F #1 plate5 12D N,PA,Choice,PA Choice F #1,F,plate5,57600,150,PA Choice F #1,plate5,57750,PAChoice,N,Maggie,PAF,ChoiceF,PAChoice,0.997402597,0.002597403
+1E,VA Choice M #2 plate5 1E N,VA,Choice,VA Choice M #2,M,plate5,160000,450,VA Choice M #2,plate5,160450,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.997195388,0.002804612
+2E,D Choice M #2 plate5 2E N,D,Choice,D Choice M #2,M,plate5,105600,300,D Choice M #2,plate5,105900,DChoice,N,Maggie,DM,ChoiceM,DChoice,0.997167139,0.002832861
+4E,B Control M #1 plate5 4E N,B,Control,B Control M #1,M,plate5,96000,150,B Control M #1,plate5,96150,BControl,N,Maggie,BM,ControlM,BControl,0.998439938,0.001560062
+5E,L Control M #1 plate5 5E N,L,Control,L Control M #1,M,plate5,76800,0,L Control M #1,plate5,76800,LControl,N,Maggie,LM,ControlM,LControl,1,0
+6E,B Choice M #3 plate5 6E N,B,Choice,B Choice M #3,M,plate5,76800,150,B Choice M #3,plate5,76950,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.998050682,0.001949318
+7E,L Choice M #2 plate5 7E N,L,Choice,L Choice M #2,M,plate5,3200,300,L Choice M #2,plate5,3500,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.914285714,0.085714286
+8E,E Control M #1 plate5 8E N,E,Control,E Control M #1,M,plate5,41600,300,E Control M #1,plate5,41900,EControl,N,Maggie,EM,ControlM,EControl,0.992840095,0.007159905
+9E,E Control M #2 plate5 9E N,E,Control,E Control M #2,M,plate5,64000,0,E Control M #2,plate5,64000,EControl,N,Maggie,EM,ControlM,EControl,1,0
+10E,H Control M #1 plate5 10E N,H,Control,H Control M #1,M,plate5,182400,50,H Control M #1,plate5,182450,HControl,N,Maggie,HM,ControlM,HControl,0.999725952,0.000274048
+11E,H Control M #2 plate5 11E N,H,Control,H Control M #2,M,plate5,256000,0,H Control M #2,plate5,256000,HControl,N,Maggie,HM,ControlM,HControl,1,0
+12E,PA Control M #1 plate5 12E N,PA,Control,PA Control M #1,M,plate5,800,50,PA Control M #1,plate5,850,PAControl,N,Maggie,PAM,ControlM,PAControl,0.941176471,0.058823529
+1F,VA Choice M #2 plate5 1F N,VA,Choice,VA Choice M #2,M,plate5,96000,550,VA Choice M #2,plate5,96550,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.99430347,0.00569653
+2F,D Choice M #2 plate5 2F N,D,Choice,D Choice M #2,M,plate5,124800,700,D Choice M #2,plate5,125500,DChoice,N,Maggie,DM,ChoiceM,DChoice,0.994422311,0.005577689
+3F,VA Choice M #3 plate5 3F N,VA,Choice,VA Choice M #3,M,plate5,128000,0,VA Choice M #3,plate5,128000,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+4F,B Control M #1 plate5 4F N,B,Control,B Control M #1,M,plate5,563200,1050,B Control M #1,plate5,564250,BControl,N,Maggie,BM,ControlM,BControl,0.998139123,0.001860877
+5F,L Control M #1 plate5 5F N,L,Control,L Control M #1,M,plate5,358400,0,L Control M #1,plate5,358400,LControl,N,Maggie,LM,ControlM,LControl,1,0
+6F,B Choice M #3 plate5 6F N,B,Choice,B Choice M #3,M,plate5,38400,50,B Choice M #3,plate5,38450,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.99869961,0.00130039
+7F,L Choice M #2 plate5 7F N,L,Choice,L Choice M #2,M,plate5,32000,4400,L Choice M #2,plate5,36400,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.879120879,0.120879121
+8F,E Control M #1 plate5 8F N,E,Control,E Control M #1,M,plate5,4800,50,E Control M #1,plate5,4850,EControl,N,Maggie,EM,ControlM,EControl,0.989690722,0.010309278
+9F,E Control M #2 plate5 9F N,E,Control,E Control M #2,M,plate5,99200,0,E Control M #2,plate5,99200,EControl,N,Maggie,EM,ControlM,EControl,1,0
+10F,H Control M #1 plate5 10F N,H,Control,H Control M #1,M,plate5,73600,0,H Control M #1,plate5,73600,HControl,N,Maggie,HM,ControlM,HControl,1,0
+12F,PA Control M #1 plate5 12F N,PA,Control,PA Control M #1,M,plate5,108800,0,PA Control M #1,plate5,108800,PAControl,N,Maggie,PAM,ControlM,PAControl,1,0
+1G,VA Choice M #2 plate5 1G N,VA,Choice,VA Choice M #2,M,plate5,86400,400,VA Choice M #2,plate5,86800,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.995391705,0.004608295
+2G,D Choice M #2 plate5 2G N,D,Choice,D Choice M #2,M,plate5,16000,0,D Choice M #2,plate5,16000,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+3G,VA Choice M #3 plate5 3G N,VA,Choice,VA Choice M #3,M,plate5,76800,0,VA Choice M #3,plate5,76800,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,1,0
+4G,B Control M #1 plate5 4G N,B,Control,B Control M #1,M,plate5,166400,250,B Control M #1,plate5,166650,BControl,N,Maggie,BM,ControlM,BControl,0.99849985,0.00150015
+5G,L Control M #1 plate5 5G N,L,Control,L Control M #1,M,plate5,140800,0,L Control M #1,plate5,140800,LControl,N,Maggie,LM,ControlM,LControl,1,0
+6G,B Choice M #3 plate5 6G N,B,Choice,B Choice M #3,M,plate5,28800,1050,B Choice M #3,plate5,29850,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.964824121,0.035175879
+7G,L Choice M #2 plate5 7G N,L,Choice,L Choice M #2,M,plate5,38400,50,L Choice M #2,plate5,38450,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.99869961,0.00130039
+8G,E Control M #1 plate5 8G N,E,Control,E Control M #1,M,plate5,137600,0,E Control M #1,plate5,137600,EControl,N,Maggie,EM,ControlM,EControl,1,0
+9G,E Control M #2 plate5 9G N,E,Control,E Control M #2,M,plate5,86400,0,E Control M #2,plate5,86400,EControl,N,Maggie,EM,ControlM,EControl,1,0
+10G,H Control M #1 plate5 10G N,H,Control,H Control M #1,M,plate5,60800,250,H Control M #1,plate5,61050,HControl,N,Maggie,HM,ControlM,HControl,0.995904996,0.004095004
+11G,H Control M #2 plate5 11G N,H,Control,H Control M #2,M,plate5,1200,0,H Control M #2,plate5,1200,HControl,N,Maggie,HM,ControlM,HControl,1,0
+12G,PA Control M #1 plate5 12G N,PA,Control,PA Control M #1,M,plate5,73600,0,PA Control M #1,plate5,73600,PAControl,N,Maggie,PAM,ControlM,PAControl,1,0
+1H,VA Choice M #2 plate5 1H N,VA,Choice,VA Choice M #2,M,plate5,115200,250,VA Choice M #2,plate5,115450,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.99783456,0.00216544
+2H,D Choice M #2 plate5 2H N,D,Choice,D Choice M #2,M,plate5,67200,0,D Choice M #2,plate5,67200,DChoice,N,Maggie,DM,ChoiceM,DChoice,1,0
+3H,VA Choice M #3 plate5 3H N,VA,Choice,VA Choice M #3,M,plate5,115200,1000,VA Choice M #3,plate5,116200,VAChoice,N,Maggie,VAM,ChoiceM,VAChoice,0.991394148,0.008605852
+4H,B Control M #1 plate5 4H N,B,Control,B Control M #1,M,plate5,115200,0,B Control M #1,plate5,115200,BControl,N,Maggie,BM,ControlM,BControl,1,0
+5H,L Control M #1 plate5 5H N,L,Control,L Control M #1,M,plate5,89600,100,L Control M #1,plate5,89700,LControl,N,Maggie,LM,ControlM,LControl,0.998885173,0.001114827
+6H,B Choice M #3 plate5 6H N,B,Choice,B Choice M #3,M,plate5,44800,50,B Choice M #3,plate5,44850,BChoice,N,Maggie,BM,ChoiceM,BChoice,0.998885173,0.001114827
+7H,L Choice M #2 plate5 7H N,L,Choice,L Choice M #2,M,plate5,99200,450,L Choice M #2,plate5,99650,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.995484195,0.004515805
+8H,E Control M #1 plate5 8H N,E,Control,E Control M #1,M,plate5,64000,0,E Control M #1,plate5,64000,EControl,N,Maggie,EM,ControlM,EControl,1,0
+9H,E Control M #2 plate5 9H N,E,Control,E Control M #2,M,plate5,169600,0,E Control M #2,plate5,169600,EControl,N,Maggie,EM,ControlM,EControl,1,0
+10H,H Control M #1 plate5 10H N,H,Control,H Control M #1,M,plate5,54400,250,H Control M #1,plate5,54650,HControl,N,Maggie,HM,ControlM,HControl,0.995425435,0.004574565
+11H,H Control M #2 plate5 11H N,H,Control,H Control M #2,M,plate5,16000,0,H Control M #2,plate5,16000,HControl,N,Maggie,HM,ControlM,HControl,1,0
+1A,L Choice F #1 plate6 1A N,L,Choice,L Choice F #1,F,plate6,22800,0,L Choice F #1,plate6,22800,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+3A,E Choice F #2 plate6 3A N,E,Choice,E Choice F #2,F,plate6,41600,0,E Choice F #2,plate6,41600,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+4A,VA Control F #2 plate6 4A N,VA,Control,VA Control F #2,F,plate6,22400,100,VA Control F #2,plate6,22500,VAControl,N,Maggie,VAF,ControlF,VAControl,0.995555556,0.004444444
+5A,VA Control F #1 plate6 5A N,VA,Control,VA Control F #1,F,plate6,1715200,0,VA Control F #1,plate6,1715200,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+1B,L Choice F #1 plate6 1B N,L,Choice,L Choice F #1,F,plate6,137600,0,L Choice F #1,plate6,137600,LChoice,N,Maggie,LF,ChoiceF,LChoice,1,0
+2B,E Choice F #1 plate6 2B N,E,Choice,E Choice F #1,F,plate6,1152000,0,E Choice F #1,plate6,1152000,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+3B,E Choice F #2 plate6 3B N,E,Choice,E Choice F #2,F,plate6,57600,200,E Choice F #2,plate6,57800,EChoice,N,Maggie,EF,ChoiceF,EChoice,0.996539792,0.003460208
+4B,VA Control F #2 plate6 4B N,VA,Control,VA Control F #2,F,plate6,163200,200,VA Control F #2,plate6,163400,VAControl,N,Maggie,VAF,ControlF,VAControl,0.99877601,0.00122399
+5B,VA Control F #1 plate6 5B N,VA,Control,VA Control F #1,F,plate6,435200,0,VA Control F #1,plate6,435200,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+1C,L Choice F #1 plate6 1C N,L,Choice,L Choice F #1,F,plate6,768000,50,L Choice F #1,plate6,768050,LChoice,N,Maggie,LF,ChoiceF,LChoice,0.9999349,6.51E-05
+2C,E Choice F #1 plate6 2C N,E,Choice,E Choice F #1,F,plate6,57600,0,E Choice F #1,plate6,57600,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+3C,E Choice F #2 plate6 3C N,E,Choice,E Choice F #2,F,plate6,12800,0,E Choice F #2,plate6,12800,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+4C,VA Control F #2 plate6 4C N,VA,Control,VA Control F #2,F,plate6,89600,0,VA Control F #2,plate6,89600,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+5C,VA Control F #1 plate6 5C N,VA,Control,VA Control F #1,F,plate6,48000,0,VA Control F #1,plate6,48000,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+1D,L Choice F #1 plate6 1D N,L,Choice,L Choice F #1,F,plate6,192000,50,L Choice F #1,plate6,192050,LChoice,N,Maggie,LF,ChoiceF,LChoice,0.999739651,0.000260349
+2D,E Choice F #1 plate6 2D N,E,Choice,E Choice F #1,F,plate6,35200,0,E Choice F #1,plate6,35200,EChoice,N,Maggie,EF,ChoiceF,EChoice,1,0
+4D,VA Control F #2 plate6 4D N,VA,Control,VA Control F #2,F,plate6,115200,0,VA Control F #2,plate6,115200,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+5D,VA Control F #1 plate6 5D N,VA,Control,VA Control F #1,F,plate6,147200,0,VA Control F #1,plate6,147200,VAControl,N,Maggie,VAF,ControlF,VAControl,1,0
+1E,L Choice M #1 plate6 1E N,L,Choice,L Choice M #1,M,plate6,41600,200,L Choice M #1,plate6,41800,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.995215311,0.004784689
+2E,E Choice M #1 plate6 2E N,E,Choice,E Choice M #1,M,plate6,6800,0,E Choice M #1,plate6,6800,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+3E,E Choice M #2 plate6 3E N,E,Choice,E Choice M #2,M,plate6,9600,0,E Choice M #2,plate6,9600,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+4E,VA Control M #2 plate6 4E N,VA,Control,VA Control M #2,M,plate6,9600,50,VA Control M #2,plate6,9650,VAControl,N,Maggie,VAM,ControlM,VAControl,0.994818653,0.005181347
+5E,VA Control M #1 plate6 5E N,VA,Control,VA Control M #1,M,plate6,105600,0,VA Control M #1,plate6,105600,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+1F,L Choice M #1 plate6 1F N,L,Choice,L Choice M #1,M,plate6,7200,850,L Choice M #1,plate6,8050,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.894409938,0.105590062
+2F,E Choice M #1 plate6 2F N,E,Choice,E Choice M #1,M,plate6,13600,50,E Choice M #1,plate6,13650,EChoice,N,Maggie,EM,ChoiceM,EChoice,0.996336996,0.003663004
+3F,E Choice M #2 plate6 3F N,E,Choice,E Choice M #2,M,plate6,73600,0,E Choice M #2,plate6,73600,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+4F,VA Control M #2 plate6 4F N,VA,Control,VA Control M #2,M,plate6,89600,0,VA Control M #2,plate6,89600,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+5F,VA Control M #1 plate6 5F N,VA,Control,VA Control M #1,M,plate6,108800,0,VA Control M #1,plate6,108800,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+3G,E Choice M #2 plate6 3G N,E,Choice,E Choice M #2,M,plate6,1600,0,E Choice M #2,plate6,1600,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+4G,VA Control M #2 plate6 4G N,VA,Control,VA Control M #2,M,plate6,128000,0,VA Control M #2,plate6,128000,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+5G,VA Control M #1 plate6 5G N,VA,Control,VA Control M #1,M,plate6,92800,0,VA Control M #1,plate6,92800,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+1H,L Choice M #1 plate6 1H N,L,Choice,L Choice M #1,M,plate6,11200,2000,L Choice M #1,plate6,13200,LChoice,N,Maggie,LM,ChoiceM,LChoice,0.848484848,0.151515152
+3H,E Choice M #2 plate6 3H N,E,Choice,E Choice M #2,M,plate6,15600,0,E Choice M #2,plate6,15600,EChoice,N,Maggie,EM,ChoiceM,EChoice,1,0
+4H,VA Control M #2 plate6 4H N,VA,Control,VA Control M #2,M,plate6,172800,0,VA Control M #2,plate6,172800,VAControl,N,Maggie,VAM,ControlM,VAControl,1,0
+5H,VA Control M #1 plate6 5H N,VA,Control,VA Control M #1,M,plate6,156800,150,VA Control M #1,plate6,156950,VAControl,N,Maggie,VAM,ControlM,VAControl,0.999044282,0.000955718
+2A,B Choice F #2 plate1 2A Y,B,Choice,B Choice F #2,F,plate1,57600,0,B Choice F #2,plate1,57600,BChoice,Y,Maggie,BF,ChoiceF,BChoice,1,0
+4A,B Control F #2 plate1 4A Y,B,Control,B Control F #2,F,plate1,11200,0,B Control F #2,plate1,11200,BControl,Y,Maggie,BF,ControlF,BControl,1,0
+6A,PA Choice F #2 plate1 6A Y,PA,Choice,PA Choice F #2,F,plate1,102400,0,PA Choice F #2,plate1,102400,PAChoice,Y,Maggie,PAF,ChoiceF,PAChoice,1,0
+7A,MD Choice F #1 plate1 7A Y,MD,Choice,MD Choice F #1,F,plate1,650,200,MD Choice F #1,plate1,850,MDChoice,Y,Maggie,MDF,ChoiceF,MDChoice,0.764705882,0.235294118
+12A,E Choice F #2 plate1 12A Y,E,Choice,E Choice F #2,F,plate1,588800,0,E Choice F #2,plate1,588800,EChoice,Y,Maggie,EF,ChoiceF,EChoice,1,0
+1B,B Choice F #1 plate1 1B Y,B,Choice,B Choice F #1,F,plate1,300,0,B Choice F #1,plate1,300,BChoice,Y,Maggie,BF,ChoiceF,BChoice,1,0
+4B,B Control F #2 plate1 4B Y,B,Control,B Control F #2,F,plate1,13600,150,B Control F #2,plate1,13750,BControl,Y,Maggie,BF,ControlF,BControl,0.989090909,0.010909091
+5B,PA Choice F #1 plate1 5B Y,PA,Choice,PA Choice F #1,F,plate1,9600,50,PA Choice F #1,plate1,9650,PAChoice,Y,Maggie,PAF,ChoiceF,PAChoice,0.994818653,0.005181347
+6B,PA Choice F #2 plate1 6B Y,PA,Choice,PA Choice F #2,F,plate1,14000,0,PA Choice F #2,plate1,14000,PAChoice,Y,Maggie,PAF,ChoiceF,PAChoice,1,0
+7B,MD Choice F #1 plate1 7B Y,MD,Choice,MD Choice F #1,F,plate1,844800,100,MD Choice F #1,plate1,844900,MDChoice,Y,Maggie,MDF,ChoiceF,MDChoice,0.999881643,0.000118357
+8B,MD Control F #1 plate1 8B Y,MD,Control,MD Control F #1,F,plate1,19200,100,MD Control F #1,plate1,19300,MDControl,Y,Maggie,MDF,ControlF,MDControl,0.994818653,0.005181347
+10B,E Control F #1 plate1 10B Y,E,Control,E Control F #1,F,plate1,9600,250,E Control F #1,plate1,9850,EControl,Y,Maggie,EF,ControlF,EControl,0.974619289,0.025380711
+1C,B Choice F #1 plate1 1C Y,B,Choice,B Choice F #1,F,plate1,200,0,B Choice F #1,plate1,200,BChoice,Y,Maggie,BF,ChoiceF,BChoice,1,0
+2C,B Choice F #2 plate1 2C Y,B,Choice,B Choice F #2,F,plate1,150,0,B Choice F #2,plate1,150,BChoice,Y,Maggie,BF,ChoiceF,BChoice,1,0
+4C,B Control F #2 plate1 4C Y,B,Control,B Control F #2,F,plate1,450,0,B Control F #2,plate1,450,BControl,Y,Maggie,BF,ControlF,BControl,1,0
+5C,PA Choice F #1 plate1 5C Y,PA,Choice,PA Choice F #1,F,plate1,1400,0,PA Choice F #1,plate1,1400,PAChoice,Y,Maggie,PAF,ChoiceF,PAChoice,1,0
+7C,MD Choice F #1 plate1 7C Y,MD,Choice,MD Choice F #1,F,plate1,1800,250,MD Choice F #1,plate1,2050,MDChoice,Y,Maggie,MDF,ChoiceF,MDChoice,0.87804878,0.12195122
+3D,B Choice F #3 plate1 3D Y,B,Choice,B Choice F #3,F,plate1,14400,200,B Choice F #3,plate1,14600,BChoice,Y,Maggie,BF,ChoiceF,BChoice,0.98630137,0.01369863
+4D,B Control F #2 plate1 4D Y,B,Control,B Control F #2,F,plate1,128000,0,B Control F #2,plate1,128000,BControl,Y,Maggie,BF,ControlF,BControl,1,0
+5D,PA Choice F #1 plate1 5D Y,PA,Choice,PA Choice F #1,F,plate1,76800,150,PA Choice F #1,plate1,76950,PAChoice,Y,Maggie,PAF,ChoiceF,PAChoice,0.998050682,0.001949318
+6D,PA Choice F #2 plate1 6D Y,PA,Choice,PA Choice F #2,F,plate1,1900,0,PA Choice F #2,plate1,1900,PAChoice,Y,Maggie,PAF,ChoiceF,PAChoice,1,0
+7D,MD Choice F #1 plate1 7D Y,MD,Choice,MD Choice F #1,F,plate1,32000,1050,MD Choice F #1,plate1,33050,MDChoice,Y,Maggie,MDF,ChoiceF,MDChoice,0.968229955,0.031770045
+9D,E Choice F #1 plate1 9D Y,E,Choice,E Choice F #1,F,plate1,800,50,E Choice F #1,plate1,850,EChoice,Y,Maggie,EF,ChoiceF,EChoice,0.941176471,0.058823529
+10D,E Control F #1 plate1 10D Y,E,Control,E Control F #1,F,plate1,1550,0,E Control F #1,plate1,1550,EControl,Y,Maggie,EF,ControlF,EControl,1,0
+12D,E Choice F #2 plate1 12D Y,E,Choice,E Choice F #2,F,plate1,11600,50,E Choice F #2,plate1,11650,EChoice,Y,Maggie,EF,ChoiceF,EChoice,0.995708155,0.004291845
+1E,B Choice M #1 plate1 1E Y,B,Choice,B Choice M #1,M,plate1,100,0,B Choice M #1,plate1,100,BChoice,Y,Maggie,BM,ChoiceM,BChoice,1,0
+3E,B Choice M #3 plate1 3E Y,B,Choice,B Choice M #3,M,plate1,41600,0,B Choice M #3,plate1,41600,BChoice,Y,Maggie,BM,ChoiceM,BChoice,1,0
+5E,PA Choice M #! plate1 5E Y,PA,Choice,PA Choice M #!,M,plate1,13600,0,PA Choice M #!,plate1,13600,PAChoice,Y,Maggie,PAM,ChoiceM,PAChoice,1,0
+6E,PA Choice M #2 plate1 6E Y,PA,Choice,PA Choice M #2,M,plate1,950,100,PA Choice M #2,plate1,1050,PAChoice,Y,Maggie,PAM,ChoiceM,PAChoice,0.904761905,0.095238095
+10E,E Control M #1 plate1 10E Y,E,Control,E Control M #1,M,plate1,200,0,E Control M #1,plate1,200,EControl,Y,Maggie,EM,ControlM,EControl,1,0
+1F,B Choice M #1 plate1 1F Y,B,Choice,B Choice M #1,M,plate1,38400,0,B Choice M #1,plate1,38400,BChoice,Y,Maggie,BM,ChoiceM,BChoice,1,0
+4F,B Control M #2 plate1 4F Y,B,Control,B Control M #2,M,plate1,6000,400,B Control M #2,plate1,6400,BControl,Y,Maggie,BM,ControlM,BControl,0.9375,0.0625
+5F,PA Choice M #! plate1 5F Y,PA,Choice,PA Choice M #!,M,plate1,6800,150,PA Choice M #!,plate1,6950,PAChoice,Y,Maggie,PAM,ChoiceM,PAChoice,0.978417266,0.021582734
+8F,MD Control M #1 plate1 8F Y,MD,Control,MD Control M #1,M,plate1,1000,0,MD Control M #1,plate1,1000,MDControl,Y,Maggie,MDM,ControlM,MDControl,1,0
+11F,E Choice M #1 plate1 11F Y,E,Choice,E Choice M #1,M,plate1,1200,50,E Choice M #1,plate1,1250,EChoice,Y,Maggie,EM,ChoiceM,EChoice,0.96,0.04
+1G,B Choice M #1 plate1 1G Y,B,Choice,B Choice M #1,M,plate1,250,0,B Choice M #1,plate1,250,BChoice,Y,Maggie,BM,ChoiceM,BChoice,1,0
+10G,E Control M #1 plate1 10G Y,E,Control,E Control M #1,M,plate1,450,0,E Control M #1,plate1,450,EControl,Y,Maggie,EM,ControlM,EControl,1,0
+11G,E Choice M #1 plate1 11G Y,E,Choice,E Choice M #1,M,plate1,76800,150,E Choice M #1,plate1,76950,EChoice,Y,Maggie,EM,ChoiceM,EChoice,0.998050682,0.001949318
+5H,PA Choice M #! plate1 5H Y,PA,Choice,PA Choice M #!,M,plate1,460800,250,PA Choice M #!,plate1,461050,PAChoice,Y,Maggie,PAM,ChoiceM,PAChoice,0.999457759,0.000542241
+8H,MD Control M #1 plate1 8H Y,MD,Control,MD Control M #1,M,plate1,64000,0,MD Control M #1,plate1,64000,MDControl,Y,Maggie,MDM,ControlM,MDControl,1,0
+9H,E Choice M #1 plate1 9H Y,E,Choice,E Choice M #1,M,plate1,3200,0,E Choice M #1,plate1,3200,EChoice,Y,Maggie,EM,ChoiceM,EChoice,1,0
+11H,E Choice M #1 plate1 11H Y,E,Choice,E Choice M #1,M,plate1,10400,0,E Choice M #1,plate1,10400,EChoice,Y,Maggie,EM,ChoiceM,EChoice,1,0
+5A,VA Choice F #1 plate2 5A Y,VA,Choice,VA Choice F #1,F,plate2,1900,50,VA Choice F #1,plate2,1950,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,0.974358974,0.025641026
+10A,H Choice F #2 plate2 10A Y,H,Choice,H Choice F #2,F,plate2,512000,0,H Choice F #2,plate2,512000,HChoice,Y,Maggie,HF,ChoiceF,HChoice,1,0
+11A,H Choice F #3 plate2 11A Y,H,Choice,H Choice F #3,F,plate2,6400,0,H Choice F #3,plate2,6400,HChoice,Y,Maggie,HF,ChoiceF,HChoice,1,0
+1B,E Control F #2 plate2 1B Y,E,Control,E Control F #2,F,plate2,300,0,E Control F #2,plate2,300,EControl,Y,Maggie,EF,ControlF,EControl,1,0
+4B,L Choice F #2 plate2 4B Y,L,Choice,L Choice F #2,F,plate2,13600,150,L Choice F #2,plate2,13750,LChoice,Y,Maggie,LF,ChoiceF,LChoice,0.989090909,0.010909091
+5B,VA Choice F #1 plate2 5B Y,VA,Choice,VA Choice F #1,F,plate2,13600,150,VA Choice F #1,plate2,13750,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,0.989090909,0.010909091
+6B,VA Choice F #2 plate2 6B Y,VA,Choice,VA Choice F #2,F,plate2,9600,50,VA Choice F #2,plate2,9650,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,0.994818653,0.005181347
+7B,H Control F #1 plate2 7B Y,H,Control,H Control F #1,F,plate2,14000,0,H Control F #1,plate2,14000,HControl,Y,Maggie,HF,ControlF,HControl,1,0
+8B,H Control F #2 plate2 8B Y,H,Control,H Control F #2,F,plate2,844800,100,H Control F #2,plate2,844900,HControl,Y,Maggie,HF,ControlF,HControl,0.999881643,0.000118357
+10B,H Choice F #2 plate2 10B Y,H,Choice,H Choice F #2,F,plate2,9600,250,H Choice F #2,plate2,9850,HChoice,Y,Maggie,HF,ChoiceF,HChoice,0.974619289,0.025380711
+1C,E Control F #2 plate2 1C Y,E,Control,E Control F #2,F,plate2,200,0,E Control F #2,plate2,200,EControl,Y,Maggie,EF,ControlF,EControl,1,0
+2C,L Control F #2 plate2 2C Y,L,Control,L Control F #2,F,plate2,150,0,L Control F #2,plate2,150,LControl,Y,Maggie,LF,ControlF,LControl,1,0
+4C,L Choice F #2 plate2 4C Y,L,Choice,L Choice F #2,F,plate2,450,0,L Choice F #2,plate2,450,LChoice,Y,Maggie,LF,ChoiceF,LChoice,1,0
+5C,VA Choice F #1 plate2 5C Y,VA,Choice,VA Choice F #1,F,plate2,1400,0,VA Choice F #1,plate2,1400,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,1,0
+7C,H Control F #1 plate2 7C Y,H,Control,H Control F #1,F,plate2,1800,250,H Control F #1,plate2,2050,HControl,Y,Maggie,HF,ControlF,HControl,0.87804878,0.12195122
+3D,L Choice F #3 plate2 3D Y,L,Choice,L Choice F #3,F,plate2,14400,200,L Choice F #3,plate2,14600,LChoice,Y,Maggie,LF,ChoiceF,LChoice,0.98630137,0.01369863
+4D,L Choice F #2 plate2 4D Y,L,Choice,L Choice F #2,F,plate2,128000,0,L Choice F #2,plate2,128000,LChoice,Y,Maggie,LF,ChoiceF,LChoice,1,0
+5D,VA Choice F #1 plate2 5D Y,VA,Choice,VA Choice F #1,F,plate2,76800,150,VA Choice F #1,plate2,76950,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,0.998050682,0.001949318
+6D,VA Choice F #2 plate2 6D Y,VA,Choice,VA Choice F #2,F,plate2,1900,0,VA Choice F #2,plate2,1900,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,1,0
+7D,H Control F #1 plate2 7D Y,H,Control,H Control F #1,F,plate2,32000,1050,H Control F #1,plate2,33050,HControl,Y,Maggie,HF,ControlF,HControl,0.968229955,0.031770045
+9D,H Choice F #1 plate2 9D Y,H,Choice,H Choice F #1,F,plate2,800,50,H Choice F #1,plate2,850,HChoice,Y,Maggie,HF,ChoiceF,HChoice,0.941176471,0.058823529
+10D,H Choice F #2 plate2 10D Y,H,Choice,H Choice F #2,F,plate2,1550,0,H Choice F #2,plate2,1550,HChoice,Y,Maggie,HF,ChoiceF,HChoice,1,0
+1E,E Control M #2 plate2 1E Y,E,Control,E Control M #2,M,plate2,100,0,E Control M #2,plate2,100,EControl,Y,Maggie,EM,ControlM,EControl,1,0
+3E,L Choice M #3 plate2 3E Y,L,Choice,L Choice M #3,M,plate2,41600,0,L Choice M #3,plate2,41600,LChoice,Y,Maggie,LM,ChoiceM,LChoice,1,0
+5E,VA Choice M #1 plate2 5E Y,VA,Choice,VA Choice M #1,M,plate2,13600,0,VA Choice M #1,plate2,13600,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,1,0
+6E,VA Choice M #2 plate2 6E Y,VA,Choice,VA Choice M #2,M,plate2,7600,100,VA Choice M #2,plate2,7700,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,0.987012987,0.012987013
+10E,H Choice M #2 plate2 10E Y,H,Choice,H Choice M #2,M,plate2,200,0,H Choice M #2,plate2,200,HChoice,Y,Maggie,HM,ChoiceM,HChoice,1,0
+1F,E Control M #2 plate2 1F Y,E,Control,E Control M #2,M,plate2,4800,0,E Control M #2,plate2,4800,EControl,Y,Maggie,EM,ControlM,EControl,1,0
+4F,L Choice M #2 plate2 4F Y,L,Choice,L Choice M #2,M,plate2,6000,400,L Choice M #2,plate2,6400,LChoice,Y,Maggie,LM,ChoiceM,LChoice,0.9375,0.0625
+5F,VA Choice M #1 plate2 5F Y,VA,Choice,VA Choice M #1,M,plate2,6800,150,VA Choice M #1,plate2,6950,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,0.978417266,0.021582734
+8F,H Control M #2 plate2 8F Y,H,Control,H Control M #2,M,plate2,1000,0,H Control M #2,plate2,1000,HControl,Y,Maggie,HM,ControlM,HControl,1,0
+11F,H Choice M #3 plate2 11F Y,H,Choice,H Choice M #3,M,plate2,1200,50,H Choice M #3,plate2,1250,HChoice,Y,Maggie,HM,ChoiceM,HChoice,0.96,0.04
+1G,E Control M #2 plate2 1G Y,E,Control,E Control M #2,M,plate2,250,0,E Control M #2,plate2,250,EControl,Y,Maggie,EM,ControlM,EControl,1,0
+10G,H Choice M #2 plate2 10G Y,H,Choice,H Choice M #2,M,plate2,450,0,H Choice M #2,plate2,450,HChoice,Y,Maggie,HM,ChoiceM,HChoice,1,0
+11G,H Choice M #3 plate2 11G Y,H,Choice,H Choice M #3,M,plate2,76800,150,H Choice M #3,plate2,76950,HChoice,Y,Maggie,HM,ChoiceM,HChoice,0.998050682,0.001949318
+5H,VA Choice M #1 plate2 5H Y,VA,Choice,VA Choice M #1,M,plate2,460800,250,VA Choice M #1,plate2,461050,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,0.999457759,0.000542241
+8H,H Control M #2 plate2 8H Y,H,Control,H Control M #2,M,plate2,64000,0,H Control M #2,plate2,64000,HControl,Y,Maggie,HM,ControlM,HControl,1,0
+9H,H Choice M #1 plate2 9H Y,H,Choice,H Choice M #1,M,plate2,3200,0,H Choice M #1,plate2,3200,HChoice,Y,Maggie,HM,ChoiceM,HChoice,1,0
+11H,H Choice M #3 plate2 11H Y,H,Choice,H Choice M #3,M,plate2,10400,0,H Choice M #3,plate2,10400,HChoice,Y,Maggie,HM,ChoiceM,HChoice,1,0
+5B,D Choice F #1 plate3 5B Y,D,Choice,D Choice F #1,F,plate3,76800,250,D Choice F #1,plate3,77050,DChoice,Y,Maggie,DF,ChoiceF,DChoice,0.996755354,0.003244646
+4C,D Choice F #2 plate3 4C Y,D,Choice,D Choice F #2,F,plate3,179200,0,D Choice F #2,plate3,179200,DChoice,Y,Maggie,DF,ChoiceF,DChoice,1,0
+5C,D Choice F #1 plate3 5C Y,D,Choice,D Choice F #1,F,plate3,102400,250,D Choice F #1,plate3,102650,DChoice,Y,Maggie,DF,ChoiceF,DChoice,0.99756454,0.00243546
+3D,D Choice F #3 plate3 3D Y,D,Choice,D Choice F #3,F,plate3,128000,100,D Choice F #3,plate3,128100,DChoice,Y,Maggie,DF,ChoiceF,DChoice,0.99921936,0.00078064
+5D,D Choice F #1 plate3 5D Y,D,Choice,D Choice F #1,F,plate3,307200,0,D Choice F #1,plate3,307200,DChoice,Y,Maggie,DF,ChoiceF,DChoice,1,0
+10E,PA Control M #1 plate3 10E Y,PA,Control,PA Control M #1,M,plate3,76800,50,PA Control M #1,plate3,76850,PAControl,Y,Maggie,PAM,ControlM,PAControl,0.999349382,0.000650618
+5F,D Choice M #1 plate3 5F Y,D,Choice,D Choice M #1,M,plate3,1300,50,D Choice M #1,plate3,1350,DChoice,Y,Maggie,DM,ChoiceM,DChoice,0.962962963,0.037037037
+7F,VA Control M #2 plate3 7F Y,VA,Control,VA Control M #2,M,plate3,230400,400,VA Control M #2,plate3,230800,VAControl,Y,Maggie,VAM,ControlM,VAControl,0.998266898,0.001733102
+9F,VA Choice M #3 plate3 9F Y,VA,Choice,VA Choice M #3,M,plate3,102400,0,VA Choice M #3,plate3,102400,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,1,0
+10F,PA Control M #1 plate3 10F Y,PA,Control,PA Control M #1,M,plate3,563200,900,PA Control M #1,plate3,564100,PAControl,Y,Maggie,PAM,ControlM,PAControl,0.998404538,0.001595462
+9G,VA Choice M #3 plate3 9G Y,VA,Choice,VA Choice M #3,M,plate3,76800,0,VA Choice M #3,plate3,76800,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,1,0
+9H,VA Choice M #3 plate3 9H Y,VA,Choice,VA Choice M #3,M,plate3,230400,0,VA Choice M #3,plate3,230400,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,1,0
+3A,B Choice F #2 plate4 3A Y,B,Choice,B Choice F #2,F,plate4,73600,50,B Choice F #2,plate4,73650,BChoice,Y,Maggie,BF,ChoiceF,BChoice,0.999321113,0.000678887
+5A,MD Choice F #2 plate4 5A Y,MD,Choice,MD Choice F #2,F,plate4,70400,0,MD Choice F #2,plate4,70400,MDChoice,Y,Maggie,MDF,ChoiceF,MDChoice,1,0
+7A,D Control F #1 plate4 7A Y,D,Control,D Control F #1,F,plate4,550,0,D Control F #1,plate4,550,DControl,Y,Maggie,DF,ControlF,DControl,1,0
+9A,H Choice F #1 plate4 9A Y,H,Choice,H Choice F #1,F,plate4,44800,1150,H Choice F #1,plate4,45950,HChoice,Y,Maggie,HF,ChoiceF,HChoice,0.974972797,0.025027203
+4B,MD Choice F #1 plate4 4B Y,MD,Choice,MD Choice F #1,F,plate4,16400,100,MD Choice F #1,plate4,16500,MDChoice,Y,Maggie,MDF,ChoiceF,MDChoice,0.993939394,0.006060606
+7B,D Control F #1 plate4 7B Y,D,Control,D Control F #1,F,plate4,64000,0,D Control F #1,plate4,64000,DControl,Y,Maggie,DF,ControlF,DControl,1,0
+10B,H Choice F #2 plate4 10B Y,H,Choice,H Choice F #2,F,plate4,1280000,150,H Choice F #2,plate4,1280150,HChoice,Y,Maggie,HF,ChoiceF,HChoice,0.999882826,0.000117174
+2C,B Choice F #1 plate4 2C Y,B,Choice,B Choice F #1,F,plate4,16000,0,B Choice F #1,plate4,16000,BChoice,Y,Maggie,BF,ChoiceF,BChoice,1,0
+3C,B Choice F #2 plate4 3C Y,B,Choice,B Choice F #2,F,plate4,131200,50,B Choice F #2,plate4,131250,BChoice,Y,Maggie,BF,ChoiceF,BChoice,0.999619048,0.000380952
+4C,MD Choice F #1 plate4 4C Y,MD,Choice,MD Choice F #1,F,plate4,450,0,MD Choice F #1,plate4,450,MDChoice,Y,Maggie,MDF,ChoiceF,MDChoice,1,0
+7C,D Control F #1 plate4 7C Y,D,Control,D Control F #1,F,plate4,13200,0,D Control F #1,plate4,13200,DControl,Y,Maggie,DF,ControlF,DControl,1,0
+10C,H Choice F #2 plate4 10C Y,H,Choice,H Choice F #2,F,plate4,1100800,950,H Choice F #2,plate4,1101750,HChoice,Y,Maggie,HF,ChoiceF,HChoice,0.999137735,0.000862265
+4D,MD Choice F #1 plate4 4D Y,MD,Choice,MD Choice F #1,F,plate4,563200,50,MD Choice F #1,plate4,563250,MDChoice,Y,Maggie,MDF,ChoiceF,MDChoice,0.999911229,8.88E-05
+5D,MD Choice F #2 plate4 5D Y,MD,Choice,MD Choice F #2,F,plate4,614400,0,MD Choice F #2,plate4,614400,MDChoice,Y,Maggie,MDF,ChoiceF,MDChoice,1,0
+8D,VA Choice F #1 plate4 8D Y,VA,Choice,VA Choice F #1,F,plate4,281600,400,VA Choice F #1,plate4,282000,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,0.99858156,0.00141844
+9D,H Choice F #1 plate4 9D Y,H,Choice,H Choice F #1,F,plate4,870400,450,H Choice F #1,plate4,870850,HChoice,Y,Maggie,HF,ChoiceF,HChoice,0.999483263,0.000516737
+10D,H Choice F #2 plate4 10D Y,H,Choice,H Choice F #2,F,plate4,921600,100,H Choice F #2,plate4,921700,HChoice,Y,Maggie,HF,ChoiceF,HChoice,0.999891505,0.000108495
+2E,B Choice M #1 plate4 2E Y,B,Choice,B Choice M #1,M,plate4,38400,0,B Choice M #1,plate4,38400,BChoice,Y,Maggie,BM,ChoiceM,BChoice,1,0
+3E,B Choice M #2 plate4 3E Y,B,Choice,B Choice M #2,M,plate4,1075200,100,B Choice M #2,plate4,1075300,BChoice,Y,Maggie,BM,ChoiceM,BChoice,0.999907003,9.30E-05
+4E,MD Choice M #1 plate4 4E Y,MD,Choice,MD Choice M #1,M,plate4,16000,100,MD Choice M #1,plate4,16100,MDChoice,Y,Maggie,MDM,ChoiceM,MDChoice,0.99378882,0.00621118
+5E,MD Choice M #2 plate4 5E Y,MD,Choice,MD Choice M #2,M,plate4,16000,100,MD Choice M #2,plate4,16100,MDChoice,Y,Maggie,MDM,ChoiceM,MDChoice,0.99378882,0.00621118
+6E,D Choice M #1 plate4 6E Y,D,Choice,D Choice M #1,M,plate4,332800,150,D Choice M #1,plate4,332950,DChoice,Y,Maggie,DM,ChoiceM,DChoice,0.999549482,0.000450518
+7E,D Control M #1 plate4 7E Y,D,Control,D Control M #1,M,plate4,13200,0,D Control M #1,plate4,13200,DControl,Y,Maggie,DM,ControlM,DControl,1,0
+8E,VA Choice M #1 plate4 8E Y,VA,Choice,VA Choice M #1,M,plate4,256000,1650,VA Choice M #1,plate4,257650,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,0.993595964,0.006404036
+9E,H Choice M #1 plate4 9E Y,H,Choice,H Choice M #1,M,plate4,800,250,H Choice M #1,plate4,1050,HChoice,Y,Maggie,HM,ChoiceM,HChoice,0.761904762,0.238095238
+11E,VA Choice M #2 plate4 11E Y,VA,Choice,VA Choice M #2,M,plate4,38400,1200,VA Choice M #2,plate4,39600,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,0.96969697,0.03030303
+5F,MD Choice M #2 plate4 5F Y,MD,Choice,MD Choice M #2,M,plate4,614400,50,MD Choice M #2,plate4,614450,MDChoice,Y,Maggie,MDM,ChoiceM,MDChoice,0.999918626,8.14E-05
+7F,D Control M #1 plate4 7F Y,D,Control,D Control M #1,M,plate4,22400,0,D Control M #1,plate4,22400,DControl,Y,Maggie,DM,ControlM,DControl,1,0
+9F,H Choice M #1 plate4 9F Y,H,Choice,H Choice M #1,M,plate4,105600,650,H Choice M #1,plate4,106250,HChoice,Y,Maggie,HM,ChoiceM,HChoice,0.993882353,0.006117647
+10F,H Choice M #2 plate4 10F Y,H,Choice,H Choice M #2,M,plate4,819200,0,H Choice M #2,plate4,819200,HChoice,Y,Maggie,HM,ChoiceM,HChoice,1,0
+2G,B Choice M #1 plate4 2G Y,B,Choice,B Choice M #1,M,plate4,307200,400,B Choice M #1,plate4,307600,BChoice,Y,Maggie,BM,ChoiceM,BChoice,0.99869961,0.00130039
+4G,MD Choice M #1 plate4 4G Y,MD,Choice,MD Choice M #1,M,plate4,16000,750,MD Choice M #1,plate4,16750,MDChoice,Y,Maggie,MDM,ChoiceM,MDChoice,0.955223881,0.044776119
+5G,MD Choice M #2 plate4 5G Y,MD,Choice,MD Choice M #2,M,plate4,76800,0,MD Choice M #2,plate4,76800,MDChoice,Y,Maggie,MDM,ChoiceM,MDChoice,1,0
+6G,D Choice M #1 plate4 6G Y,D,Choice,D Choice M #1,M,plate4,73600,0,D Choice M #1,plate4,73600,DChoice,Y,Maggie,DM,ChoiceM,DChoice,1,0
+10G,H Choice M #2 plate4 10G Y,H,Choice,H Choice M #2,M,plate4,278400,2100,H Choice M #2,plate4,280500,HChoice,Y,Maggie,HM,ChoiceM,HChoice,0.992513369,0.007486631
+3H,B Choice M #2 plate4 3H Y,B,Choice,B Choice M #2,M,plate4,921600,250,B Choice M #2,plate4,921850,BChoice,Y,Maggie,BM,ChoiceM,BChoice,0.999728806,0.000271194
+6H,D Choice M #1 plate4 6H Y,D,Choice,D Choice M #1,M,plate4,435200,0,D Choice M #1,plate4,435200,DChoice,Y,Maggie,DM,ChoiceM,DChoice,1,0
+7H,D Control M #1 plate4 7H Y,D,Control,D Control M #1,M,plate4,6000,550,D Control M #1,plate4,6550,DControl,Y,Maggie,DM,ControlM,DControl,0.916030534,0.083969466
+8H,VA Choice M #1 plate4 8H Y,VA,Choice,VA Choice M #1,M,plate4,12400,400,VA Choice M #1,plate4,12800,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,0.96875,0.03125
+10H,H Choice M #2 plate4 10H Y,H,Choice,H Choice M #2,M,plate4,7600,1100,H Choice M #2,plate4,8700,HChoice,Y,Maggie,HM,ChoiceM,HChoice,0.873563218,0.126436782
+1A,VA Choice F #2 plate5 1A Y,VA,Choice,VA Choice F #2,F,plate5,48000,100,VA Choice F #2,plate5,48100,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,0.997920998,0.002079002
+2A,D Choice F #2 plate5 2A Y,D,Choice,D Choice F #2,F,plate5,108800,0,D Choice F #2,plate5,108800,DChoice,Y,Maggie,DF,ChoiceF,DChoice,1,0
+4A,B Control F #1 plate5 4A Y,B,Control,B Control F #1,F,plate5,105600,0,B Control F #1,plate5,105600,BControl,Y,Maggie,BF,ControlF,BControl,1,0
+1B,VA Choice F #2 plate5 1B Y,VA,Choice,VA Choice F #2,F,plate5,665600,100,VA Choice F #2,plate5,665700,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,0.999849782,0.000150218
+8B,E Control F #1 plate5 8B Y,E,Control,E Control F #1,F,plate5,102400,0,E Control F #1,plate5,102400,EControl,Y,Maggie,EF,ControlF,EControl,1,0
+9B,E Control F #2 plate5 9B Y,E,Control,E Control F #2,F,plate5,2800,0,E Control F #2,plate5,2800,EControl,Y,Maggie,EF,ControlF,EControl,1,0
+11B,H Control F #2 plate5 11B Y,H,Control,H Control F #2,F,plate5,2700,0,H Control F #2,plate5,2700,HControl,Y,Maggie,HF,ControlF,HControl,1,0
+3C,VA Choice F #3 plate5 3C Y,VA,Choice,VA Choice F #3,F,plate5,150400,0,VA Choice F #3,plate5,150400,VAChoice,Y,Maggie,VAF,ChoiceF,VAChoice,1,0
+5C,L Control F #1 plate5 5C Y,L,Control,L Control F #1,F,plate5,13600,0,L Control F #1,plate5,13600,LControl,Y,Maggie,LF,ControlF,LControl,1,0
+6C,B Choice F #3 plate5 6C Y,B,Choice,B Choice F #3,F,plate5,9200,0,B Choice F #3,plate5,9200,BChoice,Y,Maggie,BF,ChoiceF,BChoice,1,0
+8C,E Control F #1 plate5 8C Y,E,Control,E Control F #1,F,plate5,50,0,E Control F #1,plate5,50,EControl,Y,Maggie,EF,ControlF,EControl,1,0
+10C,H Control F #1 plate5 10C Y,H,Control,H Control F #1,F,plate5,179200,0,H Control F #1,plate5,179200,HControl,Y,Maggie,HF,ControlF,HControl,1,0
+11C,H Control F #2 plate5 11C Y,H,Control,H Control F #2,F,plate5,51200,0,H Control F #2,plate5,51200,HControl,Y,Maggie,HF,ControlF,HControl,1,0
+4D,B Control F #1 plate5 4D Y,B,Control,B Control F #1,F,plate5,64000,0,B Control F #1,plate5,64000,BControl,Y,Maggie,BF,ControlF,BControl,1,0
+12D,PA Choice F #1 plate5 12D Y,PA,Choice,PA Choice F #1,F,plate5,54400,0,PA Choice F #1,plate5,54400,PAChoice,Y,Maggie,PAF,ChoiceF,PAChoice,1,0
+1E,VA Choice M #2 plate5 1E Y,VA,Choice,VA Choice M #2,M,plate5,83200,0,VA Choice M #2,plate5,83200,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,1,0
+4F,B Control M #1 plate5 4F Y,B,Control,B Control M #1,M,plate5,16000,0,B Control M #1,plate5,16000,BControl,Y,Maggie,BM,ControlM,BControl,1,0
+7F,L Choice M #2 plate5 7F Y,L,Choice,L Choice M #2,M,plate5,21600,100,L Choice M #2,plate5,21700,LChoice,Y,Maggie,LM,ChoiceM,LChoice,0.995391705,0.004608295
+9F,E Control M #2 plate5 9F Y,E,Control,E Control M #2,M,plate5,6400,0,E Control M #2,plate5,6400,EControl,Y,Maggie,EM,ControlM,EControl,1,0
+11F,H Control M #2 plate5 11F Y,H,Control,H Control M #2,M,plate5,650,0,H Control M #2,plate5,650,HControl,Y,Maggie,HM,ControlM,HControl,1,0
+12F,PA Control M #1 plate5 12F Y,PA,Control,PA Control M #1,M,plate5,38400,1850,PA Control M #1,plate5,40250,PAControl,Y,Maggie,PAM,ControlM,PAControl,0.954037267,0.045962733
+1G,VA Choice M #2 plate5 1G Y,VA,Choice,VA Choice M #2,M,plate5,486400,0,VA Choice M #2,plate5,486400,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,1,0
+2G,D Choice M #2 plate5 2G Y,D,Choice,D Choice M #2,M,plate5,10800,0,D Choice M #2,plate5,10800,DChoice,Y,Maggie,DM,ChoiceM,DChoice,1,0
+5G,L Control M #1 plate5 5G Y,L,Control,L Control M #1,M,plate5,20800,0,L Control M #1,plate5,20800,LControl,Y,Maggie,LM,ControlM,LControl,1,0
+11G,H Control M #2 plate5 11G Y,H,Control,H Control M #2,M,plate5,166400,450,H Control M #2,plate5,166850,HControl,Y,Maggie,HM,ControlM,HControl,0.997302967,0.002697033
+1H,VA Choice M #2 plate5 1H Y,VA,Choice,VA Choice M #2,M,plate5,435200,50,VA Choice M #2,plate5,435250,VAChoice,Y,Maggie,VAM,ChoiceM,VAChoice,0.999885123,0.000114877
+6H,B Choice M #3 plate5 6H Y,B,Choice,B Choice M #3,M,plate5,384000,850,B Choice M #3,plate5,384850,BChoice,Y,Maggie,BM,ChoiceM,BChoice,0.997791347,0.002208653
+7H,L Choice M #2 plate5 7H Y,L,Choice,L Choice M #2,M,plate5,9200,500,L Choice M #2,plate5,9700,LChoice,Y,Maggie,LM,ChoiceM,LChoice,0.948453608,0.051546392
+2A,E Choice F #1 plate6 2A Y,E,Choice,E Choice F #1,F,plate6,4000,0,E Choice F #1,plate6,4000,EChoice,Y,Maggie,EF,ChoiceF,EChoice,1,0
+3A,E Choice F #2 plate6 3A Y,E,Choice,E Choice F #2,F,plate6,105600,0,E Choice F #2,plate6,105600,EChoice,Y,Maggie,EF,ChoiceF,EChoice,1,0
+4A,VA Control F #2 plate6 4A Y,VA,Control,VA Control F #2,F,plate6,76800,0,VA Control F #2,plate6,76800,VAControl,Y,Maggie,VAF,ControlF,VAControl,1,0
+5A,VA Control F #1 plate6 5A Y,VA,Control,VA Control F #1,F,plate6,108800,0,VA Control F #1,plate6,108800,VAControl,Y,Maggie,VAF,ControlF,VAControl,1,0
+1B,L Choice F #1 plate6 1B Y,L,Choice,L Choice F #1,F,plate6,38400,800,L Choice F #1,plate6,39200,LChoice,Y,Maggie,LF,ChoiceF,LChoice,0.979591837,0.020408163
+2B,E Choice F #1 plate6 2B Y,E,Choice,E Choice F #1,F,plate6,16000,0,E Choice F #1,plate6,16000,EChoice,Y,Maggie,EF,ChoiceF,EChoice,1,0
+3B,E Choice F #2 plate6 3B Y,E,Choice,E Choice F #2,F,plate6,76800,4000,E Choice F #2,plate6,80800,EChoice,Y,Maggie,EF,ChoiceF,EChoice,0.95049505,0.04950495
+4B,VA Control F #2 plate6 4B Y,VA,Control,VA Control F #2,F,plate6,131200,0,VA Control F #2,plate6,131200,VAControl,Y,Maggie,VAF,ControlF,VAControl,1,0
+5B,VA Control F #1 plate6 5B Y,VA,Control,VA Control F #1,F,plate6,89600,0,VA Control F #1,plate6,89600,VAControl,Y,Maggie,VAF,ControlF,VAControl,1,0
+1C,L Choice F #1 plate6 1C Y,L,Choice,L Choice F #1,F,plate6,38400,8000,L Choice F #1,plate6,46400,LChoice,Y,Maggie,LF,ChoiceF,LChoice,0.827586207,0.172413793
+2C,E Choice F #1 plate6 2C Y,E,Choice,E Choice F #1,F,plate6,28800,1200,E Choice F #1,plate6,30000,EChoice,Y,Maggie,EF,ChoiceF,EChoice,0.96,0.04
+4C,VA Control F #2 plate6 4C Y,VA,Control,VA Control F #2,F,plate6,28800,0,VA Control F #2,plate6,28800,VAControl,Y,Maggie,VAF,ControlF,VAControl,1,0
+1D,L Choice F #1 plate6 1D Y,L,Choice,L Choice F #1,F,plate6,8000,0,L Choice F #1,plate6,8000,LChoice,Y,Maggie,LF,ChoiceF,LChoice,1,0
+2D,E Choice F #1 plate6 2D Y,E,Choice,E Choice F #1,F,plate6,38400,0,E Choice F #1,plate6,38400,EChoice,Y,Maggie,EF,ChoiceF,EChoice,1,0
+3D,E Choice F #2 plate6 3D Y,E,Choice,E Choice F #2,F,plate6,160000,0,E Choice F #2,plate6,160000,EChoice,Y,Maggie,EF,ChoiceF,EChoice,1,0
+4D,VA Control F #2 plate6 4D Y,VA,Control,VA Control F #2,F,plate6,147200,0,VA Control F #2,plate6,147200,VAControl,Y,Maggie,VAF,ControlF,VAControl,1,0
+5D,VA Control F #1 plate6 5D Y,VA,Control,VA Control F #1,F,plate6,153600,50,VA Control F #1,plate6,153650,VAControl,Y,Maggie,VAF,ControlF,VAControl,0.999674585,0.000325415
+1E,L Choice M #1 plate6 1E Y,L,Choice,L Choice M #1,M,plate6,3200,0,L Choice M #1,plate6,3200,LChoice,Y,Maggie,LM,ChoiceM,LChoice,1,0
+3F,E Choice M #2 plate6 3F Y,E,Choice,E Choice M #2,M,plate6,89600,0,E Choice M #2,plate6,89600,EChoice,Y,Maggie,EM,ChoiceM,EChoice,1,0
+4F,VA Control M #2 plate6 4F Y,VA,Control,VA Control M #2,M,plate6,20000,50,VA Control M #2,plate6,20050,VAControl,Y,Maggie,VAM,ControlM,VAControl,0.997506234,0.002493766
+5F,VA Control M #1 plate6 5F Y,VA,Control,VA Control M #1,M,plate6,57600,0,VA Control M #1,plate6,57600,VAControl,Y,Maggie,VAM,ControlM,VAControl,1,0
+1G,L Choice M #1 plate6 1G Y,L,Choice,L Choice M #1,M,plate6,35200,50,L Choice M #1,plate6,35250,LChoice,Y,Maggie,LM,ChoiceM,LChoice,0.99858156,0.00141844
+4G,VA Control M #2 plate6 4G Y,VA,Control,VA Control M #2,M,plate6,89600,0,VA Control M #2,plate6,89600,VAControl,Y,Maggie,VAM,ControlM,VAControl,1,0
+3H,E Choice M #2 plate6 3H Y,E,Choice,E Choice M #2,M,plate6,51200,0,E Choice M #2,plate6,51200,EChoice,Y,Maggie,EM,ChoiceM,EChoice,1,0
+5H,VA Control M #1 plate6 5H Y,VA,Control,VA Control M #1,M,plate6,67200,50,VA Control M #1,plate6,67250,VAControl,Y,Maggie,VAM,ControlM,VAControl,0.999256506,0.000743494
+145,ME Choice F #1 145 reps,ME,Choice,ME Choice F #1 145 reps,F,N,3645441,81,ME Choice F #1 145 reps,rep3,3645522,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.999977781,2.22E-05
+147,ME Choice M #1 147 reps,ME,Choice,ME Choice M #1 147 reps,M,N,399361,1921,ME Choice M #1 147 reps,rep3,401282,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.995212843,0.004787157
+149,ME Choice F #2 149 reps,ME,Choice,ME Choice F #2 149 reps,F,N,4710401,801,ME Choice F #2 149 reps,rep3,4711202,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.99982998,0.00017002
+151,ME Choice M #2 151 reps,ME,Choice,ME Choice M #2 151 reps,M,N,1290241,1701,ME Choice M #2 151 reps,rep3,1291942,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.998683377,0.001316623
+153,ME Choice F #3 153 reps,ME,Choice,ME Choice F #3 153 reps,F,N,1126401,641,ME Choice F #3 153 reps,rep3,1127042,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.999431255,0.000568745
+155,ME Choice M #3 155 reps,ME,Choice,ME Choice M #3 155 reps,M,N,317441,5921,ME Choice M #3 155 reps,rep3,323362,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.981689252,0.018310748
+157,ME Control F #1 157 reps,ME,Control,ME Control F #1 157 reps,F,N,2170881,21,ME Control F #1 157 reps,rep3,2170902,MEControl,N,reps,MEF,ControlF,MEControl,0.999990327,9.67E-06
+159,ME Control M #1 159 reps,ME,Control,ME Control M #1 159 reps,M,N,757761,1,ME Control M #1 159 reps,rep3,757762,MEControl,N,reps,MEM,ControlM,MEControl,0.99999868,1.32E-06
+161,ME Control F #2 161 reps,ME,Control,ME Control F #2 161 reps,F,N,1853441,1,ME Control F #2 161 reps,rep3,1853442,MEControl,N,reps,MEF,ControlF,MEControl,0.99999946,5.40E-07
+163,ME Control M #2 163 reps,ME,Control,ME Control M #2 163 reps,M,N,216321,1,ME Control M #2 163 reps,rep3,216322,MEControl,N,reps,MEM,ControlM,MEControl,0.999995377,4.62E-06
+165,ME Control F #3 165 reps,ME,Control,ME Control F #3 165 reps,F,N,460801,1,ME Control F #3 165 reps,rep3,460802,MEControl,N,reps,MEF,ControlF,MEControl,0.99999783,2.17E-06
+167,ME Control M #3 167 reps,ME,Control,ME Control M #3 167 reps,M,N,102401,1,ME Control M #3 167 reps,rep3,102402,MEControl,N,reps,MEM,ControlM,MEControl,0.999990235,9.77E-06
+169,F Choice F #1 169 reps,F,Choice,F Choice F #1 169 reps,F,N,5652481,1,F Choice F #1 169 reps,rep3,5652482,FChoice,N,reps,FF,ChoiceF,FChoice,0.999999823,1.77E-07
+171,F Choice M #1 171 reps,F,Choice,F Choice M #1 171 reps,M,N,573441,1,F Choice M #1 171 reps,rep3,573442,FChoice,N,reps,FM,ChoiceM,FChoice,0.999998256,1.74E-06
+173,F Choice F #2 173 reps,F,Choice,F Choice F #2 173 reps,F,N,6635521,1,F Choice F #2 173 reps,rep3,6635522,FChoice,N,reps,FF,ChoiceF,FChoice,0.999999849,1.51E-07
+175,F Choice M #2 175 reps,F,Choice,F Choice M #2 175 reps,M,N,778241,1,F Choice M #2 175 reps,rep3,778242,FChoice,N,reps,FM,ChoiceM,FChoice,0.999998715,1.28E-06
+177,F Choice F #3 177 reps,F,Choice,F Choice F #3 177 reps,F,N,184321,1,F Choice F #3 177 reps,rep3,184322,FChoice,N,reps,FF,ChoiceF,FChoice,0.999994575,5.43E-06
+179,F Choice M #3 179 reps,F,Choice,F Choice M #3 179 reps,M,N,154881,1,F Choice M #3 179 reps,rep3,154882,FChoice,N,reps,FM,ChoiceM,FChoice,0.999993543,6.46E-06
+181,F Control F #1 181 reps,F,Control,F Control F #1 181 reps,F,N,1536001,1,F Control F #1 181 reps,rep3,1536002,FControl,N,reps,FF,ControlF,FControl,0.999999349,6.51E-07
+183,F Control M #1 183 reps,F,Control,F Control M #1 183 reps,M,N,634881,1,F Control M #1 183 reps,rep3,634882,FControl,N,reps,FM,ControlM,FControl,0.999998425,1.58E-06
+185,F Control F #2 185 reps,F,Control,F Control F #2 185 reps,F,N,129281,1,F Control F #2 185 reps,rep3,129282,FControl,N,reps,FF,ControlF,FControl,0.999992265,7.74E-06
+187,F Control M #2 187 reps,F,Control,F Control M #2 187 reps,M,N,117761,1,F Control M #2 187 reps,rep3,117762,FControl,N,reps,FM,ControlM,FControl,0.999991508,8.49E-06
+189,F Control F #3 189 reps,F,Control,F Control F #3 189 reps,F,N,358401,1,F Control F #3 189 reps,rep3,358402,FControl,N,reps,FF,ControlF,FControl,0.99999721,2.79E-06
+191,F Control M #3 191 reps,F,Control,F Control M #3 191 reps,M,N,172801,1,F Control M #3 191 reps,rep3,172802,FControl,N,reps,FM,ControlM,FControl,0.999994213,5.79E-06
+193,PA Choice F #1 193 reps,PA,Choice,PA Choice F #1 193 reps,F,N,419841,41,PA Choice F #1 193 reps,rep3,419882,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999902354,9.76E-05
+195,PA Choice M #1 195 reps,PA,Choice,PA Choice M #1 195 reps,M,N,430081,121,PA Choice M #1 195 reps,rep3,430202,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.999718737,0.000281263
+197,PA Choice F #2 197 reps,PA,Choice,PA Choice F #2 197 reps,F,N,645121,121601,PA Choice F #2 197 reps,rep3,766722,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.841401447,0.158598553
+199,PA Choice M #2 199 reps,PA,Choice,PA Choice M #2 199 reps,M,N,161281,41,PA Choice M #2 199 reps,rep3,161322,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.99974585,0.00025415
+201,PA Choice F #3 201 reps,PA,Choice,PA Choice F #3 201 reps,F,N,1003521,1,PA Choice F #3 201 reps,rep3,1003522,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999999004,9.96E-07
+203,PA Choice M #3 203 reps,PA,Choice,PA Choice M #3 203 reps,M,N,317441,1,PA Choice M #3 203 reps,rep3,317442,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.99999685,3.15E-06
+205,PA Control F #1 205 reps,PA,Control,PA Control F #1 205 reps,F,N,911361,41,PA Control F #1 205 reps,rep3,911402,PAControl,N,reps,PAF,ControlF,PAControl,0.999955014,4.50E-05
+207,PA Control M #1 207 reps,PA,Control,PA Control M #1 207 reps,M,N,573441,521,PA Control M #1 207 reps,rep3,573962,PAControl,N,reps,PAM,ControlM,PAControl,0.999092274,0.000907726
+209,PA Control F #2 209 reps,PA,Control,PA Control F #2 209 reps,F,N,1003521,21,PA Control F #2 209 reps,rep3,1003542,PAControl,N,reps,PAF,ControlF,PAControl,0.999979074,2.09E-05
+211,PA Control M #2 211 reps,PA,Control,PA Control M #2 211 reps,M,N,140801,61,PA Control M #2 211 reps,rep3,140862,PAControl,N,reps,PAM,ControlM,PAControl,0.999566952,0.000433048
+213,PA Control F #3 213 reps,PA,Control,PA Control F #3 213 reps,F,N,942081,1,PA Control F #3 213 reps,rep3,942082,PAControl,N,reps,PAF,ControlF,PAControl,0.999998939,1.06E-06
+215,PA Control M #3 215 reps,PA,Control,PA Control M #3 215 reps,M,N,107521,161,PA Control M #3 215 reps,rep3,107682,PAControl,N,reps,PAM,ControlM,PAControl,0.998504857,0.001495143
+217,ME Choice F #1 217 reps,ME,Choice,ME Choice F #1 217 reps,F,N,3276801,41,ME Choice F #1 217 reps,rep4,3276842,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.999987488,1.25E-05
+219,ME Choice M #1 219 reps,ME,Choice,ME Choice M #1 219 reps,M,N,110081,741,ME Choice M #1 219 reps,rep4,110822,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.993313602,0.006686398
+221,ME Choice F #2 221 reps,ME,Choice,ME Choice F #2 221 reps,F,N,1085441,601,ME Choice F #2 221 reps,rep4,1086042,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.999446614,0.000553386
+223,ME Choice M #2 223 reps,ME,Choice,ME Choice M #2 223 reps,M,N,983041,1,ME Choice M #2 223 reps,rep4,983042,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.999998983,1.02E-06
+225,ME Choice F #3 225 reps,ME,Choice,ME Choice F #3 225 reps,F,N,3194881,2061,ME Choice F #3 225 reps,rep4,3196942,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.999355321,0.000644679
+227,ME Choice M #3 227 reps,ME,Choice,ME Choice M #3 227 reps,M,N,93441,61,ME Choice M #3 227 reps,rep4,93502,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.999347608,0.000652392
+229,ME Control F #1 229 reps,ME,Control,ME Control F #1 229 reps,F,N,849921,121,ME Control F #1 229 reps,rep4,850042,MEControl,N,reps,MEF,ControlF,MEControl,0.999857654,0.000142346
+231,ME Control M #1 231 reps,ME,Control,ME Control M #1 231 reps,M,N,261121,121,ME Control M #1 231 reps,rep4,261242,MEControl,N,reps,MEM,ControlM,MEControl,0.999536828,0.000463172
+233,ME Control F #2 233 reps,ME,Control,ME Control F #2 233 reps,F,N,1259521,201,ME Control F #2 233 reps,rep4,1259722,MEControl,N,reps,MEF,ControlF,MEControl,0.999840441,0.000159559
+235,ME Control M #2 235 reps,ME,Control,ME Control M #2 235 reps,M,N,126721,541,ME Control M #2 235 reps,rep4,127262,MEControl,N,reps,MEM,ControlM,MEControl,0.995748927,0.004251073
+237,ME Control F #3 237 reps,ME,Control,ME Control F #3 237 reps,F,N,1843201,361,ME Control F #3 237 reps,rep4,1843562,MEControl,N,reps,MEF,ControlF,MEControl,0.999804183,0.000195817
+239,ME Control M #3 239 reps,ME,Control,ME Control M #3 239 reps,M,N,92161,1,ME Control M #3 239 reps,rep4,92162,MEControl,N,reps,MEM,ControlM,MEControl,0.99998915,1.09E-05
+241,F Choice F #1 241 reps,F,Choice,F Choice F #1 241 reps,F,N,378881,41,F Choice F #1 241 reps,rep4,378922,FChoice,N,reps,FF,ChoiceF,FChoice,0.999891798,0.000108202
+243,F Choice M #1 243 reps,F,Choice,F Choice M #1 243 reps,M,N,80641,21,F Choice M #1 243 reps,rep4,80662,FChoice,N,reps,FM,ChoiceM,FChoice,0.999739654,0.000260346
+245,F Choice F #2 245 reps,F,Choice,F Choice F #2 245 reps,F,N,675841,41,F Choice F #2 245 reps,rep4,675882,FChoice,N,reps,FF,ChoiceF,FChoice,0.999939339,6.07E-05
+247,F Choice M #2 247 reps,F,Choice,F Choice M #2 247 reps,M,N,142081,121,F Choice M #2 247 reps,rep4,142202,FChoice,N,reps,FM,ChoiceM,FChoice,0.999149098,0.000850902
+249,F Choice F #3 249 reps,F,Choice,F Choice F #3 249 reps,F,N,460801,1,F Choice F #3 249 reps,rep4,460802,FChoice,N,reps,FF,ChoiceF,FChoice,0.99999783,2.17E-06
+251,F Choice M #3 251 reps,F,Choice,F Choice M #3 251 reps,M,N,39681,1,F Choice M #3 251 reps,rep4,39682,FChoice,N,reps,FM,ChoiceM,FChoice,0.9999748,2.52E-05
+253,F Control F #1 253 reps,F,Control,F Control F #1 253 reps,F,N,5406721,101,F Control F #1 253 reps,rep4,5406822,FControl,N,reps,FF,ControlF,FControl,0.99998132,1.87E-05
+255,F Control M #1 255 reps,F,Control,F Control M #1 255 reps,M,N,358401,1421,F Control M #1 255 reps,rep4,359822,FControl,N,reps,FM,ControlM,FControl,0.996050825,0.003949175
+257,F Control F #2 257 reps,F,Control,F Control F #2 257 reps,F,N,4915201,161,F Control F #2 257 reps,rep4,4915362,FControl,N,reps,FF,ControlF,FControl,0.999967246,3.28E-05
+259,F Control M #2 259 reps,F,Control,F Control M #2 259 reps,M,N,368641,61,F Control M #2 259 reps,rep4,368702,FControl,N,reps,FM,ControlM,FControl,0.999834555,0.000165445
+261,F Control F #3 261 reps,F,Control,F Control F #3 261 reps,F,N,870401,21,F Control F #3 261 reps,rep4,870422,FControl,N,reps,FF,ControlF,FControl,0.999975874,2.41E-05
+263,F Control M #3 263 reps,F,Control,F Control M #3 263 reps,M,N,39681,1,F Control M #3 263 reps,rep4,39682,FControl,N,reps,FM,ControlM,FControl,0.9999748,2.52E-05
+265,PA Choice F #1 265 reps,PA,Choice,PA Choice F #1 265 reps,F,N,1116161,101,PA Choice F #1 265 reps,rep4,1116262,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999909519,9.05E-05
+267,PA Choice M #1 267 reps,PA,Choice,PA Choice M #1 267 reps,M,N,337921,141,PA Choice M #1 267 reps,rep4,338062,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.999582917,0.000417083
+269,PA Choice F #2 269 reps,PA,Choice,PA Choice F #2 269 reps,F,N,2457601,421,PA Choice F #2 269 reps,rep4,2458022,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999828724,0.000171276
+271,PA Choice M #2 271 reps,PA,Choice,PA Choice M #2 271 reps,M,N,122881,181,PA Choice M #2 271 reps,rep4,123062,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.998529197,0.001470803
+273,PA Choice F #3 273 reps,PA,Choice,PA Choice F #3 273 reps,F,N,3891201,181,PA Choice F #3 273 reps,rep4,3891382,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999953487,4.65E-05
+275,PA Choice M #3 275 reps,PA,Choice,PA Choice M #3 275 reps,M,N,2990081,141,PA Choice M #3 275 reps,rep4,2990222,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.999952846,4.72E-05
+277,PA Control F #1 277 reps,PA,Control,PA Control F #1 277 reps,F,N,860161,1,PA Control F #1 277 reps,rep4,860162,PAControl,N,reps,PAF,ControlF,PAControl,0.999998837,1.16E-06
+279,PA Control M #1 279 reps,PA,Control,PA Control M #1 279 reps,M,N,98561,841,PA Control M #1 279 reps,rep4,99402,PAControl,N,reps,PAM,ControlM,PAControl,0.991539406,0.008460594
+281,PA Control F #2 281 reps,PA,Control,PA Control F #2 281 reps,F,N,2785281,61,PA Control F #2 281 reps,rep4,2785342,PAControl,N,reps,PAF,ControlF,PAControl,0.9999781,2.19E-05
+283,PA Control M #2 283 reps,PA,Control,PA Control M #2 283 reps,M,N,1095681,141,PA Control M #2 283 reps,rep4,1095822,PAControl,N,reps,PAM,ControlM,PAControl,0.999871329,0.000128671
+285,PA Control F #3 285 reps,PA,Control,PA Control F #3 285 reps,F,N,2048001,61,PA Control F #3 285 reps,rep4,2048062,PAControl,N,reps,PAF,ControlF,PAControl,0.999970216,2.98E-05
+287,PA Control M #3 287 reps,PA,Control,PA Control M #3 287 reps,M,N,1024001,141,PA Control M #3 287 reps,rep4,1024142,PAControl,N,reps,PAM,ControlM,PAControl,0.999862324,0.000137676
+289,F Choice F #1 289 reps,F,Choice,F Choice F #1 289 reps,F,N,71681,61,F Choice F #1 289 reps,rep5,71742,FChoice,N,reps,FF,ChoiceF,FChoice,0.999149731,0.000850269
+291,F Choice M #1 291 reps,F,Choice,F Choice M #1 291 reps,M,N,84481,1761,F Choice M #1 291 reps,rep5,86242,FChoice,N,reps,FM,ChoiceM,FChoice,0.979580715,0.020419285
+293,F Choice F #2 293 reps,F,Choice,F Choice F #2 293 reps,F,N,49921,181,F Choice F #2 293 reps,rep5,50102,FChoice,N,reps,FF,ChoiceF,FChoice,0.99638737,0.00361263
+295,F Choice M #2 295 reps,F,Choice,F Choice M #2 295 reps,M,N,72961,101,F Choice M #2 295 reps,rep5,73062,FChoice,N,reps,FM,ChoiceM,FChoice,0.998617612,0.001382388
+297,F Choice F #3 297 reps,F,Choice,F Choice F #3 297 reps,F,N,378881,161,F Choice F #3 297 reps,rep5,379042,FChoice,N,reps,FF,ChoiceF,FChoice,0.999575245,0.000424755
+299,F Choice M #3 299 reps,F,Choice,F Choice M #3 299 reps,M,N,76801,81,F Choice M #3 299 reps,rep5,76882,FChoice,N,reps,FM,ChoiceM,FChoice,0.998946437,0.001053563
+301,F Control F #1 301 reps,F,Control,F Control F #1 301 reps,F,N,337921,1,F Control F #1 301 reps,rep5,337922,FControl,N,reps,FF,ControlF,FControl,0.999997041,2.96E-06
+303,F Control M #1 303 reps,F,Control,F Control M #1 303 reps,M,N,1310721,121,F Control M #1 303 reps,rep5,1310842,FControl,N,reps,FM,ControlM,FControl,0.999907693,9.23E-05
+305,F Control F #2 305 reps,F,Control,F Control F #2 305 reps,F,N,686081,1,F Control F #2 305 reps,rep5,686082,FControl,N,reps,FF,ControlF,FControl,0.999998542,1.46E-06
+307,F Control M #2 307 reps,F,Control,F Control M #2 307 reps,M,N,716801,41,F Control M #2 307 reps,rep5,716842,FControl,N,reps,FM,ControlM,FControl,0.999942805,5.72E-05
+309,F Control F #3 309 reps,F,Control,F Control F #3 309 reps,F,N,706561,101,F Control F #3 309 reps,rep5,706662,FControl,N,reps,FF,ControlF,FControl,0.999857075,0.000142925
+311,F Control M #3 311 reps,F,Control,F Control M #3 311 reps,M,N,512001,101,F Control M #3 311 reps,rep5,512102,FControl,N,reps,FM,ControlM,FControl,0.999802774,0.000197226
+313,ME Choice F #1 313 reps,ME,Choice,ME Choice F #1 313 reps,F,N,69121,41,ME Choice F #1 313 reps,rep5,69162,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.999407189,0.000592811
+315,ME Choice M #1 315 reps,ME,Choice,ME Choice M #1 315 reps,M,N,39681,221,ME Choice M #1 315 reps,rep5,39902,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.994461431,0.005538569
+317,ME Choice F #2 317 reps,ME,Choice,ME Choice F #2 317 reps,F,N,34561,621,ME Choice F #2 317 reps,rep5,35182,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.982348928,0.017651072
+319,ME Choice M #2 319 reps,ME,Choice,ME Choice M #2 319 reps,M,N,30081,1261,ME Choice M #2 319 reps,rep5,31342,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.959766448,0.040233552
+321,ME Choice F #3 321 reps,ME,Choice,ME Choice F #3 321 reps,F,N,13921,321,ME Choice F #3 321 reps,rep5,14242,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.977461031,0.022538969
+323,ME Choice M #3 323 reps,ME,Choice,ME Choice M #3 323 reps,M,N,15681,241,ME Choice M #3 323 reps,rep5,15922,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.984863711,0.015136289
+325,ME Control F #1 325 reps,ME,Control,ME Control F #1 325 reps,F,N,450561,141,ME Control F #1 325 reps,rep5,450702,MEControl,N,reps,MEF,ControlF,MEControl,0.999687155,0.000312845
+327,ME Control M #1 327 reps,ME,Control,ME Control M #1 327 reps,M,N,1146881,21,ME Control M #1 327 reps,rep5,1146902,MEControl,N,reps,MEM,ControlM,MEControl,0.99998169,1.83E-05
+329,ME Control F #2 329 reps,ME,Control,ME Control F #2 329 reps,F,N,747521,81,ME Control F #2 329 reps,rep5,747602,MEControl,N,reps,MEF,ControlF,MEControl,0.999891654,0.000108346
+331,ME Control M #2 331 reps,ME,Control,ME Control M #2 331 reps,M,N,337921,41,ME Control M #2 331 reps,rep5,337962,MEControl,N,reps,MEM,ControlM,MEControl,0.999878685,0.000121315
+333,ME Control F #3 333 reps,ME,Control,ME Control F #3 333 reps,F,N,634881,1,ME Control F #3 333 reps,rep5,634882,MEControl,N,reps,MEF,ControlF,MEControl,0.999998425,1.58E-06
+335,ME Control M #3 335 reps,ME,Control,ME Control M #3 335 reps,M,N,634881,1,ME Control M #3 335 reps,rep5,634882,MEControl,N,reps,MEM,ControlM,MEControl,0.999998425,1.58E-06
+337,PA Choice F #1 337 reps,PA,Choice,PA Choice F #1 337 reps,F,N,716801,281,PA Choice F #1 337 reps,rep5,717082,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999608134,0.000391866
+339,PA Choice M #1 339 reps,PA,Choice,PA Choice M #1 339 reps,M,N,133121,161,PA Choice M #1 339 reps,rep5,133282,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.998792035,0.001207965
+341,PA Choice F #2 341 reps,PA,Choice,PA Choice F #2 341 reps,F,N,706561,9601,PA Choice F #2 341 reps,rep5,716162,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.986593815,0.013406185
+343,PA Choice M #2 343 reps,PA,Choice,PA Choice M #2 343 reps,M,N,399361,421,PA Choice M #2 343 reps,rep5,399782,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.998946926,0.001053074
+345,PA Choice F #3 345 reps,PA,Choice,PA Choice F #3 345 reps,F,N,768001,3201,PA Choice F #3 345 reps,rep5,771202,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.995849336,0.004150664
+347,PA Choice M #3 347 reps,PA,Choice,PA Choice M #3 347 reps,M,N,368641,41,PA Choice M #3 347 reps,rep5,368682,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.999888793,0.000111207
+349,PA Control F #1 349 reps,PA,Control,PA Control F #1 349 reps,F,N,419841,121,PA Control F #1 349 reps,rep5,419962,PAControl,N,reps,PAF,ControlF,PAControl,0.999711879,0.000288121
+351,PA Control M #1 351 reps,PA,Control,PA Control M #1 351 reps,M,N,276481,41,PA Control M #1 351 reps,rep5,276522,PAControl,N,reps,PAM,ControlM,PAControl,0.99985173,0.00014827
+353,PA Control F #2 353 reps,PA,Control,PA Control F #2 353 reps,F,N,2048001,41,PA Control F #2 353 reps,rep5,2048042,PAControl,N,reps,PAF,ControlF,PAControl,0.999979981,2.00E-05
+355,PA Control M #2 355 reps,PA,Control,PA Control M #2 355 reps,M,N,686081,841,PA Control M #2 355 reps,rep5,686922,PAControl,N,reps,PAM,ControlM,PAControl,0.998775698,0.001224302
+357,PA Control F #3 357 reps,PA,Control,PA Control F #3 357 reps,F,N,716801,21,PA Control F #3 357 reps,rep5,716822,PAControl,N,reps,PAF,ControlF,PAControl,0.999970704,2.93E-05
+359,PA Control M #3 359 reps,PA,Control,PA Control M #3 359 reps,M,N,942081,241,PA Control M #3 359 reps,rep5,942322,PAControl,N,reps,PAM,ControlM,PAControl,0.999744249,0.000255751
+361,ME Choice F #1 361 reps,ME,Choice,ME Choice F #1 361 reps,F,N,819201,1601,ME Choice F #1 361 reps,rep6,820802,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.998049469,0.001950531
+363,ME Choice M #1 363 reps,ME,Choice,ME Choice M #1 363 reps,M,N,8641,621,ME Choice M #1 363 reps,rep6,9262,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.932951846,0.067048154
+369,ME Control F #1 369 reps,ME,Control,ME Control F #1 369 reps,F,N,256001,81,ME Control F #1 369 reps,rep6,256082,MEControl,N,reps,MEF,ControlF,MEControl,0.999683695,0.000316305
+371,ME Control M #1 371 reps,ME,Control,ME Control M #1 371 reps,M,N,266241,161,ME Control M #1 371 reps,rep6,266402,MEControl,N,reps,MEM,ControlM,MEControl,0.99939565,0.00060435
+373,ME Control F #2 373 reps,ME,Control,ME Control F #2 373 reps,F,N,808961,161,ME Control F #2 373 reps,rep6,809122,MEControl,N,reps,MEF,ControlF,MEControl,0.999801019,0.000198981
+375,ME Control M #2 375 reps,ME,Control,ME Control M #2 375 reps,M,N,111361,41,ME Control M #2 375 reps,rep6,111402,MEControl,N,reps,MEM,ControlM,MEControl,0.999631964,0.000368036
+377,F Choice F #1 377 reps,F,Choice,F Choice F #1 377 reps,F,N,66561,2081,F Choice F #1 377 reps,rep6,68642,FChoice,N,reps,FF,ChoiceF,FChoice,0.969683284,0.030316716
+379,F Choice M #1 379 reps,F,Choice,F Choice M #1 379 reps,M,N,76801,641,F Choice M #1 379 reps,rep6,77442,FChoice,N,reps,FM,ChoiceM,FChoice,0.991722838,0.008277162
+381,F Choice F #2 381 reps,F,Choice,F Choice F #2 381 reps,F,N,72961,1441,F Choice F #2 381 reps,rep6,74402,FChoice,N,reps,FF,ChoiceF,FChoice,0.980632241,0.019367759
+383,F Choice M #2 383 reps,F,Choice,F Choice M #2 383 reps,M,N,81921,2241,F Choice M #2 383 reps,rep6,84162,FChoice,N,reps,FM,ChoiceM,FChoice,0.973372781,0.026627219
+385,F Control F #1 385 reps,F,Control,F Control F #1 385 reps,F,N,64001,1,F Control F #1 385 reps,rep6,64002,FControl,N,reps,FF,ControlF,FControl,0.999984375,1.56E-05
+387,F Control M #1 387 reps,F,Control,F Control M #1 387 reps,M,N,98561,21,F Control M #1 387 reps,rep6,98582,FControl,N,reps,FM,ControlM,FControl,0.999786979,0.000213021
+389,F Control F #2 389 reps,F,Control,F Control F #2 389 reps,F,N,149761,1,F Control F #2 389 reps,rep6,149762,FControl,N,reps,FF,ControlF,FControl,0.999993323,6.68E-06
+391,F Control M #2 391 reps,F,Control,F Control M #2 391 reps,M,N,51201,1,F Control M #2 391 reps,rep6,51202,FControl,N,reps,FM,ControlM,FControl,0.99998047,1.95E-05
+393,PA Choice F #1 393 reps,PA,Choice,PA Choice F #1 393 reps,F,N,1351681,341,PA Choice F #1 393 reps,rep6,1352022,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999747785,0.000252215
+395,PA Choice M #1 395 reps,PA,Choice,PA Choice M #1 395 reps,M,N,122881,3041,PA Choice M #1 395 reps,rep6,125922,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.975850129,0.024149871
+397,PA Choice F #2 397 reps,PA,Choice,PA Choice F #2 397 reps,F,N,1699841,6721,PA Choice F #2 397 reps,rep6,1706562,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.996061673,0.003938327
+399,PA Choice M #2 399 reps,PA,Choice,PA Choice M #2 399 reps,M,N,99841,1401,PA Choice M #2 399 reps,rep6,101242,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.98616187,0.01383813
+401,PA Control F #1 401 reps,PA,Control,PA Control F #1 401 reps,F,N,104961,81,PA Control F #1 401 reps,rep6,105042,PAControl,N,reps,PAF,ControlF,PAControl,0.99922888,0.00077112
+403,PA Control M #1 403 reps,PA,Control,PA Control M #1 403 reps,M,N,166401,561,PA Control M #1 403 reps,rep6,166962,PAControl,N,reps,PAM,ControlM,PAControl,0.996639954,0.003360046
+405,PA Control F #2 405 reps,PA,Control,PA Control F #2 405 reps,F,N,1310721,161,PA Control F #2 405 reps,rep6,1310882,PAControl,N,reps,PAF,ControlF,PAControl,0.999877182,0.000122818
+407,PA Control M #2 407 reps,PA,Control,PA Control M #2 407 reps,M,N,153601,21,PA Control M #2 407 reps,rep6,153622,PAControl,N,reps,PAM,ControlM,PAControl,0.999863301,0.000136699
+409,ME Choice F #1 409 reps,ME,Choice,ME Choice F #1 409 reps,F,N,450561,6401,ME Choice F #1 409 reps,rep7,456962,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.985992271,0.014007729
+411,ME Choice M #1 411 reps,ME,Choice,ME Choice M #1 411 reps,M,N,99841,1121,ME Choice M #1 411 reps,rep7,100962,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.988896813,0.011103187
+413,ME Choice F #2 413 reps,ME,Choice,ME Choice F #2 413 reps,F,N,138241,2241,ME Choice F #2 413 reps,rep7,140482,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.984047778,0.015952222
+415,ME Choice M #2 415 reps,ME,Choice,ME Choice M #2 415 reps,M,N,481281,1281,ME Choice M #2 415 reps,rep7,482562,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.997345419,0.002654581
+417,ME Control F #1 417 reps,ME,Control,ME Control F #1 417 reps,F,N,1372161,121,ME Control F #1 417 reps,rep7,1372282,MEControl,N,reps,MEF,ControlF,MEControl,0.999911826,8.82E-05
+419,ME Control M #1 419 reps,ME,Control,ME Control M #1 419 reps,M,N,604161,1,ME Control M #1 419 reps,rep7,604162,MEControl,N,reps,MEM,ControlM,MEControl,0.999998345,1.66E-06
+421,ME Control F #2 421 reps,ME,Control,ME Control F #2 421 reps,F,N,706561,221,ME Control F #2 421 reps,rep7,706782,MEControl,N,reps,MEF,ControlF,MEControl,0.999687315,0.000312685
+423,ME Control M #2 423 reps,ME,Control,ME Control M #2 423 reps,M,N,245761,181,ME Control M #2 423 reps,rep7,245942,MEControl,N,reps,MEM,ControlM,MEControl,0.999264054,0.000735946
+427,F Choice M #1 427 reps,F,Choice,F Choice M #1 427 reps,M,N,368641,2401,F Choice M #1 427 reps,rep7,371042,FChoice,N,reps,FM,ChoiceM,FChoice,0.993529034,0.006470966
+429,F Choice F #2 429 reps,F,Choice,F Choice F #2 429 reps,F,N,88321,481,F Choice F #2 429 reps,rep7,88802,FChoice,N,reps,FF,ChoiceF,FChoice,0.994583455,0.005416545
+431,F Choice M #2 431 reps,F,Choice,F Choice M #2 431 reps,M,N,69121,61,F Choice M #2 431 reps,rep7,69182,FChoice,N,reps,FM,ChoiceM,FChoice,0.999118268,0.000881732
+433,F Control F #1 433 reps,F,Control,F Control F #1 433 reps,F,N,266241,341,F Control F #1 433 reps,rep7,266582,FControl,N,reps,FF,ControlF,FControl,0.998720844,0.001279156
+435,F Control M #1 435 reps,F,Control,F Control M #1 435 reps,M,N,42241,21,F Control M #1 435 reps,rep7,42262,FControl,N,reps,FM,ControlM,FControl,0.9995031,0.0004969
+437,F Control F #2 437 reps,F,Control,F Control F #2 437 reps,F,N,88321,61,F Control F #2 437 reps,rep7,88382,FControl,N,reps,FF,ControlF,FControl,0.999309814,0.000690186
+439,F Control M #2 439 reps,F,Control,F Control M #2 439 reps,M,N,8641,1,F Control M #2 439 reps,rep7,8642,FControl,N,reps,FM,ControlM,FControl,0.999884286,0.000115714
+441,PA Choice F #1 441 reps,PA,Choice,PA Choice F #1 441 reps,F,N,1013761,201,PA Choice F #1 441 reps,rep7,1013962,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999801768,0.000198232
+443,PA Choice M #1 443 reps,PA,Choice,PA Choice M #1 443 reps,M,N,1269761,401,PA Choice M #1 443 reps,rep7,1270162,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.999684292,0.000315708
+445,PA Choice F #2 445 reps,PA,Choice,PA Choice F #2 445 reps,F,N,491521,19201,PA Choice F #2 445 reps,rep7,510722,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.962404204,0.037595796
+447,PA Choice M #2 447 reps,PA,Choice,PA Choice M #2 447 reps,M,N,491521,3361,PA Choice M #2 447 reps,rep7,494882,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.993208482,0.006791518
+453,PA Control F #2 453 reps,PA,Control,PA Control F #2 453 reps,F,N,655361,161,PA Control F #2 453 reps,rep7,655522,PAControl,N,reps,PAF,ControlF,PAControl,0.999754394,0.000245606
+455,PA Control M #2 455 reps,PA,Control,PA Control M #2 455 reps,M,N,276481,421,PA Control M #2 455 reps,rep7,276902,PAControl,N,reps,PAM,ControlM,PAControl,0.998479607,0.001520393
+457,ME Choice F #1 457 reps,ME,Choice,ME Choice F #1 457 reps,F,N,189441,281,ME Choice F #1 457 reps,rep8,189722,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.998518886,0.001481114
+459,ME Choice M #1 459 reps,ME,Choice,ME Choice M #1 459 reps,M,N,296961,1601,ME Choice M #1 459 reps,rep8,298562,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.99463763,0.00536237
+461,ME Choice F #2 461 reps,ME,Choice,ME Choice F #2 461 reps,F,N,69121,741,ME Choice F #2 461 reps,rep8,69862,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.989393376,0.010606624
+463,ME Choice M #2 463 reps,ME,Choice,ME Choice M #2 463 reps,M,N,245761,181,ME Choice M #2 463 reps,rep8,245942,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.999264054,0.000735946
+465,ME Choice F #3 465 reps,ME,Choice,ME Choice F #3 465 reps,F,N,64001,221,ME Choice F #3 465 reps,rep8,64222,MEChoice,N,reps,MEF,ChoiceF,MEChoice,0.996558812,0.003441188
+467,ME Choice M #3 467 reps,ME,Choice,ME Choice M #3 467 reps,M,N,49921,61,ME Choice M #3 467 reps,rep8,49982,MEChoice,N,reps,MEM,ChoiceM,MEChoice,0.998779561,0.001220439
+473,ME Control F #2 473 reps,ME,Control,ME Control F #2 473 reps,F,N,675841,681,ME Control F #2 473 reps,rep8,676522,MEControl,N,reps,MEF,ControlF,MEControl,0.998993381,0.001006619
+475,ME Control M #2 475 reps,ME,Control,ME Control M #2 475 reps,M,N,409601,621,ME Control M #2 475 reps,rep8,410222,MEControl,N,reps,MEM,ControlM,MEControl,0.998486186,0.001513814
+477,ME Control F #3 477 reps,ME,Control,ME Control F #3 477 reps,F,N,757761,481,ME Control F #3 477 reps,rep8,758242,MEControl,N,reps,MEF,ControlF,MEControl,0.999365638,0.000634362
+479,ME Control M #3 479 reps,ME,Control,ME Control M #3 479 reps,M,N,276481,941,ME Control M #3 479 reps,rep8,277422,MEControl,N,reps,MEM,ControlM,MEControl,0.996608056,0.003391944
+485,F Choice F #2 485 reps,F,Choice,F Choice F #2 485 reps,F,N,327681,1,F Choice F #2 485 reps,rep8,327682,FChoice,N,reps,FF,ChoiceF,FChoice,0.999996948,3.05E-06
+487,F Choice M #2 487 reps,F,Choice,F Choice M #2 487 reps,M,N,75521,81,F Choice M #2 487 reps,rep8,75602,FChoice,N,reps,FM,ChoiceM,FChoice,0.9989286,0.0010714
+489,F Choice F #3 489 reps,F,Choice,F Choice F #3 489 reps,F,N,614401,41,F Choice F #3 489 reps,rep8,614442,FChoice,N,reps,FF,ChoiceF,FChoice,0.999933273,6.67E-05
+491,F Choice M #3 491 reps,F,Choice,F Choice M #3 491 reps,M,N,78081,801,F Choice M #3 491 reps,rep8,78882,FChoice,N,reps,FM,ChoiceM,FChoice,0.989845592,0.010154408
+493,F Control F #1 493 reps,F,Control,F Control F #1 493 reps,F,N,542721,161,F Control F #1 493 reps,rep8,542882,FControl,N,reps,FF,ControlF,FControl,0.999703435,0.000296565
+495,F Control M #1 495 reps,F,Control,F Control M #1 495 reps,M,N,266241,161,F Control M #1 495 reps,rep8,266402,FControl,N,reps,FM,ControlM,FControl,0.99939565,0.00060435
+497,F Control F #2 497 reps,F,Control,F Control F #2 497 reps,F,N,194561,1,F Control F #2 497 reps,rep8,194562,FControl,N,reps,FF,ControlF,FControl,0.99999486,5.14E-06
+499,F Control M #2 499 reps,F,Control,F Control M #2 499 reps,M,N,296961,61,F Control M #2 499 reps,rep8,297022,FControl,N,reps,FM,ControlM,FControl,0.999794628,0.000205372
+501,F Control F #3 501 reps,F,Control,F Control F #3 501 reps,F,N,46081,21,F Control F #3 501 reps,rep8,46102,FControl,N,reps,FF,ControlF,FControl,0.999544488,0.000455512
+503,F Control M #3 503 reps,F,Control,F Control M #3 503 reps,M,N,75521,1,F Control M #3 503 reps,rep8,75522,FControl,N,reps,FM,ControlM,FControl,0.999986759,1.32E-05
+505,PA Choice F #1 505 reps,PA,Choice,PA Choice F #1 505 reps,F,N,593921,341,PA Choice F #1 505 reps,rep8,594262,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999426179,0.000573821
+507,PA Choice M #1 507 reps,PA,Choice,PA Choice M #1 507 reps,M,N,337921,501,PA Choice M #1 507 reps,rep8,338422,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.9985196,0.0014804
+509,PA Choice F #2 509 reps,PA,Choice,PA Choice F #2 509 reps,F,N,225281,3521,PA Choice F #2 509 reps,rep8,228802,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.984611149,0.015388851
+511,PA Choice M #2 511 reps,PA,Choice,PA Choice M #2 511 reps,M,N,645121,3201,PA Choice M #2 511 reps,rep8,648322,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.995062639,0.004937361
+513,PA Choice F #3 513 reps,PA,Choice,PA Choice F #3 513 reps,F,N,1474561,421,PA Choice F #3 513 reps,rep8,1474982,PAChoice,N,reps,PAF,ChoiceF,PAChoice,0.999714573,0.000285427
+515,PA Choice M #3 515 reps,PA,Choice,PA Choice M #3 515 reps,M,N,1351681,741,PA Choice M #3 515 reps,rep8,1352422,PAChoice,N,reps,PAM,ChoiceM,PAChoice,0.999452094,0.000547906
+517,PA Control F #1 517 reps,PA,Control,PA Control F #1 517 reps,F,N,563201,161,PA Control F #1 517 reps,rep8,563362,PAControl,N,reps,PAF,ControlF,PAControl,0.999714216,0.000285784
+519,PA Control M #1 519 reps,PA,Control,PA Control M #1 519 reps,M,N,450561,1281,PA Control M #1 519 reps,rep8,451842,PAControl,N,reps,PAM,ControlM,PAControl,0.997164938,0.002835062
+521,PA Control F #2 521 reps,PA,Control,PA Control F #2 521 reps,F,N,1392641,161,PA Control F #2 521 reps,rep8,1392802,PAControl,N,reps,PAF,ControlF,PAControl,0.999884406,0.000115594
+523,PA Control M #2 523 reps,PA,Control,PA Control M #2 523 reps,M,N,624641,361,PA Control M #2 523 reps,rep8,625002,PAControl,N,reps,PAM,ControlM,PAControl,0.999422402,0.000577598
+525,PA Control F #3 525 reps,PA,Control,PA Control F #3 525 reps,F,N,839681,421,PA Control F #3 525 reps,rep8,840102,PAControl,N,reps,PAF,ControlF,PAControl,0.99949887,0.00050113
+527,PA Control M #3 527 reps,PA,Control,PA Control M #3 527 reps,M,N,368641,621,PA Control M #3 527 reps,rep8,369262,PAControl,N,reps,PAM,ControlM,PAControl,0.998318267,0.001681733
+1,B Choice F #1 1 caro,B,Choice,B Choice F #1 1 caro,F,N,2795520,180,B Choice F #1 1 caro,carorep1,2795700,BChoice,N,Caro,BF,ChoiceF,BChoice,0.999935615,6.44E-05
+3,B Choice M #1 3 caro,B,Choice,B Choice M #1 3 caro,M,N,1157120,17920,B Choice M #1 3 caro,carorep1,1175040,BChoice,N,Caro,BM,ChoiceM,BChoice,0.984749455,0.015250545
+5,B Choice F #2 5 caro,B,Choice,B Choice F #2 5 caro,F,N,1340,340,B Choice F #2 5 caro,carorep1,1680,BChoice,N,Caro,BF,ChoiceF,BChoice,0.797619048,0.202380952
+9,B Choice F #3 9 caro,B,Choice,B Choice F #3 9 caro,F,N,2304000,2080,B Choice F #3 9 caro,carorep1,2306080,BChoice,N,Caro,BF,ChoiceF,BChoice,0.999098036,0.000901964
+11,B Choice M #3 11 caro,B,Choice,B Choice M #3 11 caro,M,N,727040,6720,B Choice M #3 11 caro,carorep1,733760,BChoice,N,Caro,BM,ChoiceM,BChoice,0.990841692,0.009158308
+13,B Control F #1 13 caro,B,Control,B Control F #1 13 caro,F,N,2580480,420,B Control F #1 13 caro,carorep1,2580900,BControl,N,Caro,BF,ControlF,BControl,0.999837266,0.000162734
+15,B Control M #1 15 caro,B,Control,B Control M #1 15 caro,M,N,412160,80,B Control M #1 15 caro,carorep1,412240,BControl,N,Caro,BM,ControlM,BControl,0.999805938,0.000194062
+17,B Control F #2 17 caro,B,Control,B Control F #2 17 caro,F,N,2150400,560,B Control F #2 17 caro,carorep1,2150960,BControl,N,Caro,BF,ControlF,BControl,0.999739651,0.000260349
+19,B Control M #2 19 caro,B,Control,B Control M #2 19 caro,M,N,185600,500,B Control M #2 19 caro,carorep1,186100,BControl,N,Caro,BM,ControlM,BControl,0.997313272,0.002686728
+21,B Control F #3 21 caro,B,Control,B Control F #3 21 caro,F,N,5120000,200,B Control F #3 21 caro,carorep1,5120200,BControl,N,Caro,BF,ControlF,BControl,0.999960939,3.91E-05
+23,B Control M #3 23 caro,B,Control,B Control M #3 23 caro,M,N,430080,280,B Control M #3 23 caro,carorep1,430360,BControl,N,Caro,BM,ControlM,BControl,0.999349382,0.000650618
+25,L Choice F #1 25 caro,L,Choice,L Choice F #1 25 caro,F,N,1751040,340,L Choice F #1 25 caro,carorep1,1751380,LChoice,N,Caro,LF,ChoiceF,LChoice,0.999805867,0.000194133
+27,L Choice M #1 27 caro,L,Choice,L Choice M #1 27 caro,M,N,88320,240,L Choice M #1 27 caro,carorep1,88560,LChoice,N,Caro,LM,ChoiceM,LChoice,0.997289973,0.002710027
+29,L Choice F #2 29 caro,L,Choice,L Choice F #2 29 caro,F,N,3809280,3680,L Choice F #2 29 caro,carorep1,3812960,LChoice,N,Caro,LF,ChoiceF,LChoice,0.999034871,0.000965129
+31,L Choice M #2 31 caro,L,Choice,L Choice M #2 31 caro,M,N,675840,140,L Choice M #2 31 caro,carorep1,675980,LChoice,N,Caro,LM,ChoiceM,LChoice,0.999792893,0.000207107
+33,L Choice F #3 33 caro,L,Choice,L Choice F #3 33 caro,F,N,1617920,740,L Choice F #3 33 caro,carorep1,1618660,LChoice,N,Caro,LF,ChoiceF,LChoice,0.999542832,0.000457168
+35,L Choice M #3 35 caro,L,Choice,L Choice M #3 35 caro,M,N,317440,1560,L Choice M #3 35 caro,carorep1,319000,LChoice,N,Caro,LM,ChoiceM,LChoice,0.995109718,0.004890282
+37,L Control F #1 37 caro,L,Control,L Control F #1 37 caro,F,N,3768320,620,L Control F #1 37 caro,carorep1,3768940,LControl,N,Caro,LF,ControlF,LControl,0.999835498,0.000164502
+39,L Control M #1 39 caro,L,Control,L Control M #1 39 caro,M,N,737280,3040,L Control M #1 39 caro,carorep1,740320,LControl,N,Caro,LM,ControlM,LControl,0.995893668,0.004106332
+41,L Control F #2 41 caro,L,Control,L Control F #2 41 caro,F,N,3768320,580,L Control F #2 41 caro,carorep1,3768900,LControl,N,Caro,LF,ControlF,LControl,0.999846109,0.000153891
+43,L Control M #2 43 caro,L,Control,L Control M #2 43 caro,M,N,2519040,1000,L Control M #2 43 caro,carorep1,2520040,LControl,N,Caro,LM,ControlM,LControl,0.999603181,0.000396819
+47,L Control M #3 47 caro,L,Control,L Control M #3 47 caro,M,N,573440,0,L Control M #3 47 caro,carorep1,573440,LControl,N,Caro,LM,ControlM,LControl,1,0
+49,D Choice F #1 49 caro,D,Choice,D Choice F #1 49 caro,F,N,4444160,3840,D Choice F #1 49 caro,carorep1,4448000,DChoice,N,Caro,DF,ChoiceF,DChoice,0.999136691,0.000863309
+51,D Choice M #1 51 caro,D,Choice,D Choice M #1 51 caro,M,N,276480,100,D Choice M #1 51 caro,carorep1,276580,DChoice,N,Caro,DM,ChoiceM,DChoice,0.999638441,0.000361559
+53,D Choice F #2 53 caro,D,Choice,D Choice F #2 53 caro,F,N,2170880,40,D Choice F #2 53 caro,carorep1,2170920,DChoice,N,Caro,DF,ChoiceF,DChoice,0.999981575,1.84E-05
+55,D Choice M #2 55 caro,D,Choice,D Choice M #2 55 caro,M,N,134400,180,D Choice M #2 55 caro,carorep1,134580,DChoice,N,Caro,DM,ChoiceM,DChoice,0.998662506,0.001337494
+57,D Choice F #3 57 caro,D,Choice,D Choice F #3 57 caro,F,N,870400,20,D Choice F #3 57 caro,carorep1,870420,DChoice,N,Caro,DF,ChoiceF,DChoice,0.999977023,2.30E-05
+59,D Choice M #3 59 caro,D,Choice,D Choice M #3 59 caro,M,N,839680,2240,D Choice M #3 59 caro,carorep1,841920,DChoice,N,Caro,DM,ChoiceM,DChoice,0.997339415,0.002660585
+61,D Control F #1 61 caro,D,Control,D Control F #1 61 caro,F,N,1351680,0,D Control F #1 61 caro,carorep1,1351680,DControl,N,Caro,DF,ControlF,DControl,1,0
+63,D Control M #1 63 caro,D,Control,D Control M #1 63 caro,M,N,1914880,0,D Control M #1 63 caro,carorep1,1914880,DControl,N,Caro,DM,ControlM,DControl,1,0
+65,D Control F #2 65 caro,D,Control,D Control F #2 65 caro,F,N,5488640,20,D Control F #2 65 caro,carorep1,5488660,DControl,N,Caro,DF,ControlF,DControl,0.999996356,3.64E-06
+67,D Control M #2 67 caro,D,Control,D Control M #2 67 caro,M,N,317440,140,D Control M #2 67 caro,carorep1,317580,DControl,N,Caro,DM,ControlM,DControl,0.999559166,0.000440834
+71,D Control M #3 71 caro,D,Control,D Control M #3 71 caro,M,N,675840,0,D Control M #3 71 caro,carorep1,675840,DControl,N,Caro,DM,ControlM,DControl,1,0
+73,VA Choice F #1 73 caro,VA,Choice,VA Choice F #1 73 caro,F,N,5120000,506880,VA Choice F #1 73 caro,carorep1,5626880,VAChoice,N,Caro,VAF,ChoiceF,VAChoice,0.909918107,0.090081893
+75,VA Choice M #1 75 caro,VA,Choice,VA Choice M #1 75 caro,M,N,614400,15360,VA Choice M #1 75 caro,carorep1,629760,VAChoice,N,Caro,VAM,ChoiceM,VAChoice,0.975609756,0.024390244
+77,VA Choice F #2 77 caro,VA,Choice,VA Choice F #2 77 caro,F,N,3891200,12000,VA Choice F #2 77 caro,carorep1,3903200,VAChoice,N,Caro,VAF,ChoiceF,VAChoice,0.9969256,0.0030744
+81,VA Choice F #3 81 caro,VA,Choice,VA Choice F #3 81 caro,F,N,2775040,24320,VA Choice F #3 81 caro,carorep1,2799360,VAChoice,N,Caro,VAF,ChoiceF,VAChoice,0.9913123,0.0086877
+83,VA Choice M #3 83 caro,VA,Choice,VA Choice M #3 83 caro,M,N,1003520,61440,VA Choice M #3 83 caro,carorep1,1064960,VAChoice,N,Caro,VAM,ChoiceM,VAChoice,0.942307692,0.057692308
+85,VA Control F #1 85 caro,VA,Control,VA Control F #1 85 caro,F,N,2324480,6720,VA Control F #1 85 caro,carorep1,2331200,VAControl,N,Caro,VAF,ControlF,VAControl,0.997117364,0.002882636
+87,VA Control M #1 87 caro,VA,Control,VA Control M #1 87 caro,M,N,368640,260,VA Control M #1 87 caro,carorep1,368900,VAControl,N,Caro,VAM,ControlM,VAControl,0.999295202,0.000704798
+89,VA Control F #2 89 caro,VA,Control,VA Control F #2 89 caro,F,N,2017280,200,VA Control F #2 89 caro,carorep1,2017480,VAControl,N,Caro,VAF,ControlF,VAControl,0.999900866,9.91E-05
+91,VA Control M #2 91 caro,VA,Control,VA Control M #2 91 caro,M,N,64000,20,VA Control M #2 91 caro,carorep1,64020,VAControl,N,Caro,VAM,ControlM,VAControl,0.999687598,0.000312402
+93,VA Control F #3 93 caro,VA,Control,VA Control F #3 93 caro,F,N,2293760,60,VA Control F #3 93 caro,carorep1,2293820,VAControl,N,Caro,VAF,ControlF,VAControl,0.999973843,2.62E-05
+95,VA Control M #3 95 caro,VA,Control,VA Control M #3 95 caro,M,N,286720,40,VA Control M #3 95 caro,carorep1,286760,VAControl,N,Caro,VAM,ControlM,VAControl,0.999860511,0.000139489
+97,PA Choice F #1 97 caro,PA,Choice,PA Choice F #1 97 caro,F,N,1116160,560,PA Choice F #1 97 caro,carorep1,1116720,PAChoice,N,Caro,PAF,ChoiceF,PAChoice,0.999498531,0.000501469
+99,PA Choice M #1 99 caro,PA,Choice,PA Choice M #1 99 caro,M,N,614400,4160,PA Choice M #1 99 caro,carorep1,618560,PAChoice,N,Caro,PAM,ChoiceM,PAChoice,0.993274703,0.006725297
+101,PA Choice F #2 101 caro,PA,Choice,PA Choice F #2 101 caro,F,N,419840,720,PA Choice F #2 101 caro,carorep1,420560,PAChoice,N,Caro,PAF,ChoiceF,PAChoice,0.998287997,0.001712003
+103,PA Choice M #2 103 caro,PA,Choice,PA Choice M #2 103 caro,M,N,542720,440,PA Choice M #2 103 caro,carorep1,543160,PAChoice,N,Caro,PAM,ChoiceM,PAChoice,0.999189926,0.000810074
+105,PA Choice F #3 105 caro,PA,Choice,PA Choice F #3 105 caro,F,N,3850240,200,PA Choice F #3 105 caro,carorep1,3850440,PAChoice,N,Caro,PAF,ChoiceF,PAChoice,0.999948058,5.19E-05
+107,PA Choice M #3 107 caro,PA,Choice,PA Choice M #3 107 caro,M,N,317440,920,PA Choice M #3 107 caro,carorep1,318360,PAChoice,N,Caro,PAM,ChoiceM,PAChoice,0.99711019,0.00288981
+109,PA Control F #1 109 caro,PA,Control,PA Control F #1 109 caro,F,N,1884160,140,PA Control F #1 109 caro,carorep1,1884300,PAControl,N,Caro,PAF,ControlF,PAControl,0.999925702,7.43E-05
+111,PA Control M #1 111 caro,PA,Control,PA Control M #1 111 caro,M,N,512000,260,PA Control M #1 111 caro,carorep1,512260,PAControl,N,Caro,PAM,ControlM,PAControl,0.999492445,0.000507555
+113,PA Control F #2 113 caro,PA,Control,PA Control F #2 113 caro,F,N,870400,240,PA Control F #2 113 caro,carorep1,870640,PAControl,N,Caro,PAF,ControlF,PAControl,0.999724341,0.000275659
+115,PA Control M #2 115 caro,PA,Control,PA Control M #2 115 caro,M,N,696320,280,PA Control M #2 115 caro,carorep1,696600,PAControl,N,Caro,PAM,ControlM,PAControl,0.999598048,0.000401952
+117,PA Control F #3 117 caro,PA,Control,PA Control F #3 117 caro,F,N,798720,200,PA Control F #3 117 caro,carorep1,798920,PAControl,N,Caro,PAF,ControlF,PAControl,0.999749662,0.000250338
+119,PA Control M #3 119 caro,PA,Control,PA Control M #3 119 caro,M,N,747520,0,PA Control M #3 119 caro,carorep1,747520,PAControl,N,Caro,PAM,ControlM,PAControl,1,0
+121,B Choice F #1 121 caro,B,Choice,B Choice F #1 121 caro,F,N,706560,4480,B Choice F #1 121 caro,carorep2,711040,BChoice,N,Caro,BF,ChoiceF,BChoice,0.99369937,0.00630063
+123,B Choice M #1 123 caro,B,Choice,B Choice M #1 123 caro,M,N,808960,160,B Choice M #1 123 caro,carorep2,809120,BChoice,N,Caro,BM,ChoiceM,BChoice,0.999802254,0.000197746
+125,B Choice F #2 125 caro,B,Choice,B Choice F #2 125 caro,F,N,972800,500,B Choice F #2 125 caro,carorep2,973300,BChoice,N,Caro,BF,ChoiceF,BChoice,0.999486284,0.000513716
+127,B Choice M #2 127 caro,B,Choice,B Choice M #2 127 caro,M,N,430080,600,B Choice M #2 127 caro,carorep2,430680,BChoice,N,Caro,BM,ChoiceM,BChoice,0.998606854,0.001393146
+133,B Control F #1 133 caro,B,Control,B Control F #1 133 caro,F,N,399360,4640,B Control F #1 133 caro,carorep2,404000,BControl,N,Caro,BF,ControlF,BControl,0.988514851,0.011485149
+135,B Control M #1 135 caro,B,Control,B Control M #1 135 caro,M,N,266240,1180,B Control M #1 135 caro,carorep2,267420,BControl,N,Caro,BM,ControlM,BControl,0.995587465,0.004412535
+137,B Control F #2 137 caro,B,Control,B Control F #2 137 caro,F,N,1699840,40,B Control F #2 137 caro,carorep2,1699880,BControl,N,Caro,BF,ControlF,BControl,0.999976469,2.35E-05
+139,B Control M #2 139 caro,B,Control,B Control M #2 139 caro,M,N,471040,40,B Control M #2 139 caro,carorep2,471080,BControl,N,Caro,BM,ControlM,BControl,0.999915089,8.49E-05
+141,B Control F #3 141 caro,B,Control,B Control F #3 141 caro,F,N,2263040,240,B Control F #3 141 caro,carorep2,2263280,BControl,N,Caro,BF,ControlF,BControl,0.999893959,0.000106041
+143,B Control M #3 143 caro,B,Control,B Control M #3 143 caro,M,N,358400,320,B Control M #3 143 caro,carorep2,358720,BControl,N,Caro,BM,ControlM,BControl,0.999107939,0.000892061
+145,L Choice F #1 145 caro,L,Choice,L Choice F #1 145 caro,F,N,727040,60,L Choice F #1 145 caro,carorep2,727100,LChoice,N,Caro,LF,ChoiceF,LChoice,0.99991748,8.25E-05
+147,L Choice M #1 147 caro,L,Choice,L Choice M #1 147 caro,M,N,81920,140,L Choice M #1 147 caro,carorep2,82060,LChoice,N,Caro,LM,ChoiceM,LChoice,0.998293931,0.001706069
+149,L Choice F #2 149 caro,L,Choice,L Choice F #2 149 caro,F,N,128000,200,L Choice F #2 149 caro,carorep2,128200,LChoice,N,Caro,LF,ChoiceF,LChoice,0.998439938,0.001560062
+151,L Choice M #2 151 caro,L,Choice,L Choice M #2 151 caro,M,N,103680,3680,L Choice M #2 151 caro,carorep2,107360,LChoice,N,Caro,LM,ChoiceM,LChoice,0.965722802,0.034277198
+157,L Control F #1 157 caro,L,Control,L Control F #1 157 caro,F,N,870400,20,L Control F #1 157 caro,carorep2,870420,LControl,N,Caro,LF,ControlF,LControl,0.999977023,2.30E-05
+159,L Control M #1 159 caro,L,Control,L Control M #1 159 caro,M,N,140800,0,L Control M #1 159 caro,carorep2,140800,LControl,N,Caro,LM,ControlM,LControl,1,0
+161,L Control F #2 161 caro,L,Control,L Control F #2 161 caro,F,N,768000,120,L Control F #2 161 caro,carorep2,768120,LControl,N,Caro,LF,ControlF,LControl,0.999843774,0.000156226
+163,L Control M #2 163 caro,L,Control,L Control M #2 163 caro,M,N,942080,0,L Control M #2 163 caro,carorep2,942080,LControl,N,Caro,LM,ControlM,LControl,1,0
+165,L Control F #3 165 caro,L,Control,L Control F #3 165 caro,F,N,921600,120,L Control F #3 165 caro,carorep2,921720,LControl,N,Caro,LF,ControlF,LControl,0.999869809,0.000130191
+167,L Control M #3 167 caro,L,Control,L Control M #3 167 caro,M,N,111360,180,L Control M #3 167 caro,carorep2,111540,LControl,N,Caro,LM,ControlM,LControl,0.998386229,0.001613771
+169,D Choice F #1 169 caro,D,Choice,D Choice F #1 169 caro,F,N,175360,1800,D Choice F #1 169 caro,carorep2,177160,DChoice,N,Caro,DF,ChoiceF,DChoice,0.989839693,0.010160307
+171,D Choice M #1 171 caro,D,Choice,D Choice M #1 171 caro,M,N,80640,280,D Choice M #1 171 caro,carorep2,80920,DChoice,N,Caro,DM,ChoiceM,DChoice,0.996539792,0.003460208
+173,D Choice F #2 173 caro,D,Choice,D Choice F #2 173 caro,F,N,522240,0,D Choice F #2 173 caro,carorep2,522240,DChoice,N,Caro,DF,ChoiceF,DChoice,1,0
+175,D Choice M #2 175 caro,D,Choice,D Choice M #2 175 caro,M,N,139520,20,D Choice M #2 175 caro,carorep2,139540,DChoice,N,Caro,DM,ChoiceM,DChoice,0.999856672,0.000143328
+181,D Control F #1 181 caro,D,Control,D Control F #1 181 caro,F,N,880640,20,D Control F #1 181 caro,carorep2,880660,DControl,N,Caro,DF,ControlF,DControl,0.99997729,2.27E-05
+183,D Control M #1 183 caro,D,Control,D Control M #1 183 caro,M,N,87040,0,D Control M #1 183 caro,carorep2,87040,DControl,N,Caro,DM,ControlM,DControl,1,0
+185,D Control F #2 185 caro,D,Control,D Control F #2 185 caro,F,N,358400,0,D Control F #2 185 caro,carorep2,358400,DControl,N,Caro,DF,ControlF,DControl,1,0
+187,D Control M #2 187 caro,D,Control,D Control M #2 187 caro,M,N,450560,0,D Control M #2 187 caro,carorep2,450560,DControl,N,Caro,DM,ControlM,DControl,1,0
+189,D Control F #3 189 caro,D,Control,D Control F #3 189 caro,F,N,2488320,160,D Control F #3 189 caro,carorep2,2488480,DControl,N,Caro,DF,ControlF,DControl,0.999935704,6.43E-05
+191,D Control M #3 191 caro,D,Control,D Control M #3 191 caro,M,N,296960,60,D Control M #3 191 caro,carorep2,297020,DControl,N,Caro,DM,ControlM,DControl,0.999797993,0.000202007
+193,VA Choice F #1 193 caro,VA,Choice,VA Choice F #1 193 caro,F,N,1495040,40,VA Choice F #1 193 caro,carorep2,1495080,VAChoice,N,Caro,VAF,ChoiceF,VAChoice,0.999973246,2.68E-05
+195,VA Choice M #1 195 caro,VA,Choice,VA Choice M #1 195 caro,M,N,409600,1880,VA Choice M #1 195 caro,carorep2,411480,VAChoice,N,Caro,VAM,ChoiceM,VAChoice,0.995431127,0.004568873
+197,VA Choice F #2 197 caro,VA,Choice,VA Choice F #2 197 caro,F,N,2744320,1300,VA Choice F #2 197 caro,carorep2,2745620,VAChoice,N,Caro,VAF,ChoiceF,VAChoice,0.999526519,0.000473481
+199,VA Choice M #2 199 caro,VA,Choice,VA Choice M #2 199 caro,M,N,368640,20480,VA Choice M #2 199 caro,carorep2,389120,VAChoice,N,Caro,VAM,ChoiceM,VAChoice,0.947368421,0.052631579
+205,VA Control F #1 205 caro,VA,Control,VA Control F #1 205 caro,F,N,645120,10080,VA Control F #1 205 caro,carorep2,655200,VAControl,N,Caro,VAF,ControlF,VAControl,0.984615385,0.015384615
+207,VA Control M #1 207 caro,VA,Control,VA Control M #1 207 caro,M,N,399360,38400,VA Control M #1 207 caro,carorep2,437760,VAControl,N,Caro,VAM,ControlM,VAControl,0.912280702,0.087719298
+209,VA Control F #2 209 caro,VA,Control,VA Control F #2 209 caro,F,N,860160,580,VA Control F #2 209 caro,carorep2,860740,VAControl,N,Caro,VAF,ControlF,VAControl,0.999326161,0.000673839
+211,VA Control M #2 211 caro,VA,Control,VA Control M #2 211 caro,M,N,890880,180,VA Control M #2 211 caro,carorep2,891060,VAControl,N,Caro,VAM,ControlM,VAControl,0.999797993,0.000202007
+217,PA Choice F #1 217 caro,PA,Choice,PA Choice F #1 217 caro,F,N,1587200,1300,PA Choice F #1 217 caro,carorep2,1588500,PAChoice,N,Caro,PAF,ChoiceF,PAChoice,0.999181618,0.000818382
+219,PA Choice M #1 219 caro,PA,Choice,PA Choice M #1 219 caro,M,N,117760,20,PA Choice M #1 219 caro,carorep2,117780,PAChoice,N,Caro,PAM,ChoiceM,PAChoice,0.999830192,0.000169808
+221,PA Choice F #2 221 caro,PA,Choice,PA Choice F #2 221 caro,F,N,1771520,100,PA Choice F #2 221 caro,carorep2,1771620,PAChoice,N,Caro,PAF,ChoiceF,PAChoice,0.999943554,5.64E-05
+223,PA Choice M #2 223 caro,PA,Choice,PA Choice M #2 223 caro,M,N,450560,80,PA Choice M #2 223 caro,carorep2,450640,PAChoice,N,Caro,PAM,ChoiceM,PAChoice,0.999822475,0.000177525
+229,PA Control F #1 229 caro,PA,Control,PA Control F #1 229 caro,F,N,3276800,200,PA Control F #1 229 caro,carorep2,3277000,PAControl,N,Caro,PAF,ControlF,PAControl,0.999938969,6.10E-05
+231,PA Control M #1 231 caro,PA,Control,PA Control M #1 231 caro,M,N,389120,760,PA Control M #1 231 caro,carorep2,389880,PAControl,N,Caro,PAM,ControlM,PAControl,0.998050682,0.001949318
+233,PA Control F #2 233 caro,PA,Control,PA Control F #2 233 caro,F,N,952320,100,PA Control F #2 233 caro,carorep2,952420,PAControl,N,Caro,PAF,ControlF,PAControl,0.999895004,0.000104996
+235,PA Control M #2 235 caro,PA,Control,PA Control M #2 235 caro,M,N,655360,800,PA Control M #2 235 caro,carorep2,656160,PAControl,N,Caro,PAM,ControlM,PAControl,0.998780785,0.001219215
+241,B Choice F #1 241 caro,B,Choice,B Choice F #1 241 caro,F,N,1146880,1400,B Choice F #1 241 caro,carorep3,1148280,BChoice,N,Caro,BF,ChoiceF,BChoice,0.998780785,0.001219215
+243,B Choice M #1 243 caro,B,Choice,B Choice M #1 243 caro,M,N,706560,58880,B Choice M #1 243 caro,carorep3,765440,BChoice,N,Caro,BM,ChoiceM,BChoice,0.923076923,0.076923077
+245,B Choice F #2 245 caro,B,Choice,B Choice F #2 245 caro,F,N,419840,1000,B Choice F #2 245 caro,carorep3,420840,BChoice,N,Caro,BF,ChoiceF,BChoice,0.9976238,0.0023762
+247,B Choice M #2 247 caro,B,Choice,B Choice M #2 247 caro,M,N,235520,160,B Choice M #2 247 caro,carorep3,235680,BChoice,N,Caro,BM,ChoiceM,BChoice,0.999321113,0.000678887
+253,B Control F #1 253 caro,B,Control,B Control F #1 253 caro,F,N,2549760,111360,B Control F #1 253 caro,carorep3,2661120,BControl,N,Caro,BF,ControlF,BControl,0.958152958,0.041847042
+255,B Control M #1 255 caro,B,Control,B Control M #1 255 caro,M,N,1177600,3040,B Control M #1 255 caro,carorep3,1180640,BControl,N,Caro,BM,ControlM,BControl,0.997425125,0.002574875
+257,B Control F #2 257 caro,B,Control,B Control F #2 257 caro,F,N,1433600,40960,B Control F #2 257 caro,carorep3,1474560,BControl,N,Caro,BF,ControlF,BControl,0.972222222,0.027777778
+259,B Control M #2 259 caro,B,Control,B Control M #2 259 caro,M,N,552960,600,B Control M #2 259 caro,carorep3,553560,BControl,N,Caro,BM,ControlM,BControl,0.998916107,0.001083893
+261,B Control F #3 261 caro,B,Control,B Control F #3 261 caro,F,N,2007040,6720,B Control F #3 261 caro,carorep3,2013760,BControl,N,Caro,BF,ControlF,BControl,0.996662959,0.003337041
+265,L Choice F #1 265 caro,L,Choice,L Choice F #1 265 caro,F,N,307200,380,L Choice F #1 265 caro,carorep3,307580,LChoice,N,Caro,LF,ChoiceF,LChoice,0.998764549,0.001235451
+267,L Choice M #1 267 caro,L,Choice,L Choice M #1 267 caro,M,N,116480,500,L Choice M #1 267 caro,carorep3,116980,LChoice,N,Caro,LM,ChoiceM,LChoice,0.995725765,0.004274235
+269,L Choice F #2 269 caro,L,Choice,L Choice F #2 269 caro,F,N,757760,820,L Choice F #2 269 caro,carorep3,758580,LChoice,N,Caro,LF,ChoiceF,LChoice,0.998919033,0.001080967
+271,L Choice M #2 271 caro,L,Choice,L Choice M #2 271 caro,M,N,153600,2560,L Choice M #2 271 caro,carorep3,156160,LChoice,N,Caro,LM,ChoiceM,LChoice,0.983606557,0.016393443
+273,L Choice F #3 273 caro,L,Choice,L Choice F #3 273 caro,F,N,256000,40,L Choice F #3 273 caro,carorep3,256040,LChoice,N,Caro,LF,ChoiceF,LChoice,0.999843774,0.000156226
+275,L Choice M #3 275 caro,L,Choice,L Choice M #3 275 caro,M,N,93440,1560,L Choice M #3 275 caro,carorep3,95000,LChoice,N,Caro,LM,ChoiceM,LChoice,0.983578947,0.016421053
+277,L Control F #1 277 caro,L,Control,L Control F #1 277 caro,F,N,2734080,100,L Control F #1 277 caro,carorep3,2734180,LControl,N,Caro,LF,ControlF,LControl,0.999963426,3.66E-05
+279,L Control M #1 279 caro,L,Control,L Control M #1 279 caro,M,N,849920,680,L Control M #1 279 caro,carorep3,850600,LControl,N,Caro,LM,ControlM,LControl,0.999200564,0.000799436
+281,L Control F #2 281 caro,L,Control,L Control F #2 281 caro,F,N,1566720,4480,L Control F #2 281 caro,carorep3,1571200,LControl,N,Caro,LF,ControlF,LControl,0.997148676,0.002851324
+283,L Control M #2 283 caro,L,Control,L Control M #2 283 caro,M,N,180480,300,L Control M #2 283 caro,carorep3,180780,LControl,N,Caro,LM,ControlM,LControl,0.998340524,0.001659476
+285,L Control F #3 285 caro,L,Control,L Control F #3 285 caro,F,N,1402880,20,L Control F #3 285 caro,carorep3,1402900,LControl,N,Caro,LF,ControlF,LControl,0.999985744,1.43E-05
+287,L Control M #3 287 caro,L,Control,L Control M #3 287 caro,M,N,675840,20,L Control M #3 287 caro,carorep3,675860,LControl,N,Caro,LM,ControlM,LControl,0.999970408,2.96E-05
+289,D Choice F #1 289 caro,D,Choice,D Choice F #1 289 caro,F,N,890880,160,D Choice F #1 289 caro,carorep3,891040,DChoice,N,Caro,DF,ChoiceF,DChoice,0.999820435,0.000179565
+291,D Choice M #1 291 caro,D,Choice,D Choice M #1 291 caro,M,N,706560,180,D Choice M #1 291 caro,carorep3,706740,DChoice,N,Caro,DM,ChoiceM,DChoice,0.999745309,0.000254691
+293,D Choice F #2 293 caro,D,Choice,D Choice F #2 293 caro,F,N,296960,0,D Choice F #2 293 caro,carorep3,296960,DChoice,N,Caro,DF,ChoiceF,DChoice,1,0
+295,D Choice M #2 295 caro,D,Choice,D Choice M #2 295 caro,M,N,593920,520,D Choice M #2 295 caro,carorep3,594440,DChoice,N,Caro,DM,ChoiceM,DChoice,0.999125227,0.000874773
+297,D Choice F #3 297 caro,D,Choice,D Choice F #3 297 caro,F,N,160000,120,D Choice F #3 297 caro,carorep3,160120,DChoice,N,Caro,DF,ChoiceF,DChoice,0.999250562,0.000749438
+301,D Control F #1 301 caro,D,Control,D Control F #1 301 caro,F,N,696320,0,D Control F #1 301 caro,carorep3,696320,DControl,N,Caro,DF,ControlF,DControl,1,0
+303,D Control M #1 303 caro,D,Control,D Control M #1 303 caro,M,N,186880,20,D Control M #1 303 caro,carorep3,186900,DControl,N,Caro,DM,ControlM,DControl,0.999892991,0.000107009
+305,D Control F #2 305 caro,D,Control,D Control F #2 305 caro,F,N,522240,0,D Control F #2 305 caro,carorep3,522240,DControl,N,Caro,DF,ControlF,DControl,1,0
+307,D Control M #2 307 caro,D,Control,D Control M #2 307 caro,M,N,399360,0,D Control M #2 307 caro,carorep3,399360,DControl,N,Caro,DM,ControlM,DControl,1,0
+309,D Control F #3 309 caro,D,Control,D Control F #3 309 caro,F,N,2283520,620,D Control F #3 309 caro,carorep3,2284140,DControl,N,Caro,DF,ControlF,DControl,0.999728563,0.000271437
+311,D Control M #3 311 caro,D,Control,D Control M #3 311 caro,M,N,189440,0,D Control M #3 311 caro,carorep3,189440,DControl,N,Caro,DM,ControlM,DControl,1,0
+313,VA Choice F #1 313 caro,VA,Choice,VA Choice F #1 313 caro,F,N,3010560,79360,VA Choice F #1 313 caro,carorep3,3089920,VAChoice,N,Caro,VAF,ChoiceF,VAChoice,0.974316487,0.025683513
+315,VA Choice M #1 315 caro,VA,Choice,VA Choice M #1 315 caro,M,N,337920,83200,VA Choice M #1 315 caro,carorep3,421120,VAChoice,N,Caro,VAM,ChoiceM,VAChoice,0.802431611,0.197568389
+317,VA Choice F #2 317 caro,VA,Choice,VA Choice F #2 317 caro,F,N,3235840,44800,VA Choice F #2 317 caro,carorep3,3280640,VAChoice,N,Caro,VAF,ChoiceF,VAChoice,0.986344128,0.013655872
+319,VA Choice M #2 319 caro,VA,Choice,VA Choice M #2 319 caro,M,N,348160,320,VA Choice M #2 319 caro,carorep3,348480,VAChoice,N,Caro,VAM,ChoiceM,VAChoice,0.999081726,0.000918274
+321,VA Choice F #3 321 caro,VA,Choice,VA Choice F #3 321 caro,F,N,1600,500,VA Choice F #3 321 caro,carorep3,2100,VAChoice,N,Caro,VAF,ChoiceF,VAChoice,0.761904762,0.238095238
+325,VA Control F #1 325 caro,VA,Control,VA Control F #1 325 caro,F,N,1320960,15360,VA Control F #1 325 caro,carorep3,1336320,VAControl,N,Caro,VAF,ControlF,VAControl,0.988505747,0.011494253
+327,VA Control M #1 327 caro,VA,Control,VA Control M #1 327 caro,M,N,2611200,1400,VA Control M #1 327 caro,carorep3,2612600,VAControl,N,Caro,VAM,ControlM,VAControl,0.999464135,0.000535865
+329,VA Control F #2 329 caro,VA,Control,VA Control F #2 329 caro,F,N,3112960,12800,VA Control F #2 329 caro,carorep3,3125760,VAControl,N,Caro,VAF,ControlF,VAControl,0.995904996,0.004095004
+331,VA Control M #2 331 caro,VA,Control,VA Control M #2 331 caro,M,N,1085440,320,VA Control M #2 331 caro,carorep3,1085760,VAControl,N,Caro,VAM,ControlM,VAControl,0.999705276,0.000294724
+333,VA Control F #3 333 caro,VA,Control,VA Control F #3 333 caro,F,N,3235840,17280,VA Control F #3 333 caro,carorep3,3253120,VAControl,N,Caro,VAF,ControlF,VAControl,0.994688176,0.005311824
+337,PA Choice F #1 337 caro,PA,Choice,PA Choice F #1 337 caro,F,N,1740800,2520,PA Choice F #1 337 caro,carorep3,1743320,PAChoice,N,Caro,PAF,ChoiceF,PAChoice,0.998554482,0.001445518
+339,PA Choice M #1 339 caro,PA,Choice,PA Choice M #1 339 caro,M,N,645120,1500,PA Choice M #1 339 caro,carorep3,646620,PAChoice,N,Caro,PAM,ChoiceM,PAChoice,0.997680245,0.002319755
+341,PA Choice F #2 341 caro,PA,Choice,PA Choice F #2 341 caro,F,N,1638400,6400,PA Choice F #2 341 caro,carorep3,1644800,PAChoice,N,Caro,PAF,ChoiceF,PAChoice,0.996108949,0.003891051
+343,PA Choice M #2 343 caro,PA,Choice,PA Choice M #2 343 caro,M,N,225280,4480,PA Choice M #2 343 caro,carorep3,229760,PAChoice,N,Caro,PAM,ChoiceM,PAChoice,0.980501393,0.019498607
+347,PA Choice M #3 347 caro,PA,Choice,PA Choice M #3 347 caro,M,N,257280,1740,PA Choice M #3 347 caro,carorep3,259020,PAChoice,N,Caro,PAM,ChoiceM,PAChoice,0.993282372,0.006717628
+349,PA Control F #1 349 caro,PA,Control,PA Control F #1 349 caro,F,N,1597440,0,PA Control F #1 349 caro,carorep3,1597440,PAControl,N,Caro,PAF,ControlF,PAControl,1,0
+351,PA Control M #1 351 caro,PA,Control,PA Control M #1 351 caro,M,N,768000,0,PA Control M #1 351 caro,carorep3,768000,PAControl,N,Caro,PAM,ControlM,PAControl,1,0
+353,PA Control F #2 353 caro,PA,Control,PA Control F #2 353 caro,F,N,1761280,60,PA Control F #2 353 caro,carorep3,1761340,PAControl,N,Caro,PAF,ControlF,PAControl,0.999965935,3.41E-05
+355,PA Control M #2 355 caro,PA,Control,PA Control M #2 355 caro,M,N,1976320,1460,PA Control M #2 355 caro,carorep3,1977780,PAControl,N,Caro,PAM,ControlM,PAControl,0.999261799,0.000738201
+357,PA Control F #3 357 caro,PA,Control,PA Control F #3 357 caro,F,N,2631680,480,PA Control F #3 357 caro,carorep3,2632160,PAControl,N,Caro,PAF,ControlF,PAControl,0.99981764,0.00018236
+359,PA Control M #3 359 caro,PA,Control,PA Control M #3 359 caro,M,N,952320,0,PA Control M #3 359 caro,carorep3,952320,PAControl,N,Caro,PAM,ControlM,PAControl,1,0
