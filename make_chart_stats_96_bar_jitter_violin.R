@@ -46,7 +46,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
                      mutate(mergecol = gsub(pattern = "sem", replacement = "", x = variable)) %>%
                      mutate(tempvar = paste0(testcol,"_",mergecol)), by = "tempvar") 
     } else {
-      print("hi")
+  #    print("hi")
       bac3 <- bac %>% 
         group_by(testcol) %>%
         dplyr::summarize(cfuAmean = mean(log10(cfuA+1), na.rm=T),  totalmean = mean(log10(cfuA+cfuL+1), na.rm=T)) %>%
@@ -119,7 +119,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
     cfuLclds <- c(rep("a", numvals))
   }
   
-  print(bac3)
+#  print(bac3)
   if(aceto_bottom != T) {
     bac3plot <-1 
     bac3plot <- ggplot(bac3, aes(x=testcol.x, y=value.x, fill = variable.x)) + geom_bar(stat = "identity") + 
@@ -204,7 +204,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
   
   
   
-  print(bac4)
+#  print(bac4)
   if(!is.null(yaxis_perc)) {    
     if(aceto_bottom == F) {
       bac4g <- bac4 %>% filter(variable == "lperc") %>% rbind(bac4 %>% filter(variable == "aperc") %>% mutate(value = value - (1-yaxis_perc[2])))
@@ -263,7 +263,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
     bac4plot <- bac4plot + geom_violin(data = bac4A, aes(x = testcol, y=value), alpha = 0, width = 0.6)
   }
   
-  print(bac4plot)
+ # print(bac4plot)
   ifelse(plotout == 1, 
          return(bac3plot),
          ifelse(plotout == 2, 
