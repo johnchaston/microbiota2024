@@ -67,7 +67,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
   
   bac3$value.y = ifelse(is.na(bac3$value.y),0,bac3$value.y) ## added 2023-08-12 - maybe remove if things get broken
 
-  print("hi")
+#  print("hi")
   print(paste0("N:",dim(bac)[1]))
   bac3$addcol <- bac3$value.x
   numvals <- length(table(list(bac$testcol %>% droplevels)))
