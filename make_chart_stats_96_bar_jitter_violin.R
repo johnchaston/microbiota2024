@@ -456,7 +456,7 @@ make_chart_stats_96_jitter_1mean <- function(bac, column, plotout, yaxis = NULL,
       apercclds <- as.character(ghi %>% arrange(Group2) %>% dplyr::select(Letter) %>% unlist() %>% unname())
       #   print(kruskal.test(bac$aperc ~ bac$testcol))
       cat("AAB Plot_values:")
-      print(ghi)
+   #   print(ghi)
     } else {
       apercclds <- c("a","b")
     }
