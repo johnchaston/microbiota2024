@@ -276,6 +276,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
   
 }
 
+
 make_chart_stats_96_jitter_1mean <- function(bac, column, plotout, yaxis = NULL, factorspecs = NULL, logplot = F, label_adjust = 10000, baradjust = 0, baradjust_bottom = 0, loglabeladjust = 0, aceto_bottom = F, yaxis_perc = NULL, perc_errorbars = NULL) {
   bac$testcol <- unlist(unname(bac[,column]))
   bac <- bac %>%
@@ -443,10 +444,10 @@ make_chart_stats_96_jitter_1mean <- function(bac, column, plotout, yaxis = NULL,
   }
   
   try(rm(ghi, mid_test),T)
-  cat("\n\nStats on relative abundances")
+  #cat("\n\nStats on relative abundances")
   # print(kruskal.test(bac$aperc ~ bac$testcol))
   mid_test <- kruskal.test(bac$aperc ~ bac$testcol)
-  print(paste0("chi2 ",mid_test$parameter,", ",dim(bac)[1]," = ",round(mid_test$statistic,2),", p = ",round(mid_test$p.value,4)))
+  #print(paste0("chi2 ",mid_test$parameter,", ",dim(bac)[1]," = ",round(mid_test$statistic,2),", p = ",round(mid_test$p.value,4)))
   if(kruskal.test(bac$aperc ~ bac$testcol)$p.value < 0.05) {
     if (length(table(bac$testcol))>2) {
       efg <- dunn.test(bac$aperc,bac$testcol, method = "bh", table = F, kw = F)
