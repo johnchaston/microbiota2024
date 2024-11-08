@@ -125,7 +125,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
     bac3plot <-1 
     bac3plot <- ggplot(bac3, aes(x=testcol.x, y=value.x, fill = variable.x)) + geom_bar(stat = "identity") + 
       geom_errorbar(aes(ymin =addcol-value.y, ymax = addcol+value.y), width = 0.5) +
-      scale_fill_manual(values = c("red","blue"))+
+      scale_fill_manual(values = c("red","turquoise"))+
       theme(legend.position = "bottom") + 
       geom_text(data = bac3 %>% filter(variable.x == "cfuA"), aes(x = testcol.x, y = ((total+value.y)+baradjust), label = c(cfuAclds), vjust = 1)) + #, inherit.aes = T)) +
       geom_text(data = bac3 %>% filter(variable.x == "cfuL"), aes(x = testcol.x, y = 0+baradjust_bottom, label = c(cfuLclds), vjust = 1)) + #, inherit.aes = T)+
@@ -134,7 +134,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
     bac3plot <- ggplot(bac3, aes(x=testcol.x, y=value.x, fill = variable.x)) +
       geom_bar(stat = "identity") + 
       geom_errorbar(aes(ymin =addcol-value.y, ymax = addcol+value.y), width = 0.5) +
-      scale_fill_manual(values = c("blue","red"))+
+      scale_fill_manual(values = c("turquoise","red"))+
       theme(legend.position = "bottom") +  
       geom_text(data = bac3 %>% filter(variable.x == "cfuL"), aes(x = testcol.x, y = ((total+value.y)+baradjust), label = c(cfuLclds), vjust = 1)) +
       geom_text(data = bac3 %>% filter(variable.x == "cfuA"), aes(x = testcol.x, y = 0+baradjust_bottom, label = c(cfuAclds), vjust = 1)) + 
@@ -213,7 +213,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
  #     print(1)
       bac4plot <- ggplot(data = NULL) + 
         geom_bar(data = bac4g, aes(x = testcol, y = value, fill = variable), stat="identity") + 
-        scale_fill_manual(values = c("red","blue"))+
+        scale_fill_manual(values = c("red","turquoise"))+
         theme(legend.position = "bottom") + 
         geom_text(data = bac4 %>% filter(variable == "aperc"), aes(x = testcol, y = yaxis_perc[2]+loglabeladjust, label = c(apercclds), vjust = 0))+
         ylim(yaxis_perc*1.001) +
@@ -224,7 +224,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
       bac4g$variablerev = factor(bac4g$variable, levels = rev(levels(bac4g$variable)))
       bac4plot <- ggplot(data = NULL) + 
         geom_bar(data = bac4g, aes(x = testcol, y = value, fill = variablerev), stat="identity") + 
-        scale_fill_manual(values = c("blue","red"))+
+        scale_fill_manual(values = c("turquoise","red"))+
         theme(legend.position = "bottom") + 
         geom_text(data = bac4g %>% filter(variable == "aperc"), aes(x = testcol, y = yaxis_perc[2]+loglabeladjust, label = c(apercclds), vjust = 0))+
         ylim(yaxis_perc*1.001) +
@@ -236,7 +236,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
  #     print(3)
       bac4plot <- ggplot(data = NULL) + 
         geom_bar(data = bac4g, aes(x = testcol, y = value, fill = variable), stat="identity") + 
-        scale_fill_manual(values = c("red","blue"))+
+        scale_fill_manual(values = c("red","turquoise"))+
         theme(legend.position = "bottom") + 
         geom_text(data = bac4g %>% filter(variable == "aperc"), aes(x = testcol, y = yaxis_perc[2]+loglabeladjust, label = c(apercclds), vjust = 0))+
         theme_cowplot() 
@@ -246,7 +246,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
       bac4c$variablerev = factor(bac4c$variable, levels = rev(levels(bac4c$variable)))
       bac4plot <- ggplot(data = NULL) + 
         geom_bar(data = bac4g, aes(x = testcol, y = value, fill = variablerev), stat="identity") + 
-        scale_fill_manual(values = c("red","blue"))+
+        scale_fill_manual(values = c("red","turquoise"))+
         theme(legend.position = "bottom") + 
         geom_text(data = bac4g %>% filter(variable == "aperc"), aes(x = testcol, y = yaxis_perc[2]+loglabeladjust, label = c(apercclds), vjust = 0))+
         theme_cowplot() 
@@ -402,7 +402,7 @@ make_chart_stats_96_jitter_1mean <- function(bac, column, plotout, yaxis = NULL,
     bac3plot <-1 
     bac3plot <- ggplot(bac3, aes(x=testcol.x, y=value.x, fill = variable.x)) + geom_bar(stat = "identity") + 
       geom_errorbar(aes(ymin =addcol-value.y, ymax = addcol+value.y), width = 0.5) +
-      scale_fill_manual(values = c("red","blue"))+
+      scale_fill_manual(values = c("red","turquoise"))+
       theme(legend.position = "bottom") + 
       geom_text(data = bac3 %>% filter(variable.x == "cfuA"), aes(x = testcol.x, y = ((total+value.y)+baradjust), label = c(cfuAclds), vjust = 1)) + #, inherit.aes = T)) +
       geom_text(data = bac3 %>% filter(variable.x == "cfuL"), aes(x = testcol.x, y = 0+baradjust_bottom, label = c(cfuLclds), vjust = 1)) + #, inherit.aes = T)+
@@ -411,7 +411,7 @@ make_chart_stats_96_jitter_1mean <- function(bac, column, plotout, yaxis = NULL,
     bac3plot <- ggplot(bac3, aes(x=testcol.x, y=value.x, fill = variable.x)) +
       geom_bar(stat = "identity") + 
       geom_errorbar(aes(ymin =addcol-value.y, ymax = addcol+value.y), width = 0.5) +
-      scale_fill_manual(values = c("blue","red"))+
+      scale_fill_manual(values = c("turquoise","red"))+
       theme(legend.position = "bottom") +  
       geom_text(data = bac3 %>% filter(variable.x == "cfuL"), aes(x = testcol.x, y = ((total+value.y)+baradjust), label = c(cfuLclds), vjust = 1)) +
       geom_text(data = bac3 %>% filter(variable.x == "cfuA"), aes(x = testcol.x, y = 0+baradjust_bottom, label = c(cfuAclds), vjust = 1)) + 
@@ -469,7 +469,7 @@ make_chart_stats_96_jitter_1mean <- function(bac, column, plotout, yaxis = NULL,
     if(aceto_bottom == F) {
       bac4g <- bac4 %>% filter(variable == "lperc") %>% rbind(bac4 %>% filter(variable == "aperc") %>% mutate(value = value - (1-yaxis_perc[2])))
       bac4plot <- ggplot(bac4g, aes(x=testcol, y=value, fill = variable)) + geom_bar(stat = "identity") +
-        scale_fill_manual(values = c("red","blue"))+
+        scale_fill_manual(values = c("red","turquoise"))+
         theme(legend.position = "bottom") + 
         geom_text(data = bac4 %>% filter(variable == "aperc"), aes(x = testcol, y = yaxis_perc[2]+loglabeladjust, label = c(apercclds), vjust = 0))+
         ylim(yaxis_perc*1.001)+
@@ -480,7 +480,7 @@ make_chart_stats_96_jitter_1mean <- function(bac, column, plotout, yaxis = NULL,
       bac4g$variablerev = factor(bac4g$variable, levels = rev(levels(bac4g$variable)))
       #  print(2)
       bac4plot <- ggplot(bac4g, aes(x=testcol, y=value, fill = variablerev)) + geom_bar(stat = "identity") +
-        scale_fill_manual(values = c("blue","red"))+
+        scale_fill_manual(values = c("turquoise","red"))+
         theme(legend.position = "bottom") + 
         geom_text(data = bac4g %>% filter(variable == "aperc"), aes(x = testcol, y = yaxis_perc[2]+loglabeladjust, label = c(apercclds), vjust = 0))+
         ylim(yaxis_perc*1.001) +
@@ -490,7 +490,7 @@ make_chart_stats_96_jitter_1mean <- function(bac, column, plotout, yaxis = NULL,
     if(aceto_bottom == F) {
       #   print(3)
       bac4plot <- ggplot(bac4, aes(x=testcol, y=value, fill = variable)) + geom_bar(stat = "identity") +
-        scale_fill_manual(values = c("red","blue"))+
+        scale_fill_manual(values = c("red","turquoise"))+
         theme(legend.position = "bottom") + 
         geom_text(data = bac4 %>% filter(variable == "aperc"), aes(x = testcol, y = 1+loglabeladjust, label = c(apercclds), vjust = 0))+
         #       geom_errorbar(aes(ymin = addcol - semA , ymax = addcol+semA), width = 0.5) +
@@ -500,7 +500,7 @@ make_chart_stats_96_jitter_1mean <- function(bac, column, plotout, yaxis = NULL,
       bac4c <- bac4 %>% filter(variable == "lperc") %>% rbind(bac4 %>% filter(variable == "aperc"))
       bac4c$variablerev = factor(bac4c$variable, levels = rev(levels(bac4c$variable)))
       bac4plot <- ggplot(bac4c, aes(x=testcol, y=value, fill = variablerev)) + geom_bar(stat = "identity") +
-        scale_fill_manual(values = c("blue","red"))+
+        scale_fill_manual(values = c("turquoise","red"))+
         theme(legend.position = "bottom") + 
         geom_text(data = bac4c %>% filter(variable == "aperc"), aes(x = testcol, y = 1+loglabeladjust, label = c(apercclds), vjust = 0))+
         #        geom_errorbar(aes(ymin = addcol - semA , ymax = addcol+semA), width = 0.5) +
