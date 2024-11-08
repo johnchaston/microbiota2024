@@ -256,7 +256,7 @@ make_chart_stats_96_bar_jitter_violin <- function(bac, column, plotout, yaxis = 
   
   if(!is.null(add_jitter)) {    
     set.seed(43)
-    bac4plot <- bac4plot + geom_jitter(data = bac4A %>% filter(variable == "lperc"), aes(x = testcol, y=value, group = testcol), width = 0.1, alpha = .4, size = .85, color = "white")
+    bac4plot <- bac4plot + geom_jitter(data = bac4A %>% filter(variable == "lperc"), aes(x = testcol, y=value, group = testcol), width = 0.1, alpha = .4, size = .85, color = "black")
   }
   
   if(!is.null(add_violin)) {    
